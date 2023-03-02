@@ -272,6 +272,13 @@
 
 ## others 
 
+- [maycon/DropDoc](https://github.com/maycon/DropDoc) - A small project to automate the creation of Microsoft Word malicious documents.
+- [maycon/AFLplusplus](https://github.com/maycon/AFLplusplus) - The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more!
+- [maycon/fastapi-microservices](https://github.com/maycon/fastapi-microservices) - Fully Python async FastAPI project! 🚀
+- [maycon/ysoserial](https://github.com/maycon/ysoserial) - A proof-of-concept tool for generating payloads that exploit unsafe Java object deserialization.
+- [maycon/freqtrade](https://github.com/maycon/freqtrade) - Free, open source crypto trading bot
+- [maycon/Magisk](https://github.com/maycon/Magisk) - The Magic Mask for Android
+- [maycon/jakshoo](https://github.com/maycon/jakshoo) - LD_PRELOAD rootkit
 - [hax0rgb/InsecureShop](https://github.com/hax0rgb/InsecureShop) - An Intentionally designed Vulnerable Android Application built in Kotlin.
 - [flipperdevices/flipperzero-firmware](https://github.com/flipperdevices/flipperzero-firmware) - Flipper Zero firmware source code
 - [0x90n/InfoSec-Black-Friday](https://github.com/0x90n/InfoSec-Black-Friday) - All the deals for InfoSec related software/tools this Black Friday
