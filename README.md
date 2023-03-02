@@ -32,6 +32,8 @@
 
 ## C 
 
+- [maycon/AFLplusplus](https://github.com/maycon/AFLplusplus) - The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more!
+- [maycon/jakshoo](https://github.com/maycon/jakshoo) - LD_PRELOAD rootkit
 - [flipperdevices/flipperzero-firmware](https://github.com/flipperdevices/flipperzero-firmware) - Flipper Zero firmware source code
 - [tsl0922/ttyd](https://github.com/tsl0922/ttyd) - Share your terminal over the web
 - [gerasdf/InsecureProgramming](https://github.com/gerasdf/InsecureProgramming) - Insecure Programming by Example - Teach yourself how buffer overflows, format strings, numeric bugs, and other binary security bugs work and how to exploit them
@@ -58,6 +60,7 @@
 
 ## C++ 
 
+- [maycon/Magisk](https://github.com/maycon/Magisk) - The Magic Mask for Android
 - [lief-project/LIEF](https://github.com/lief-project/LIEF) - LIEF - Library to Instrument Executable Formats
 - [S2E/s2e](https://github.com/S2E/s2e) - S2E: A platform for multi-path program analysis with selective symbolic execution.
 - [talos-vulndev/afl-dyninst](https://github.com/talos-vulndev/afl-dyninst) - American Fuzzy Lop + Dyninst == AFL Fuzzing blackbox binaries
@@ -81,6 +84,7 @@
 
 ## Java 
 
+- [maycon/ysoserial](https://github.com/maycon/ysoserial) - A proof-of-concept tool for generating payloads that exploit unsafe Java object deserialization.
 - [martinpaljak/GlobalPlatformPro](https://github.com/martinpaljak/GlobalPlatformPro) - 🌐 🔐  Manage applets and keys on JavaCard-s like a pro (via command line or from your Java project)
 - [hneemann/Digital](https://github.com/hneemann/Digital) - A digital logic designer and circuit simulator.
 - [ikarus23/MifareClassicTool](https://github.com/ikarus23/MifareClassicTool) - An Android NFC app for reading, writing, analyzing, etc. MIFARE Classic RFID tags.
@@ -144,6 +148,7 @@
 
 ## PowerShell 
 
+- [maycon/DropDoc](https://github.com/maycon/DropDoc) - A small project to automate the creation of Microsoft Word malicious documents.
 - [ferreirasc/redteam-arsenal](https://github.com/ferreirasc/redteam-arsenal) - scripts ftw
 - [p3nt4/Invoke-SocksProxy](https://github.com/p3nt4/Invoke-SocksProxy) - Socks proxy, and reverse socks server using powershell.
 - [maycon/BloodHound](https://github.com/maycon/BloodHound) - Six Degrees of Domain Admin
@@ -152,6 +157,8 @@
 
 ## Python 
 
+- [maycon/fastapi-microservices](https://github.com/maycon/fastapi-microservices) - Fully Python async FastAPI project! 🚀
+- [maycon/freqtrade](https://github.com/maycon/freqtrade) - Free, open source crypto trading bot
 - [dhondta/dronesploit](https://github.com/dhondta/dronesploit) - Drone pentesting framework console
 - [racerxdl/h2hc-2022-rfvillage](https://github.com/racerxdl/h2hc-2022-rfvillage) - H2HC 2022 - Radio Frequency Village
 - [nccgroup/ScoutSuite](https://github.com/nccgroup/ScoutSuite) - Multi-Cloud Security Auditing Tool
