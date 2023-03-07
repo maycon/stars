@@ -32,6 +32,7 @@
 
 ## C 
 
+- [brownbelt/defcon-25-workshop](https://github.com/brownbelt/defcon-25-workshop) - Windows Post-Exploitation / Malware Forward Engineering DEF CON 25 Workshop
 - [maycon/AFLplusplus](https://github.com/maycon/AFLplusplus) - The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more!
 - [maycon/jakshoo](https://github.com/maycon/jakshoo) - LD_PRELOAD rootkit
 - [flipperdevices/flipperzero-firmware](https://github.com/flipperdevices/flipperzero-firmware) - Flipper Zero firmware source code
@@ -84,6 +85,7 @@
 
 ## Java 
 
+- [gabrielemariotti/androiddev](https://github.com/gabrielemariotti/androiddev) - Quick tips/tutorials for Android developers
 - [maycon/ysoserial](https://github.com/maycon/ysoserial) - A proof-of-concept tool for generating payloads that exploit unsafe Java object deserialization.
 - [martinpaljak/GlobalPlatformPro](https://github.com/martinpaljak/GlobalPlatformPro) - 🌐 🔐  Manage applets and keys on JavaCard-s like a pro (via command line or from your Java project)
 - [hneemann/Digital](https://github.com/hneemann/Digital) - A digital logic designer and circuit simulator.
