@@ -221,7 +221,7 @@
 
 ## TypeScript 
 
-- [modagavr/pancakeswap-prediction-winner](https://github.com/modagavr/pancakeswap-prediction-winner) - 🔥 PancakeSwap is afraid of this CHROME EXTENSION (and CLI)! This bot wins almost every 5 minute BNB-USD option on PancakeSwap (and Candle Genie).
+- [modagavr/pancake-wizard](https://github.com/modagavr/pancake-wizard) - Bot for Pancake Prediction – 26 technical indicators. Make smarter predictions with Pancake Wizard – trust math, not emotions!
 
 ## Visual Basic 
 
