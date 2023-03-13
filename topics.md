@@ -99,11 +99,11 @@
 
 ## blockchain 
 
-- [modagavr/pancakeswap-prediction-winner](https://github.com/modagavr/pancakeswap-prediction-winner) - 🔥 PancakeSwap is afraid of this CHROME EXTENSION (and CLI)! This bot wins almost every 5 minute BNB-USD option on PancakeSwap (and Candle Genie).
+- [modagavr/pancake-wizard](https://github.com/modagavr/pancake-wizard) - Bot for Pancake Prediction – 26 technical indicators. Make smarter predictions with Pancake Wizard – trust math, not emotions!
 
 ## bot 
 
-- [modagavr/pancakeswap-prediction-winner](https://github.com/modagavr/pancakeswap-prediction-winner) - 🔥 PancakeSwap is afraid of this CHROME EXTENSION (and CLI)! This bot wins almost every 5 minute BNB-USD option on PancakeSwap (and Candle Genie).
+- [modagavr/pancake-wizard](https://github.com/modagavr/pancake-wizard) - Bot for Pancake Prediction – 26 technical indicators. Make smarter predictions with Pancake Wizard – trust math, not emotions!
 
 ## c 
 
@@ -128,7 +128,7 @@
 
 ## cryptocurrency 
 
-- [modagavr/pancakeswap-prediction-winner](https://github.com/modagavr/pancakeswap-prediction-winner) - 🔥 PancakeSwap is afraid of this CHROME EXTENSION (and CLI)! This bot wins almost every 5 minute BNB-USD option on PancakeSwap (and Candle Genie).
+- [modagavr/pancake-wizard](https://github.com/modagavr/pancake-wizard) - Bot for Pancake Prediction – 26 technical indicators. Make smarter predictions with Pancake Wizard – trust math, not emotions!
 - [xmrig/xmrig](https://github.com/xmrig/xmrig) - RandomX, KawPow, CryptoNight and GhostRider unified CPU/GPU miner and RandomX benchmark
 - [trezor/trezor-firmware](https://github.com/trezor/trezor-firmware) - :lock: Trezor Firmware Monorepo
 - [freqtrade/freqtrade-strategies](https://github.com/freqtrade/freqtrade-strategies) - Free trading strategies for Freqtrade bot
@@ -157,7 +157,7 @@
 
 ## ethereum 
 
-- [modagavr/pancakeswap-prediction-winner](https://github.com/modagavr/pancakeswap-prediction-winner) - 🔥 PancakeSwap is afraid of this CHROME EXTENSION (and CLI)! This bot wins almost every 5 minute BNB-USD option on PancakeSwap (and Candle Genie).
+- [modagavr/pancake-wizard](https://github.com/modagavr/pancake-wizard) - Bot for Pancake Prediction – 26 technical indicators. Make smarter predictions with Pancake Wizard – trust math, not emotions!
 
 ## flask 
 
