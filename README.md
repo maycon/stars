@@ -221,7 +221,7 @@
 
 ## TypeScript 
 
-- [modagavr/pancake-wizard](https://github.com/modagavr/pancake-wizard) - Bot for Pancake Prediction – 26 technical indicators. Make smarter predictions with Pancake Wizard – trust math, not emotions!
+- [modagavr/pancake-wizard](https://github.com/modagavr/pancake-wizard) - 🐱🪄🥞 Bot for Pancake Prediction – 26 technical indicators. Make smarter predictions with Pancake Wizard – trust math, not emotions!
 
 ## Visual Basic 
 
