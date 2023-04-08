@@ -22,6 +22,7 @@
 - [devops](#devops)
 - [discord](#discord)
 - [docker](#docker)
+- [education](#education)
 - [emulator](#emulator)
 - [ethereum](#ethereum)
 - [flask](#flask)
@@ -150,6 +151,10 @@
 - [nginx-proxy/nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) - Automated nginx proxy for Docker containers using docker-gen
 - [subspacecloud/subspace](https://github.com/subspacecloud/subspace) - A simple WireGuard VPN server GUI
 - [dockcross/dockcross](https://github.com/dockcross/dockcross) - Cross compiling toolchains in Docker images
+
+## education 
+
+- [hneemann/Digital](https://github.com/hneemann/Digital) - A digital logic designer and circuit simulator.
 
 ## emulator 
 
@@ -288,7 +293,6 @@
 - [racerxdl/h2hc-2022-rfvillage](https://github.com/racerxdl/h2hc-2022-rfvillage) - H2HC 2022 - Radio Frequency Village
 - [chesteroni/kitgen](https://github.com/chesteroni/kitgen) - Linux bootkit generator
 - [DarkCoderSc/SubSeven](https://github.com/DarkCoderSc/SubSeven) - SubSeven Legacy Official Source Code Repository
-- [hneemann/Digital](https://github.com/hneemann/Digital) - A digital logic designer and circuit simulator.
 - [gerasdf/InsecureProgramming](https://github.com/gerasdf/InsecureProgramming) - Insecure Programming by Example - Teach yourself how buffer overflows, format strings, numeric bugs, and other binary security bugs work and how to exploit them
 - [trimstray/multitor](https://github.com/trimstray/multitor) - Create multiple TOR instances with a load-balancing.
 - [obfuscator-llvm/obfuscator](https://github.com/obfuscator-llvm/obfuscator) - 
