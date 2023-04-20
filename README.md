@@ -41,7 +41,6 @@
 - [Siguza/iometa](https://github.com/Siguza/iometa) - arm64 IOKit class dumper
 - [otavioarj/SHook](https://github.com/otavioarj/SHook) - Simple Linux Kernel &gt;=4 syscall hooking
 - [xmrig/xmrig](https://github.com/xmrig/xmrig) - RandomX, KawPow, CryptoNight and GhostRider unified CPU/GPU miner and RandomX benchmark
-- [trezor/trezor-firmware](https://github.com/trezor/trezor-firmware) - :lock: Trezor Firmware Monorepo
 - [djkaty/Il2CppInspector](https://github.com/djkaty/Il2CppInspector) - Powerful automated tool for reverse engineering Unity IL2CPP binaries
 - [julioverne/screendump](https://github.com/julioverne/screendump) - 
 - [hacksysteam/HackSysExtremeVulnerableDriver](https://github.com/hacksysteam/HackSysExtremeVulnerableDriver) - HackSys Extreme Vulnerable Windows Driver (HEVD)
@@ -180,6 +179,7 @@
 - [froggleston/cryptofrog-strategies](https://github.com/froggleston/cryptofrog-strategies) - Strategies for freqtrade
 - [jaungiers/LSTM-Neural-Network-for-Time-Series-Prediction](https://github.com/jaungiers/LSTM-Neural-Network-for-Time-Series-Prediction) - LSTM built using Keras Python package to predict time series steps and sequences. Includes sin wave and stock market data
 - [caioluders/DPWO](https://github.com/caioluders/DPWO) - DPWO
+- [trezor/trezor-firmware](https://github.com/trezor/trezor-firmware) - :lock: Trezor Firmware Monorepo
 - [freqtrade/freqtrade-strategies](https://github.com/freqtrade/freqtrade-strategies) - Free trading strategies for Freqtrade bot
 - [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot
 - [angr/angr](https://github.com/angr/angr) - A powerful and user-friendly binary analysis platform!
