@@ -49,6 +49,7 @@
 - [osint](#osint)
 - [others](#others)
 - [parsing](#parsing)
+- [penetration-testing](#penetration-testing)
 - [postgresql](#postgresql)
 - [powershell](#powershell)
 - [python](#python)
@@ -351,6 +352,10 @@
 ## parsing 
 
 - [lief-project/LIEF](https://github.com/lief-project/LIEF) - LIEF - Library to Instrument Executable Formats
+
+## penetration-testing 
+
+- [daffainfo/AllAboutBugBounty](https://github.com/daffainfo/AllAboutBugBounty) - All about bug bounty (bypasses, payloads, and etc)
 
 ## postgresql 
 
