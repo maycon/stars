@@ -32,6 +32,7 @@
 
 ## C 
 
+- [iqiyi/xHook](https://github.com/iqiyi/xHook) - 🔥 A PLT hook library for Android native ELF.
 - [brownbelt/defcon-25-workshop](https://github.com/brownbelt/defcon-25-workshop) - Windows Post-Exploitation / Malware Forward Engineering DEF CON 25 Workshop
 - [maycon/AFLplusplus](https://github.com/maycon/AFLplusplus) - The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more!
 - [maycon/jakshoo](https://github.com/maycon/jakshoo) - LD_PRELOAD rootkit
@@ -61,6 +62,7 @@
 
 ## C++ 
 
+- [microsoft/Detours](https://github.com/microsoft/Detours) - Detours is a software package for monitoring and instrumenting API calls on Windows.  It is distributed in source code form.
 - [maycon/Magisk](https://github.com/maycon/Magisk) - The Magic Mask for Android
 - [lief-project/LIEF](https://github.com/lief-project/LIEF) - LIEF - Library to Instrument Executable Formats
 - [S2E/s2e](https://github.com/S2E/s2e) - S2E: A platform for multi-path program analysis with selective symbolic execution.
@@ -204,6 +206,7 @@
 
 ## Rust 
 
+- [ergrelet/windiff](https://github.com/ergrelet/windiff) - Web-based tool that allows browsing and comparing symbol and type information of Microsoft Windows binaries across different versions of the OS.
 - [skerkour/black-hat-rust](https://github.com/skerkour/black-hat-rust) - Applied offensive security with Rust  - https://kerkour.com/black-hat-rust
 
 ## Shell 
