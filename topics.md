@@ -63,10 +63,12 @@
 - [testing](#testing)
 - [twitter](#twitter)
 - [unity](#unity)
+- [web](#web)
 - [windows](#windows)
 
 ## android 
 
+- [iqiyi/xHook](https://github.com/iqiyi/xHook) - 🔥 A PLT hook library for Android native ELF.
 - [lief-project/LIEF](https://github.com/lief-project/LIEF) - LIEF - Library to Instrument Executable Formats
 - [ikarus23/MifareClassicTool](https://github.com/ikarus23/MifareClassicTool) - An Android NFC app for reading, writing, analyzing, etc. MIFARE Classic RFID tags.
 - [sensepost/objection](https://github.com/sensepost/objection) - 📱 objection - runtime mobile exploration
@@ -206,6 +208,7 @@
 
 ## hacktoberfest 
 
+- [microsoft/Detours](https://github.com/microsoft/Detours) - Detours is a software package for monitoring and instrumenting API calls on Windows.  It is distributed in source code form.
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Protect and discover secrets using Gitleaks 🔑
 - [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud 
 - [caioluders/DPWO](https://github.com/caioluders/DPWO) - DPWO
@@ -385,6 +388,7 @@
 
 ## reverse-engineering 
 
+- [ergrelet/windiff](https://github.com/ergrelet/windiff) - Web-based tool that allows browsing and comparing symbol and type information of Microsoft Windows binaries across different versions of the OS.
 - [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store
 - [m0bilesecurity/RMS-Runtime-Mobile-Security](https://github.com/m0bilesecurity/RMS-Runtime-Mobile-Security) - Runtime Mobile Security (RMS) 📱🔥  - is a powerful web interface that helps you to manipulate Android and iOS Apps at Runtime
 - [lief-project/LIEF](https://github.com/lief-project/LIEF) - LIEF - Library to Instrument Executable Formats
@@ -444,8 +448,13 @@
 
 - [djkaty/Il2CppInspector](https://github.com/djkaty/Il2CppInspector) - Powerful automated tool for reverse engineering Unity IL2CPP binaries
 
+## web 
+
+- [ergrelet/windiff](https://github.com/ergrelet/windiff) - Web-based tool that allows browsing and comparing symbol and type information of Microsoft Windows binaries across different versions of the OS.
+
 ## windows 
 
+- [ergrelet/windiff](https://github.com/ergrelet/windiff) - Web-based tool that allows browsing and comparing symbol and type information of Microsoft Windows binaries across different versions of the OS.
 - [S2E/s2e](https://github.com/S2E/s2e) - S2E: A platform for multi-path program analysis with selective symbolic execution.
 - [hacksysteam/HackSysExtremeVulnerableDriver](https://github.com/hacksysteam/HackSysExtremeVulnerableDriver) - HackSys Extreme Vulnerable Windows Driver (HEVD)
 
