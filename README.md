@@ -208,7 +208,7 @@
 
 ## Rust 
 
-- [ergrelet/windiff](https://github.com/ergrelet/windiff) - Web-based tool that allows browsing and comparing symbol and type information of Microsoft Windows binaries across different versions of the OS.
+- [ergrelet/windiff](https://github.com/ergrelet/windiff) - Web-based tool that allows comparing symbol, type and syscall information of Microsoft Windows binaries across different versions of the OS.
 - [skerkour/black-hat-rust](https://github.com/skerkour/black-hat-rust) - Applied offensive security with Rust  - https://kerkour.com/black-hat-rust
 
 ## Shell 
