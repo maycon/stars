@@ -45,6 +45,7 @@
 - [monero](#monero)
 - [mysql](#mysql)
 - [neural-network](#neural-network)
+- [nextjs](#nextjs)
 - [open-source](#open-source)
 - [osint](#osint)
 - [others](#others)
@@ -274,6 +275,10 @@
 
 - [ivanseidel/IAMDinosaur](https://github.com/ivanseidel/IAMDinosaur) - 🦄 An Artificial Inteligence to teach Google's Dinosaur to jump cactus
 
+## nextjs 
+
+- [ergrelet/windiff](https://github.com/ergrelet/windiff) - Web-based tool that allows comparing symbol, type and syscall information of Microsoft Windows binaries across different versions of the OS.
+
 ## open-source 
 
 - [hummingbot/hummingbot](https://github.com/hummingbot/hummingbot) - Hummingbot is open source software that helps you build trading bots that run on any exchange or blockchain
@@ -392,7 +397,7 @@
 
 ## reverse-engineering 
 
-- [ergrelet/windiff](https://github.com/ergrelet/windiff) - Web-based tool that allows browsing and comparing symbol and type information of Microsoft Windows binaries across different versions of the OS.
+- [ergrelet/windiff](https://github.com/ergrelet/windiff) - Web-based tool that allows comparing symbol, type and syscall information of Microsoft Windows binaries across different versions of the OS.
 - [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store
 - [m0bilesecurity/RMS-Runtime-Mobile-Security](https://github.com/m0bilesecurity/RMS-Runtime-Mobile-Security) - Runtime Mobile Security (RMS) 📱🔥  - is a powerful web interface that helps you to manipulate Android and iOS Apps at Runtime
 - [lief-project/LIEF](https://github.com/lief-project/LIEF) - LIEF - Library to Instrument Executable Formats
@@ -409,6 +414,7 @@
 
 ## rust 
 
+- [ergrelet/windiff](https://github.com/ergrelet/windiff) - Web-based tool that allows comparing symbol, type and syscall information of Microsoft Windows binaries across different versions of the OS.
 - [skerkour/black-hat-rust](https://github.com/skerkour/black-hat-rust) - Applied offensive security with Rust  - https://kerkour.com/black-hat-rust
 - [trezor/trezor-firmware](https://github.com/trezor/trezor-firmware) - :lock: Trezor Firmware Monorepo
 
@@ -454,11 +460,11 @@
 
 ## web 
 
-- [ergrelet/windiff](https://github.com/ergrelet/windiff) - Web-based tool that allows browsing and comparing symbol and type information of Microsoft Windows binaries across different versions of the OS.
+- [ergrelet/windiff](https://github.com/ergrelet/windiff) - Web-based tool that allows comparing symbol, type and syscall information of Microsoft Windows binaries across different versions of the OS.
 
 ## windows 
 
-- [ergrelet/windiff](https://github.com/ergrelet/windiff) - Web-based tool that allows browsing and comparing symbol and type information of Microsoft Windows binaries across different versions of the OS.
+- [ergrelet/windiff](https://github.com/ergrelet/windiff) - Web-based tool that allows comparing symbol, type and syscall information of Microsoft Windows binaries across different versions of the OS.
 - [S2E/s2e](https://github.com/S2E/s2e) - S2E: A platform for multi-path program analysis with selective symbolic execution.
 - [hacksysteam/HackSysExtremeVulnerableDriver](https://github.com/hacksysteam/HackSysExtremeVulnerableDriver) - HackSys Extreme Vulnerable Windows Driver (HEVD)
 
