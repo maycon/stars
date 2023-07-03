@@ -232,6 +232,7 @@
 
 ## java 
 
+- [cckuailong/JNDI-Injection-Exploit-Plus](https://github.com/cckuailong/JNDI-Injection-Exploit-Plus) - 80+ Gadgets(30 More than ysoserial). JNDI-Injection-Exploit-Plus is a tool for generating workable JNDI links and provide background services by starting RMI server,LDAP server and HTTP server.
 - [martinpaljak/GlobalPlatformPro](https://github.com/martinpaljak/GlobalPlatformPro) - 🌐 🔐  Manage applets and keys on JavaCard-s like a pro (via command line or from your Java project)
 - [joaomatosf/JavaDeserH2HC](https://github.com/joaomatosf/JavaDeserH2HC) - Sample codes written for the Hackers to Hackers Conference magazine 2017 (H2HC).
 
