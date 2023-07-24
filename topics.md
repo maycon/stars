@@ -334,6 +334,7 @@
 - [jaungiers/LSTM-Neural-Network-for-Time-Series-Prediction](https://github.com/jaungiers/LSTM-Neural-Network-for-Time-Series-Prediction) - LSTM built using Keras Python package to predict time series steps and sequences. Includes sin wave and stock market data
 - [umermansoor/microservices](https://github.com/umermansoor/microservices) - Example of Microservices written using Flask.
 - [KingOfBugbounty/KingOfBugBountyTips](https://github.com/KingOfBugbounty/KingOfBugBountyTips) - Our main goal is to share tips from some well-known bughunters. Using recon methodology, we are able to find subdomains, apis, and tokens that are already exploitable, so we can report them. We wish t
+- [MobSF/Mobile-Security-Framework-MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) - Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and 
 - [RobinHerbots/Inputmask](https://github.com/RobinHerbots/Inputmask) - Input Mask plugin
 - [mammon/mammon.github.com](https://github.com/mammon/mammon.github.com) - Papers on reverse engineering and assembly language programming
 - [maycon/Pacman](https://github.com/maycon/Pacman) - A very buggy Pacman game written in C with OpenGL
@@ -395,7 +396,6 @@
 - [trezor/trezor-firmware](https://github.com/trezor/trezor-firmware) - :lock: Trezor Firmware Monorepo
 - [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot
 - [lief-project/LIEF](https://github.com/lief-project/LIEF) - LIEF - Library to Instrument Executable Formats
-- [MobSF/Mobile-Security-Framework-MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) - Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and 
 - [globocom/huskyCI](https://github.com/globocom/huskyCI) - Performing security tests inside your CI
 - [m8sec/nullinux](https://github.com/m8sec/nullinux) - Internal penetration testing tool for Linux that can be used to enumerate OS information, domain information, shares, directories, and users through SMB.
 - [hugsy/gef](https://github.com/hugsy/gef) - GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux
