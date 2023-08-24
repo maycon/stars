@@ -297,7 +297,7 @@
 ## others 
 
 - [x64dbg/x64dbgpy](https://github.com/x64dbg/x64dbgpy) - Automating x64dbg using Python, Snapshots:
-- [x64dbg/TitanEngine](https://github.com/x64dbg/TitanEngine) - Debug engine for x64dbg.
+- [x64dbg/TitanEngine](https://github.com/x64dbg/TitanEngine) - TitanEngine Community Edition. Debug engine used by x64dbg.
 - [Stankye/Tuts4You-Tutorials](https://github.com/Stankye/Tuts4You-Tutorials) - Collection of Tutorials from Tuts4You
 - [JackOfMostTrades/gadgetinspector](https://github.com/JackOfMostTrades/gadgetinspector) - A byte code analyzer for finding deserialization gadget chains in Java applications
 - [ashutosh1206/Crypton](https://github.com/ashutosh1206/Crypton) - Library consisting of explanation and implementation of all the existing attacks on various Encryption Systems, Digital Signatures, Key Exchange, Authentication methods along with example challenges f
