@@ -63,6 +63,7 @@
 - [terminal](#terminal)
 - [testing](#testing)
 - [twitter](#twitter)
+- [ubuntu](#ubuntu)
 - [unity](#unity)
 - [web](#web)
 - [windows](#windows)
@@ -113,6 +114,7 @@
 
 ## c 
 
+- [carloslack/KoviD](https://github.com/carloslack/KoviD) - Kernel  rk
 - [trezor/trezor-firmware](https://github.com/trezor/trezor-firmware) - :lock: Trezor Firmware Monorepo
 - [openwall/john](https://github.com/openwall/john) - John the Ripper jumbo - advanced offline password cracker, which supports hundreds of hash and cipher types, and runs on many operating systems, CPUs, GPUs, and even some FPGAs
 - [radareorg/radare2](https://github.com/radareorg/radare2) - UNIX-like reverse engineering framework and command-line toolset
@@ -252,6 +254,7 @@
 
 ## linux 
 
+- [carloslack/KoviD](https://github.com/carloslack/KoviD) - Kernel  rk
 - [S2E/s2e](https://github.com/S2E/s2e) - S2E: A platform for multi-path program analysis with selective symbolic execution.
 - [hacksysteam/HackSysExtremeVulnerableDriver](https://github.com/hacksysteam/HackSysExtremeVulnerableDriver) - HackSys Extreme Vulnerable Driver (HEVD) - Windows & Linux
 - [mauri870/linux-insides](https://github.com/mauri870/linux-insides) - Um pouco sobre o kernel linux
@@ -427,6 +430,7 @@
 
 ## rust 
 
+- [carloslack/KoviD](https://github.com/carloslack/KoviD) - Kernel  rk
 - [ergrelet/windiff](https://github.com/ergrelet/windiff) - Web-based tool that allows comparing symbol, type and syscall information of Microsoft Windows binaries across different versions of the OS.
 - [skerkour/black-hat-rust](https://github.com/skerkour/black-hat-rust) - Applied offensive security with Rust  - https://kerkour.com/black-hat-rust
 - [trezor/trezor-firmware](https://github.com/trezor/trezor-firmware) - :lock: Trezor Firmware Monorepo
@@ -467,6 +471,10 @@
 ## twitter 
 
 - [GorvGoyl/Clone-Wars](https://github.com/GorvGoyl/Clone-Wars) - 100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.
+
+## ubuntu 
+
+- [carloslack/KoviD](https://github.com/carloslack/KoviD) - Kernel  rk
 
 ## unity 
 
