@@ -32,6 +32,7 @@
 
 ## C 
 
+- [carloslack/KoviD](https://github.com/carloslack/KoviD) - Kernel  rk
 - [x64dbg/x64dbgpy](https://github.com/x64dbg/x64dbgpy) - Automating x64dbg using Python, Snapshots:
 - [iqiyi/xHook](https://github.com/iqiyi/xHook) - 🔥 A PLT hook library for Android native ELF.
 - [brownbelt/defcon-25-workshop](https://github.com/brownbelt/defcon-25-workshop) - Windows Post-Exploitation / Malware Forward Engineering DEF CON 25 Workshop
