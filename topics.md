@@ -37,6 +37,7 @@
 - [ios](#ios)
 - [java](#java)
 - [javascript](#javascript)
+- [kubernetes](#kubernetes)
 - [laravel](#laravel)
 - [linux](#linux)
 - [machine-learning](#machine-learning)
@@ -155,6 +156,7 @@
 
 ## docker 
 
+- [containerd/containerd](https://github.com/containerd/containerd) - An open and reliable container runtime
 - [moby/moby](https://github.com/moby/moby) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 - [paurakhsharma/python-microservice-fastapi](https://github.com/paurakhsharma/python-microservice-fastapi) - Learn to build your own microservice using Python and FastAPI
 - [nginx-proxy/nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) - Automated nginx proxy for Docker containers using docker-gen
@@ -217,6 +219,7 @@
 
 ## hacktoberfest 
 
+- [containerd/containerd](https://github.com/containerd/containerd) - An open and reliable container runtime
 - [x64dbg/ScyllaHide](https://github.com/x64dbg/ScyllaHide) - Advanced usermode anti-anti-debugger. Forked from https://bitbucket.org/NtQuery/scyllahide
 - [microsoft/Detours](https://github.com/microsoft/Detours) - Detours is a software package for monitoring and instrumenting API calls on Windows.  It is distributed in source code form.
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Protect and discover secrets using Gitleaks 🔑
@@ -247,6 +250,10 @@
 
 - [shaka-project/shaka-player](https://github.com/shaka-project/shaka-player) - JavaScript player library / DASH & HLS client / MSE-EME player
 - [globocom/huskyCI](https://github.com/globocom/huskyCI) - Performing security tests inside your CI
+
+## kubernetes 
+
+- [containerd/containerd](https://github.com/containerd/containerd) - An open and reliable container runtime
 
 ## laravel 
 
@@ -299,6 +306,7 @@
 
 ## others 
 
+- [moby/swarmkit](https://github.com/moby/swarmkit) - A toolkit for orchestrating distributed systems at any scale. It includes primitives for node discovery, raft-based consensus, task scheduling and more.
 - [x64dbg/x64dbgpy](https://github.com/x64dbg/x64dbgpy) - Automating x64dbg using Python, Snapshots:
 - [x64dbg/TitanEngine](https://github.com/x64dbg/TitanEngine) - TitanEngine Community Edition. Debug engine used by x64dbg.
 - [Stankye/Tuts4You-Tutorials](https://github.com/Stankye/Tuts4You-Tutorials) - Collection of Tutorials from Tuts4You
