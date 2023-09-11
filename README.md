@@ -9,6 +9,7 @@
 - [C#](#c#)
 - [C++](#c++)
 - [Go](#go)
+- [HCL](#hcl)
 - [HTML](#html)
 - [Java](#java)
 - [JavaScript](#javascript)
@@ -90,6 +91,10 @@
 - [jpillora/chisel](https://github.com/jpillora/chisel) - A fast TCP/UDP tunnel over HTTP
 - [kgretzky/evilginx2](https://github.com/kgretzky/evilginx2) - Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication
 - [michenriksen/aquatone](https://github.com/michenriksen/aquatone) - A Tool for Domain Flyovers
+
+## HCL 
+
+- [do-community/terraform-sample-digitalocean-architectures](https://github.com/do-community/terraform-sample-digitalocean-architectures) - Deployable Production Cloud Architectures for use on DigitalOcean via Terraform
 
 ## HTML 
 
