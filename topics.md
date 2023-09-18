@@ -161,6 +161,7 @@
 
 ## docker 
 
+- [ansible-collections/community.docker](https://github.com/ansible-collections/community.docker) - Community Docker Collection for Ansible: modules and plugins for working with Docker
 - [containerd/containerd](https://github.com/containerd/containerd) - An open and reliable container runtime
 - [moby/moby](https://github.com/moby/moby) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 - [paurakhsharma/python-microservice-fastapi](https://github.com/paurakhsharma/python-microservice-fastapi) - Learn to build your own microservice using Python and FastAPI
@@ -226,6 +227,7 @@
 
 ## hacktoberfest 
 
+- [ansible-collections/community.docker](https://github.com/ansible-collections/community.docker) - Community Docker Collection for Ansible: modules and plugins for working with Docker
 - [do-community/terraform-sample-digitalocean-architectures](https://github.com/do-community/terraform-sample-digitalocean-architectures) - Deployable Production Cloud Architectures for use on DigitalOcean via Terraform
 - [containerd/containerd](https://github.com/containerd/containerd) - An open and reliable container runtime
 - [x64dbg/ScyllaHide](https://github.com/x64dbg/ScyllaHide) - Advanced usermode anti-anti-debugger. Forked from https://bitbucket.org/NtQuery/scyllahide
