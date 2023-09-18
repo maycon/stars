@@ -180,6 +180,7 @@
 
 ## Python 
 
+- [ansible-collections/community.docker](https://github.com/ansible-collections/community.docker) - Community Docker Collection for Ansible: modules and plugins for working with Docker
 - [ashutosh1206/Crypton](https://github.com/ashutosh1206/Crypton) - Library consisting of explanation and implementation of all the existing attacks on various Encryption Systems, Digital Signatures, Key Exchange, Authentication methods along with example challenges f
 - [maycon/fastapi-microservices](https://github.com/maycon/fastapi-microservices) - Fully Python async FastAPI project! 🚀
 - [maycon/freqtrade](https://github.com/maycon/freqtrade) - Free, open source crypto trading bot
