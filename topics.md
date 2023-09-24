@@ -316,6 +316,7 @@
 
 ## others 
 
+- [viniciuspereiras/zap](https://github.com/viniciuspereiras/zap) - Whatsapp Bot model using whatsapp-web.js
 - [moby/swarmkit](https://github.com/moby/swarmkit) - A toolkit for orchestrating distributed systems at any scale. It includes primitives for node discovery, raft-based consensus, task scheduling and more.
 - [x64dbg/x64dbgpy](https://github.com/x64dbg/x64dbgpy) - Automating x64dbg using Python, Snapshots:
 - [x64dbg/TitanEngine](https://github.com/x64dbg/TitanEngine) - TitanEngine Community Edition. Debug engine used by x64dbg.
