@@ -61,6 +61,7 @@
 - [rust](#rust)
 - [security](#security)
 - [self-hosted](#self-hosted)
+- [solidity](#solidity)
 - [swift](#swift)
 - [terminal](#terminal)
 - [testing](#testing)
@@ -112,6 +113,7 @@
 
 ## blockchain 
 
+- [shanzson/Smart-Contract-Auditor-Tools-and-Techniques](https://github.com/shanzson/Smart-Contract-Auditor-Tools-and-Techniques) - This repo contains a comprehensive list of smart contract auditor tools and techniques that can be utilized by both smart contract auditors and blockchain developers for developing secure smart contra
 - [modagavr/pancake-wizard](https://github.com/modagavr/pancake-wizard) - 🐱🪄🥞 Bot for PancakeSwap Prediction – 26 technical indicators. Make smarter predictions with Pancake Wizard – trust math, not emotions!
 
 ## bot 
@@ -179,6 +181,7 @@
 
 ## ethereum 
 
+- [shanzson/Smart-Contract-Auditor-Tools-and-Techniques](https://github.com/shanzson/Smart-Contract-Auditor-Tools-and-Techniques) - This repo contains a comprehensive list of smart contract auditor tools and techniques that can be utilized by both smart contract auditors and blockchain developers for developing secure smart contra
 - [modagavr/pancake-wizard](https://github.com/modagavr/pancake-wizard) - 🐱🪄🥞 Bot for PancakeSwap Prediction – 26 technical indicators. Make smarter predictions with Pancake Wizard – trust math, not emotions!
 
 ## flask 
@@ -316,6 +319,7 @@
 
 ## others 
 
+- [razzorsec/AuditorsRoadmap](https://github.com/razzorsec/AuditorsRoadmap) - 
 - [viniciuspereiras/zap](https://github.com/viniciuspereiras/zap) - Whatsapp Bot model using whatsapp-web.js
 - [moby/swarmkit](https://github.com/moby/swarmkit) - A toolkit for orchestrating distributed systems at any scale. It includes primitives for node discovery, raft-based consensus, task scheduling and more.
 - [x64dbg/x64dbgpy](https://github.com/x64dbg/x64dbgpy) - Automating x64dbg using Python, Snapshots:
@@ -474,6 +478,10 @@
 ## self-hosted 
 
 - [subspacecloud/subspace](https://github.com/subspacecloud/subspace) - A simple WireGuard VPN server GUI
+
+## solidity 
+
+- [shanzson/Smart-Contract-Auditor-Tools-and-Techniques](https://github.com/shanzson/Smart-Contract-Auditor-Tools-and-Techniques) - This repo contains a comprehensive list of smart contract auditor tools and techniques that can be utilized by both smart contract auditors and blockchain developers for developing secure smart contra
 
 ## swift 
 
