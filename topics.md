@@ -205,12 +205,14 @@
 
 ## go 
 
+- [sleeyax/burp-awesome-tls](https://github.com/sleeyax/burp-awesome-tls) - Fixes Burp Suite's poor TLS stack. Bypass WAF, spoof any browser.
 - [moby/moby](https://github.com/moby/moby) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Protect and discover secrets using Gitleaks 🔑
 - [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store
 
 ## golang 
 
+- [sleeyax/burp-awesome-tls](https://github.com/sleeyax/burp-awesome-tls) - Fixes Burp Suite's poor TLS stack. Bypass WAF, spoof any browser.
 - [moby/moby](https://github.com/moby/moby) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Protect and discover secrets using Gitleaks 🔑
 - [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store
@@ -256,6 +258,7 @@
 
 ## java 
 
+- [sleeyax/burp-awesome-tls](https://github.com/sleeyax/burp-awesome-tls) - Fixes Burp Suite's poor TLS stack. Bypass WAF, spoof any browser.
 - [cckuailong/JNDI-Injection-Exploit-Plus](https://github.com/cckuailong/JNDI-Injection-Exploit-Plus) - 80+ Gadgets(30 More than ysoserial). JNDI-Injection-Exploit-Plus is a tool for generating workable JNDI links and provide background services by starting RMI server,LDAP server and HTTP server.
 - [martinpaljak/GlobalPlatformPro](https://github.com/martinpaljak/GlobalPlatformPro) - 🌐 🔐  Manage applets and keys on JavaCard-s like a pro (via command line or from your Java project)
 - [joaomatosf/JavaDeserH2HC](https://github.com/joaomatosf/JavaDeserH2HC) - Sample codes written for the Hackers to Hackers Conference magazine 2017 (H2HC).
@@ -341,7 +344,7 @@
 - [flipperdevices/flipperzero-firmware](https://github.com/flipperdevices/flipperzero-firmware) - Flipper Zero firmware source code
 - [0x90n/InfoSec-Black-Friday](https://github.com/0x90n/InfoSec-Black-Friday) - All the deals for InfoSec related software/tools this Black Friday
 - [ferreirasc/redteam-arsenal](https://github.com/ferreirasc/redteam-arsenal) - scripts ftw
-- [racerxdl/h2hc-2022-rfvillage](https://github.com/racerxdl/h2hc-2022-rfvillage) - H2HC 2022 - Radio Frequency Village
+- [racerxdl/h2hc-rfvillage](https://github.com/racerxdl/h2hc-rfvillage) - H2HC 2022 - Radio Frequency Village
 - [chesteroni/kitgen](https://github.com/chesteroni/kitgen) - Linux bootkit generator
 - [DarkCoderSc/SubSeven](https://github.com/DarkCoderSc/SubSeven) - SubSeven Legacy Official Source Code Repository
 - [gerasdf/InsecureProgramming](https://github.com/gerasdf/InsecureProgramming) - Insecure Programming by Example - Teach yourself how buffer overflows, format strings, numeric bugs, and other binary security bugs work and how to exploit them
