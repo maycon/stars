@@ -102,6 +102,7 @@
 
 ## Java 
 
+- [sleeyax/burp-awesome-tls](https://github.com/sleeyax/burp-awesome-tls) - Fixes Burp Suite's poor TLS stack. Bypass WAF, spoof any browser.
 - [JackOfMostTrades/gadgetinspector](https://github.com/JackOfMostTrades/gadgetinspector) - A byte code analyzer for finding deserialization gadget chains in Java applications
 - [cckuailong/JNDI-Injection-Exploit-Plus](https://github.com/cckuailong/JNDI-Injection-Exploit-Plus) - 80+ Gadgets(30 More than ysoserial). JNDI-Injection-Exploit-Plus is a tool for generating workable JNDI links and provide background services by starting RMI server,LDAP server and HTTP server.
 - [gabrielemariotti/androiddev](https://github.com/gabrielemariotti/androiddev) - Quick tips/tutorials for Android developers
@@ -188,7 +189,7 @@
 - [maycon/fastapi-microservices](https://github.com/maycon/fastapi-microservices) - Fully Python async FastAPI project! 🚀
 - [maycon/freqtrade](https://github.com/maycon/freqtrade) - Free, open source crypto trading bot
 - [dhondta/dronesploit](https://github.com/dhondta/dronesploit) - Drone pentesting framework console
-- [racerxdl/h2hc-2022-rfvillage](https://github.com/racerxdl/h2hc-2022-rfvillage) - H2HC 2022 - Radio Frequency Village
+- [racerxdl/h2hc-rfvillage](https://github.com/racerxdl/h2hc-rfvillage) - H2HC 2022 - Radio Frequency Village
 - [nccgroup/ScoutSuite](https://github.com/nccgroup/ScoutSuite) - Multi-Cloud Security Auditing Tool
 - [knownsec/pocsuite3](https://github.com/knownsec/pocsuite3) - pocsuite3 is an open-sourced remote vulnerability testing framework developed by the Knownsec 404 Team.
 - [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud 
