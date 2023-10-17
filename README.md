@@ -247,6 +247,7 @@
 
 ## Solidity 
 
+- [PumpkingWok/CTFGym](https://github.com/PumpkingWok/CTFGym) - List of CTF related to Ethereum world (solidity smart contracts)
 - [vira-lata/viralatafinance-contracts](https://github.com/vira-lata/viralatafinance-contracts) - 
 
 ## TypeScript 
