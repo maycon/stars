@@ -13,6 +13,7 @@
 - [HTML](#html)
 - [Java](#java)
 - [JavaScript](#javascript)
+- [Jinja](#jinja)
 - [Kotlin](#kotlin)
 - [MATLAB](#matlab)
 - [Makefile](#makefile)
@@ -126,6 +127,10 @@
 - [RobinHerbots/Inputmask](https://github.com/RobinHerbots/Inputmask) - Input Mask plugin
 - [felamos/weirdhta](https://github.com/felamos/weirdhta) - A tool to create obfuscated HTA script.
 - [ivanseidel/IAMDinosaur](https://github.com/ivanseidel/IAMDinosaur) - 🦄 An Artificial Inteligence to teach Google's Dinosaur to jump cactus
+
+## Jinja 
+
+- [splunk/attack_range](https://github.com/splunk/attack_range) - A tool that allows you to create vulnerable instrumented local or cloud environments to simulate attacks against and collect the data into Splunk
 
 ## Kotlin 
 
