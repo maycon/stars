@@ -332,6 +332,7 @@
 
 ## others 
 
+- [splunk/attack_range](https://github.com/splunk/attack_range) - A tool that allows you to create vulnerable instrumented local or cloud environments to simulate attacks against and collect the data into Splunk
 - [OpenZeppelin/ethernaut](https://github.com/OpenZeppelin/ethernaut) - Web3/Solidity based wargame
 - [razzorsec/AuditorsRoadmap](https://github.com/razzorsec/AuditorsRoadmap) - 
 - [viniciuspereiras/zap](https://github.com/viniciuspereiras/zap) - Whatsapp Bot model using whatsapp-web.js
