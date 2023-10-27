@@ -99,6 +99,7 @@
 
 ## HTML 
 
+- [six2dez/reconftw](https://github.com/six2dez/reconftw) - reconFTW is a tool designed to perform automated recon on a target domain by running the best set of tools to perform scanning and finding out vulnerabilities
 - [subspacecloud/subspace](https://github.com/subspacecloud/subspace) - A simple WireGuard VPN server GUI
 
 ## Java 
@@ -245,6 +246,7 @@
 
 ## Shell 
 
+- [bruzistico/zigwaf](https://github.com/bruzistico/zigwaf) - The purpose of this tool is to try to validate if real IPs (predefined list) resolve to the site behind the WAF.
 - [screetsec/Sudomy](https://github.com/screetsec/Sudomy) - Sudomy is a subdomain enumeration tool to collect subdomains and analyzing domains performing automated reconnaissance (recon) for bug hunting / pentesting
 - [chesteroni/kitgen](https://github.com/chesteroni/kitgen) - Linux bootkit generator
 - [trimstray/multitor](https://github.com/trimstray/multitor) - Create multiple TOR instances with a load-balancing.
