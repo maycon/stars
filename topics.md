@@ -61,6 +61,7 @@
 - [rust](#rust)
 - [security](#security)
 - [self-hosted](#self-hosted)
+- [serverless](#serverless)
 - [solidity](#solidity)
 - [swift](#swift)
 - [terminal](#terminal)
@@ -94,6 +95,7 @@
 
 ## aws 
 
+- [fyoorer/ShadowClone](https://github.com/fyoorer/ShadowClone) - Unleash the power of cloud
 - [nccgroup/ScoutSuite](https://github.com/nccgroup/ScoutSuite) - Multi-Cloud Security Auditing Tool
 
 ## azure 
@@ -334,6 +336,7 @@
 
 ## others 
 
+- [honoki/bbrf-client](https://github.com/honoki/bbrf-client) - The Bug Bounty Reconnaissance Framework (BBRF) can help you coordinate your reconnaissance workflows across multiple devices
 - [semigodking/redsocks](https://github.com/semigodking/redsocks) - transparent redirector of any TCP/UDP connection to proxy
 - [darkk/redsocks](https://github.com/darkk/redsocks) - transparent TCP-to-proxy redirector
 - [bruzistico/zigwaf](https://github.com/bruzistico/zigwaf) - The purpose of this tool is to try to validate if real IPs (predefined list) resolve to the site behind the WAF.
@@ -502,6 +505,10 @@
 ## self-hosted 
 
 - [subspacecloud/subspace](https://github.com/subspacecloud/subspace) - A simple WireGuard VPN server GUI
+
+## serverless 
+
+- [fyoorer/ShadowClone](https://github.com/fyoorer/ShadowClone) - Unleash the power of cloud
 
 ## solidity 
 
