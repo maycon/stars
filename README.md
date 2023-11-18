@@ -8,6 +8,7 @@
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
+- [CMake](#cmake)
 - [Go](#go)
 - [HCL](#hcl)
 - [HTML](#html)
@@ -79,6 +80,10 @@
 - [talos-vulndev/afl-dyninst](https://github.com/talos-vulndev/afl-dyninst) - American Fuzzy Lop + Dyninst == AFL Fuzzing blackbox binaries
 - [REhints/HexRaysCodeXplorer](https://github.com/REhints/HexRaysCodeXplorer) - Hex-Rays Decompiler plugin for better code navigation
 - [otavioarj/KiInjector](https://github.com/otavioarj/KiInjector) - Kindly Win x86/x64 DLL Injector
+
+## CMake 
+
+- [otavioarj/Gaspar](https://github.com/otavioarj/Gaspar) - 
 
 ## Go 
 
