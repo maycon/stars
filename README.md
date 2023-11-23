@@ -37,7 +37,7 @@
 
 - [semigodking/redsocks](https://github.com/semigodking/redsocks) - transparent redirector of any TCP/UDP connection to proxy
 - [darkk/redsocks](https://github.com/darkk/redsocks) - transparent TCP-to-proxy redirector
-- [carloslack/KoviD](https://github.com/carloslack/KoviD) - Kernel  rk
+- [carloslack/KoviD](https://github.com/carloslack/KoviD) - Linux kernel rootkit
 - [x64dbg/x64dbgpy](https://github.com/x64dbg/x64dbgpy) - Automating x64dbg using Python, Snapshots:
 - [iqiyi/xHook](https://github.com/iqiyi/xHook) - 🔥 A PLT hook library for Android native ELF.
 - [brownbelt/defcon-25-workshop](https://github.com/brownbelt/defcon-25-workshop) - Windows Post-Exploitation / Malware Forward Engineering DEF CON 25 Workshop
