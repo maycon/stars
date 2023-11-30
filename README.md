@@ -35,6 +35,7 @@
 
 ## C 
 
+- [yasukata/zpoline](https://github.com/yasukata/zpoline) - system call hook for Linux
 - [semigodking/redsocks](https://github.com/semigodking/redsocks) - transparent redirector of any TCP/UDP connection to proxy
 - [darkk/redsocks](https://github.com/darkk/redsocks) - transparent TCP-to-proxy redirector
 - [carloslack/KoviD](https://github.com/carloslack/KoviD) - Linux kernel rootkit
