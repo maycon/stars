@@ -35,6 +35,7 @@
 
 ## C 
 
+- [telekom-security/tpotce](https://github.com/telekom-security/tpotce) - 🍯 T-Pot - The All In One Honeypot Platform 🐝
 - [yasukata/zpoline](https://github.com/yasukata/zpoline) - system call hook for Linux
 - [semigodking/redsocks](https://github.com/semigodking/redsocks) - transparent redirector of any TCP/UDP connection to proxy
 - [darkk/redsocks](https://github.com/darkk/redsocks) - transparent TCP-to-proxy redirector
@@ -202,6 +203,7 @@
 
 ## Python 
 
+- [mushorg/conpot](https://github.com/mushorg/conpot) - ICS/SCADA honeypot
 - [androguard/androguard](https://github.com/androguard/androguard) - Reverse engineering and pentesting for Android applications
 - [fyoorer/ShadowClone](https://github.com/fyoorer/ShadowClone) - Unleash the power of cloud
 - [honoki/bbrf-client](https://github.com/honoki/bbrf-client) - The Bug Bounty Reconnaissance Framework (BBRF) can help you coordinate your reconnaissance workflows across multiple devices
