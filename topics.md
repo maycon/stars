@@ -172,6 +172,7 @@
 
 ## docker 
 
+- [telekom-security/tpotce](https://github.com/telekom-security/tpotce) - 🍯 T-Pot - The All In One Honeypot Platform 🐝
 - [ansible-collections/community.docker](https://github.com/ansible-collections/community.docker) - Community Docker Collection for Ansible: modules and plugins for working with Docker
 - [containerd/containerd](https://github.com/containerd/containerd) - An open and reliable container runtime
 - [moby/moby](https://github.com/moby/moby) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
@@ -246,6 +247,7 @@
 
 ## hacktoberfest 
 
+- [mushorg/conpot](https://github.com/mushorg/conpot) - ICS/SCADA honeypot
 - [Ciphey/Ciphey](https://github.com/Ciphey/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 - [ansible-collections/community.docker](https://github.com/ansible-collections/community.docker) - Community Docker Collection for Ansible: modules and plugins for working with Docker
 - [do-community/terraform-sample-digitalocean-architectures](https://github.com/do-community/terraform-sample-digitalocean-architectures) - Deployable Production Cloud Architectures for use on DigitalOcean via Terraform
@@ -467,6 +469,7 @@
 
 ## python 
 
+- [mushorg/conpot](https://github.com/mushorg/conpot) - ICS/SCADA honeypot
 - [Ciphey/Ciphey](https://github.com/Ciphey/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 - [dhondta/dronesploit](https://github.com/dhondta/dronesploit) - Drone pentesting framework console
 - [knownsec/pocsuite3](https://github.com/knownsec/pocsuite3) - pocsuite3 is an open-sourced remote vulnerability testing framework developed by the Knownsec 404 Team.
@@ -511,6 +514,8 @@
 
 ## security 
 
+- [mushorg/conpot](https://github.com/mushorg/conpot) - ICS/SCADA honeypot
+- [telekom-security/tpotce](https://github.com/telekom-security/tpotce) - 🍯 T-Pot - The All In One Honeypot Platform 🐝
 - [six2dez/reconftw](https://github.com/six2dez/reconftw) - reconFTW is a tool designed to perform automated recon on a target domain by running the best set of tools to perform scanning and finding out vulnerabilities
 - [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) - OpenZeppelin Contracts is a library for secure smart contract development.
 - [x64dbg/x64dbg](https://github.com/x64dbg/x64dbg) - An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis.
