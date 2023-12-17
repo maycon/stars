@@ -35,6 +35,9 @@
 
 ## C 
 
+- [n0xa/m5stick-nemo](https://github.com/n0xa/m5stick-nemo) - M5 Stick C firmware for high-tech pranks
+- [m5stack/M5StickC](https://github.com/m5stack/M5StickC) - M5StickC Arduino Library
+- [m5stack/M5StickC-Plus](https://github.com/m5stack/M5StickC-Plus) - M5StickCPlus Arduino Library
 - [telekom-security/tpotce](https://github.com/telekom-security/tpotce) - 🍯 T-Pot - The All In One Honeypot Platform 🐝
 - [yasukata/zpoline](https://github.com/yasukata/zpoline) - system call hook for Linux
 - [semigodking/redsocks](https://github.com/semigodking/redsocks) - transparent redirector of any TCP/UDP connection to proxy
