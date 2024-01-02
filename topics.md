@@ -381,7 +381,7 @@
 - [hax0rgb/InsecureShop](https://github.com/hax0rgb/InsecureShop) - An Intentionally designed Vulnerable Android Application built in Kotlin.
 - [flipperdevices/flipperzero-firmware](https://github.com/flipperdevices/flipperzero-firmware) - Flipper Zero firmware source code
 - [0x90n/InfoSec-Black-Friday](https://github.com/0x90n/InfoSec-Black-Friday) - All the deals for InfoSec related software/tools this Black Friday
-- [ferreirasc/redteam-arsenal](https://github.com/ferreirasc/redteam-arsenal) - scripts ftw
+- [ferreirasc/redteam-arsenal](https://github.com/ferreirasc/redteam-arsenal) - Some binaries/scripts that may be useful in red team/pentest exercises
 - [racerxdl/h2hc-rfvillage](https://github.com/racerxdl/h2hc-rfvillage) - H2HC 2022 - Radio Frequency Village
 - [chesteroni/kitgen](https://github.com/chesteroni/kitgen) - Linux bootkit generator
 - [DarkCoderSc/SubSeven](https://github.com/DarkCoderSc/SubSeven) - SubSeven Legacy Official Source Code Repository
