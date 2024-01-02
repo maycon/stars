@@ -201,7 +201,7 @@
 
 - [samratashok/nishang](https://github.com/samratashok/nishang) - Nishang - Offensive PowerShell for red team, penetration testing and offensive security.
 - [maycon/DropDoc](https://github.com/maycon/DropDoc) - A small project to automate the creation of Microsoft Word malicious documents.
-- [ferreirasc/redteam-arsenal](https://github.com/ferreirasc/redteam-arsenal) - scripts ftw
+- [ferreirasc/redteam-arsenal](https://github.com/ferreirasc/redteam-arsenal) - Some binaries/scripts that may be useful in red team/pentest exercises
 - [p3nt4/Invoke-SocksProxy](https://github.com/p3nt4/Invoke-SocksProxy) - Socks proxy, and reverse socks server using powershell.
 - [maycon/BloodHound](https://github.com/maycon/BloodHound) - Six Degrees of Domain Admin
 - [api0cradle/UltimateAppLockerByPassList](https://github.com/api0cradle/UltimateAppLockerByPassList) - The goal of this repository is to document the most common techniques to bypass AppLocker.
