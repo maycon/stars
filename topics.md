@@ -346,6 +346,7 @@
 
 ## others 
 
+- [r3ggi/electroniz3r](https://github.com/r3ggi/electroniz3r) - Take over macOS Electron apps' TCC permissions
 - [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
 - [sensity-ai/dot](https://github.com/sensity-ai/dot) - The Deepfake Offensive Toolkit
 - [n0xa/m5stick-nemo](https://github.com/n0xa/m5stick-nemo) - M5 Stick C firmware for high-tech pranks
