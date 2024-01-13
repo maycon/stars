@@ -30,6 +30,7 @@
 - [Rust](#rust)
 - [Shell](#shell)
 - [Solidity](#solidity)
+- [Swift](#swift)
 - [TypeScript](#typescript)
 - [Visual Basic](#visual-basic)
 
@@ -283,6 +284,10 @@
 
 - [PumpkingWok/CTFGym](https://github.com/PumpkingWok/CTFGym) - List of CTF related to Ethereum world (solidity smart contracts)
 - [vira-lata/viralatafinance-contracts](https://github.com/vira-lata/viralatafinance-contracts) - 
+
+## Swift 
+
+- [r3ggi/electroniz3r](https://github.com/r3ggi/electroniz3r) - Take over macOS Electron apps' TCC permissions
 
 ## TypeScript 
 
