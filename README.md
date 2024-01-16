@@ -271,6 +271,7 @@
 
 ## Shell 
 
+- [MegaManSec/SSH-Snake](https://github.com/MegaManSec/SSH-Snake) - SSH-Snake is a self-propagating, self-replicating, file-less script that automates the post-exploitation task of SSH private key and host discovery.
 - [bruzistico/zigwaf](https://github.com/bruzistico/zigwaf) - The purpose of this tool is to try to validate if real IPs (predefined list) resolve to the site behind the WAF.
 - [screetsec/Sudomy](https://github.com/screetsec/Sudomy) - Sudomy is a subdomain enumeration tool to collect subdomains and analyzing domains performing automated reconnaissance (recon) for bug hunting / pentesting
 - [chesteroni/kitgen](https://github.com/chesteroni/kitgen) - Linux bootkit generator
