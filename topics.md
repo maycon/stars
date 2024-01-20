@@ -60,6 +60,7 @@
 - [postgresql](#postgresql)
 - [powershell](#powershell)
 - [python](#python)
+- [rest-api](#rest-api)
 - [reverse-engineering](#reverse-engineering)
 - [ruby](#ruby)
 - [rust](#rust)
@@ -68,6 +69,7 @@
 - [serverless](#serverless)
 - [shell](#shell)
 - [solidity](#solidity)
+- [sql](#sql)
 - [sqlite](#sqlite)
 - [swift](#swift)
 - [terminal](#terminal)
@@ -209,6 +211,7 @@
 
 ## flask 
 
+- [dpgaspar/Flask-AppBuilder](https://github.com/dpgaspar/Flask-AppBuilder) - Simple and rapid application development framework, built on top of Flask. includes detailed security, auto CRUD generation for your models, google charts and much more. Demo (login with guest/welcome
 - [Allen7D/mini-shop-server](https://github.com/Allen7D/mini-shop-server) - 基于 Flask 框架开发的微信小程序后端项目，用于构建小程序商城后台 （电商相关；rbac权限管理；附带自动生成Swagger 风格的API 文档；可作「Python 项目毕设」）---- 相关博客链接:🌟
 
 ## framework 
@@ -360,6 +363,7 @@
 
 ## others 
 
+- [SK-CERT/Taranis-NG](https://github.com/SK-CERT/Taranis-NG) - Taranis NG is an OSINT gathering and analysis tool for CSIRT teams and organisations. It allows team-to-team collaboration, and contains a user portal for simple self asset management. Taranis NG was 
 - [r3ggi/electroniz3r](https://github.com/r3ggi/electroniz3r) - Take over macOS Electron apps' TCC permissions
 - [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
 - [sensity-ai/dot](https://github.com/sensity-ai/dot) - The Deepfake Offensive Toolkit
@@ -494,6 +498,7 @@
 
 ## python 
 
+- [dpgaspar/Flask-AppBuilder](https://github.com/dpgaspar/Flask-AppBuilder) - Simple and rapid application development framework, built on top of Flask. includes detailed security, auto CRUD generation for your models, google charts and much more. Demo (login with guest/welcome
 - [mushorg/conpot](https://github.com/mushorg/conpot) - ICS/SCADA honeypot
 - [Ciphey/Ciphey](https://github.com/Ciphey/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 - [dhondta/dronesploit](https://github.com/dhondta/dronesploit) - Drone pentesting framework console
@@ -509,6 +514,10 @@
 - [globocom/huskyCI](https://github.com/globocom/huskyCI) - Performing security tests inside your CI
 - [m8sec/nullinux](https://github.com/m8sec/nullinux) - Internal penetration testing tool for Linux that can be used to enumerate OS information, domain information, shares, directories, and users through SMB.
 - [hugsy/gef](https://github.com/hugsy/gef) - GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux
+
+## rest-api 
+
+- [dpgaspar/Flask-AppBuilder](https://github.com/dpgaspar/Flask-AppBuilder) - Simple and rapid application development framework, built on top of Flask. includes detailed security, auto CRUD generation for your models, google charts and much more. Demo (login with guest/welcome
 
 ## reverse-engineering 
 
@@ -581,6 +590,10 @@
 - [crytic/slither](https://github.com/crytic/slither) - Static Analyzer for Solidity and Vyper
 - [shanzson/Smart-Contract-Auditor-Tools-and-Techniques](https://github.com/shanzson/Smart-Contract-Auditor-Tools-and-Techniques) - This repo contains a comprehensive list of smart contract auditor tools and techniques that can be utilized by both smart contract auditors and blockchain developers for developing secure smart contra
 
+## sql 
+
+- [dpgaspar/Flask-AppBuilder](https://github.com/dpgaspar/Flask-AppBuilder) - Simple and rapid application development framework, built on top of Flask. includes detailed security, auto CRUD generation for your models, google charts and much more. Demo (login with guest/welcome
+
 ## sqlite 
 
 - [webhooksite/webhook.site](https://github.com/webhooksite/webhook.site) - ⚓️ Easily test HTTP webhooks with this handy tool that displays requests instantly.
@@ -611,6 +624,7 @@
 
 ## web 
 
+- [dpgaspar/Flask-AppBuilder](https://github.com/dpgaspar/Flask-AppBuilder) - Simple and rapid application development framework, built on top of Flask. includes detailed security, auto CRUD generation for your models, google charts and much more. Demo (login with guest/welcome
 - [ergrelet/windiff](https://github.com/ergrelet/windiff) - Web-based tool that allows comparing symbol, type and syscall information of Microsoft Windows binaries across different versions of the OS.
 
 ## windows 
