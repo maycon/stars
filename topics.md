@@ -41,6 +41,7 @@
 - [javascript](#javascript)
 - [kubernetes](#kubernetes)
 - [laravel](#laravel)
+- [library](#library)
 - [linux](#linux)
 - [machine-learning](#machine-learning)
 - [macos](#macos)
@@ -303,11 +304,16 @@
 
 ## kubernetes 
 
+- [kubernetes-client/python](https://github.com/kubernetes-client/python) - Official Python client library for kubernetes
 - [containerd/containerd](https://github.com/containerd/containerd) - An open and reliable container runtime
 
 ## laravel 
 
 - [webhooksite/webhook.site](https://github.com/webhooksite/webhook.site) - ⚓️ Easily test HTTP webhooks with this handy tool that displays requests instantly.
+
+## library 
+
+- [kubernetes-client/python](https://github.com/kubernetes-client/python) - Official Python client library for kubernetes
 
 ## linux 
 
