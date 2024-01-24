@@ -369,6 +369,7 @@
 
 ## others 
 
+- [ufrisk/pcileech](https://github.com/ufrisk/pcileech) - Direct Memory Access (DMA) Attack Software
 - [SK-CERT/Taranis-NG](https://github.com/SK-CERT/Taranis-NG) - Taranis NG is an OSINT gathering and analysis tool for CSIRT teams and organisations. It allows team-to-team collaboration, and contains a user portal for simple self asset management. Taranis NG was 
 - [r3ggi/electroniz3r](https://github.com/r3ggi/electroniz3r) - Take over macOS Electron apps' TCC permissions
 - [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
