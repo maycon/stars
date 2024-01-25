@@ -37,6 +37,8 @@
 
 ## C 
 
+- [iDroid-Project/openiBoot](https://github.com/iDroid-Project/openiBoot) - Collaborative development of openiBoot for the iDroid Project
+- [planetbeing/ios-jailbreak-patchfinder](https://github.com/planetbeing/ios-jailbreak-patchfinder) - Analyzes a binary iOS kernel to determine function offsets and where to apply the canonical jailbreak patches.
 - [ufrisk/pcileech](https://github.com/ufrisk/pcileech) - Direct Memory Access (DMA) Attack Software
 - [n0xa/m5stick-nemo](https://github.com/n0xa/m5stick-nemo) - M5 Stick C firmware for high-tech pranks
 - [m5stack/M5StickC](https://github.com/m5stack/M5StickC) - M5StickC Arduino Library
@@ -98,6 +100,8 @@
 
 ## Go 
 
+- [codesenberg/bombardier](https://github.com/codesenberg/bombardier) - Fast cross-platform HTTP benchmarking tool written in Go
+- [acouvreur/traefik-modsecurity-plugin](https://github.com/acouvreur/traefik-modsecurity-plugin) - Traefik plugin to proxy requests to owasp/modsecurity-crs:apache container
 - [containerd/containerd](https://github.com/containerd/containerd) - An open and reliable container runtime
 - [moby/swarmkit](https://github.com/moby/swarmkit) - A toolkit for orchestrating distributed systems at any scale. It includes primitives for node discovery, raft-based consensus, task scheduling and more.
 - [moby/moby](https://github.com/moby/moby) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
