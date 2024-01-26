@@ -196,6 +196,7 @@
 
 ## PHP 
 
+- [10up/wp-scrubber](https://github.com/10up/wp-scrubber) - BETA: This plugin provides a command-line interface for scrubbing sensitive user and comment data from a WordPress installation.
 - [projectsend/projectsend](https://github.com/projectsend/projectsend) - ProjectSend is a free, open source software that lets you share files with your clients, focused on ease of use and privacy. It supports clients groups, system users roles, statistics, multiple langua
 - [DiogoMRSilva/websitesVulnerableToSSTI](https://github.com/DiogoMRSilva/websitesVulnerableToSSTI) - Simple websites vulnerable to Server Side Template Injections(SSTI)
 
