@@ -35,6 +35,8 @@
 - [golang](#golang)
 - [hacking](#hacking)
 - [hacktoberfest](#hacktoberfest)
+- [html](#html)
+- [html5](#html5)
 - [http](#http)
 - [ios](#ios)
 - [java](#java)
@@ -284,6 +286,14 @@
 - [spotbugs/spotbugs](https://github.com/spotbugs/spotbugs) - SpotBugs is FindBugs' successor. A tool for static analysis to look for bugs in Java code.
 - [radareorg/radare2](https://github.com/radareorg/radare2) - UNIX-like reverse engineering framework and command-line toolset
 
+## html 
+
+- [novnc/noVNC](https://github.com/novnc/noVNC) - VNC client web application
+
+## html5 
+
+- [novnc/noVNC](https://github.com/novnc/noVNC) - VNC client web application
+
 ## http 
 
 - [codesenberg/bombardier](https://github.com/codesenberg/bombardier) - Fast cross-platform HTTP benchmarking tool written in Go
@@ -304,6 +314,7 @@
 
 ## javascript 
 
+- [novnc/noVNC](https://github.com/novnc/noVNC) - VNC client web application
 - [shaka-project/shaka-player](https://github.com/shaka-project/shaka-player) - JavaScript player library / DASH & HLS client / MSE-EME player
 - [globocom/huskyCI](https://github.com/globocom/huskyCI) - Performing security tests inside your CI
 
@@ -376,6 +387,7 @@
 
 ## others 
 
+- [linuxserver/docker-baseimage-kasmvnc](https://github.com/linuxserver/docker-baseimage-kasmvnc) - Base Images for remote web based Linux desktops using KasmVNC for many popular distros.
 - [10up/wp-scrubber](https://github.com/10up/wp-scrubber) - BETA: This plugin provides a command-line interface for scrubbing sensitive user and comment data from a WordPress installation.
 - [iDroid-Project/openiBoot](https://github.com/iDroid-Project/openiBoot) - Collaborative development of openiBoot for the iDroid Project
 - [planetbeing/ios-jailbreak-patchfinder](https://github.com/planetbeing/ios-jailbreak-patchfinder) - Analyzes a binary iOS kernel to determine function offsets and where to apply the canonical jailbreak patches.
