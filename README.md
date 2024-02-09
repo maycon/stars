@@ -24,6 +24,7 @@
 - [Others](#others)
 - [PHP](#php)
 - [Pascal](#pascal)
+- [Perl](#perl)
 - [PowerShell](#powershell)
 - [Python](#python)
 - [Ruby](#ruby)
@@ -204,6 +205,10 @@
 ## Pascal 
 
 - [DarkCoderSc/SubSeven](https://github.com/DarkCoderSc/SubSeven) - SubSeven Legacy Official Source Code Repository
+
+## Perl 
+
+- [htrgouvea/zarn](https://github.com/htrgouvea/zarn) - A lightweight static security analysis tool for modern Perl Apps
 
 ## PowerShell 
 
