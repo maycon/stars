@@ -388,6 +388,7 @@
 
 ## others 
 
+- [shaka-project/shaka-packager](https://github.com/shaka-project/shaka-packager) - A media packaging and development framework for VOD and Live DASH and HLS applications, supporting Common Encryption for Widevine and other DRM Systems.
 - [google/android-emulator-container-scripts](https://github.com/google/android-emulator-container-scripts) - 
 - [linuxserver/docker-baseimage-kasmvnc](https://github.com/linuxserver/docker-baseimage-kasmvnc) - Base Images for remote web based Linux desktops using KasmVNC for many popular distros.
 - [10up/wp-scrubber](https://github.com/10up/wp-scrubber) - BETA: This plugin provides a command-line interface for scrubbing sensitive user and comment data from a WordPress installation.
