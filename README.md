@@ -81,7 +81,6 @@
 ## C++ 
 
 - [shaka-project/shaka-packager](https://github.com/shaka-project/shaka-packager) - A media packaging and development framework for VOD and Live DASH and HLS applications, supporting Common Encryption for Widevine and other DRM Systems.
-- [Dr-TSNG/ZygiskNext](https://github.com/Dr-TSNG/ZygiskNext) - Standalone implementation of Zygisk
 - [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
 - [yanfengwu-syser/syserdebugger](https://github.com/yanfengwu-syser/syserdebugger) - 
 - [QBDI/QBDI](https://github.com/QBDI/QBDI) - A Dynamic Binary Instrumentation framework based on LLVM.
@@ -184,6 +183,7 @@
 
 ## Others 
 
+- [Dr-TSNG/ZygiskNext](https://github.com/Dr-TSNG/ZygiskNext) - Standalone implementation of Zygisk
 - [shanzson/Smart-Contract-Auditor-Tools-and-Techniques](https://github.com/shanzson/Smart-Contract-Auditor-Tools-and-Techniques) - This repo contains a comprehensive list of smart contract auditor tools and techniques that can be utilized by both smart contract auditors and blockchain developers for developing secure smart contra
 - [razzorsec/AuditorsRoadmap](https://github.com/razzorsec/AuditorsRoadmap) - 
 - [Stankye/Tuts4You-Tutorials](https://github.com/Stankye/Tuts4You-Tutorials) - Collection of Tutorials from Tuts4You
@@ -223,6 +223,7 @@
 
 ## Python 
 
+- [sintezcs/flask-threads](https://github.com/sintezcs/flask-threads) - A helper library to work with threads in Flask
 - [google/android-emulator-container-scripts](https://github.com/google/android-emulator-container-scripts) - 
 - [cosad3s/hfinder](https://github.com/cosad3s/hfinder) - Help recon of hostnames from specific ASN or CIDR, thanks to Robtex and BGP.HE
 - [kubernetes-client/python](https://github.com/kubernetes-client/python) - Official Python client library for kubernetes
