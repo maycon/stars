@@ -38,6 +38,7 @@
 
 ## C 
 
+- [libimobiledevice/libirecovery](https://github.com/libimobiledevice/libirecovery) - Library and utility to talk to iBoot/iBSS via USB on Mac OS X, Windows, and Linux
 - [iDroid-Project/openiBoot](https://github.com/iDroid-Project/openiBoot) - Collaborative development of openiBoot for the iDroid Project
 - [planetbeing/ios-jailbreak-patchfinder](https://github.com/planetbeing/ios-jailbreak-patchfinder) - Analyzes a binary iOS kernel to determine function offsets and where to apply the canonical jailbreak patches.
 - [ufrisk/pcileech](https://github.com/ufrisk/pcileech) - Direct Memory Access (DMA) Attack Software
