@@ -21,6 +21,7 @@
 - [cpp](#cpp)
 - [cryptocurrency](#cryptocurrency)
 - [cybersecurity](#cybersecurity)
+- [data](#data)
 - [devops](#devops)
 - [discord](#discord)
 - [docker](#docker)
@@ -178,6 +179,10 @@
 ## cybersecurity 
 
 - [MegaManSec/SSH-Snake](https://github.com/MegaManSec/SSH-Snake) - SSH-Snake is a self-propagating, self-replicating, file-less script that automates the post-exploitation task of SSH private key and host discovery.
+
+## data 
+
+- [lk-geimfari/mimesis](https://github.com/lk-geimfari/mimesis) - Mimesis is a powerful Python library that empowers developers to generate massive amounts of synthetic data efficiently.
 
 ## devops 
 
@@ -540,6 +545,7 @@
 
 ## python 
 
+- [lk-geimfari/mimesis](https://github.com/lk-geimfari/mimesis) - Mimesis is a powerful Python library that empowers developers to generate massive amounts of synthetic data efficiently.
 - [pallets/flask](https://github.com/pallets/flask) - The Python micro framework for building web applications.
 - [sintezcs/flask-threads](https://github.com/sintezcs/flask-threads) - A helper library to work with threads in Flask
 - [dpgaspar/Flask-AppBuilder](https://github.com/dpgaspar/Flask-AppBuilder) - Simple and rapid application development framework, built on top of Flask. includes detailed security, auto CRUD generation for your models, google charts and much more. Demo (login with guest/welcome
@@ -653,6 +659,7 @@
 
 ## testing 
 
+- [lk-geimfari/mimesis](https://github.com/lk-geimfari/mimesis) - Mimesis is a powerful Python library that empowers developers to generate massive amounts of synthetic data efficiently.
 - [S2E/s2e](https://github.com/S2E/s2e) - S2E: A platform for multi-path program analysis with selective symbolic execution.
 
 ## twitter 
