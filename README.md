@@ -34,7 +34,6 @@
 - [Swift](#swift)
 - [TypeScript](#typescript)
 - [VBA](#vba)
-- [Vue](#vue)
 
 ## C 
 
@@ -234,6 +233,7 @@
 - [cosad3s/hfinder](https://github.com/cosad3s/hfinder) - Help recon of hostnames from specific ASN or CIDR, thanks to Robtex and BGP.HE
 - [kubernetes-client/python](https://github.com/kubernetes-client/python) - Official Python client library for kubernetes
 - [dpgaspar/Flask-AppBuilder](https://github.com/dpgaspar/Flask-AppBuilder) - Simple and rapid application development framework, built on top of Flask. includes detailed security, auto CRUD generation for your models, google charts and much more. Demo (login with guest/welcome
+- [SK-CERT/Taranis-NG](https://github.com/SK-CERT/Taranis-NG) - Taranis NG is an OSINT gathering and analysis tool for CSIRT teams and organisations. It allows team-to-team collaboration, and contains a user portal for simple self asset management. Taranis NG was 
 - [sensity-ai/dot](https://github.com/sensity-ai/dot) - The Deepfake Offensive Toolkit
 - [MandConsultingGroup/porch-pirate](https://github.com/MandConsultingGroup/porch-pirate) - Porch Pirate is the most comprehensive Postman recon / OSINT client and framework that facilitates the automated discovery and exploitation of API endpoints and secrets committed to workspaces, collec
 - [mushorg/conpot](https://github.com/mushorg/conpot) - ICS/SCADA honeypot
@@ -323,10 +323,6 @@
 ## VBA 
 
 - [mdsecactivebreach/SharpShooter](https://github.com/mdsecactivebreach/SharpShooter) - Payload Generation Framework
-
-## Vue 
-
-- [SK-CERT/Taranis-NG](https://github.com/SK-CERT/Taranis-NG) - Taranis NG is an OSINT gathering and analysis tool for CSIRT teams and organisations. It allows team-to-team collaboration, and contains a user portal for simple self asset management. Taranis NG was 
 
 
 ## License
