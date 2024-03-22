@@ -9,6 +9,8 @@
 - [angular](#angular)
 - [ansible](#ansible)
 - [artificial-intelligence](#artificial-intelligence)
+- [awesome](#awesome)
+- [awesome-list](#awesome-list)
 - [aws](#aws)
 - [azure](#azure)
 - [bash](#bash)
@@ -109,6 +111,14 @@
 - [Ciphey/Ciphey](https://github.com/Ciphey/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 - [ivanseidel/IAMDinosaur](https://github.com/ivanseidel/IAMDinosaur) - 🦄 An Artificial Inteligence to teach Google's Dinosaur to jump cactus
 
+## awesome 
+
+- [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
+
+## awesome-list 
+
+- [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
+
 ## aws 
 
 - [fyoorer/ShadowClone](https://github.com/fyoorer/ShadowClone) - Unleash the power of cloud
@@ -179,6 +189,7 @@
 ## cybersecurity 
 
 - [MegaManSec/SSH-Snake](https://github.com/MegaManSec/SSH-Snake) - SSH-Snake is a self-propagating, self-replicating, file-less script that automates the post-exploitation task of SSH private key and host discovery.
+- [x64dbg/x64dbg](https://github.com/x64dbg/x64dbg) - An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis.
 
 ## data 
 
