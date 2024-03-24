@@ -141,6 +141,7 @@
 
 ## JavaScript 
 
+- [horsicq/Detect-It-Easy](https://github.com/horsicq/Detect-It-Easy) - Program for determining types of files for Windows, Linux and MacOS.
 - [novnc/noVNC](https://github.com/novnc/noVNC) - VNC client web application
 - [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) - OpenZeppelin Contracts is a library for secure smart contract development.
 - [OpenZeppelin/ethernaut](https://github.com/OpenZeppelin/ethernaut) - Web3/Solidity based wargame
