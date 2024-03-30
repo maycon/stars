@@ -297,6 +297,7 @@
 
 ## Shell 
 
+- [writeups/iOS](https://github.com/writeups/iOS) - Here you can find write ups for iOS Vulnerabilities that have been released.
 - [linuxserver/docker-baseimage-kasmvnc](https://github.com/linuxserver/docker-baseimage-kasmvnc) - Base Images for remote web based Linux desktops using KasmVNC for many popular distros.
 - [MegaManSec/SSH-Snake](https://github.com/MegaManSec/SSH-Snake) - SSH-Snake is a self-propagating, self-replicating, file-less script that automates the post-exploitation task of SSH private key and host discovery.
 - [six2dez/reconftw](https://github.com/six2dez/reconftw) - reconFTW is a tool designed to perform automated recon on a target domain by running the best set of tools to perform scanning and finding out vulnerabilities
