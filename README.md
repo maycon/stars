@@ -81,6 +81,7 @@
 
 ## C++ 
 
+- [futurerestore/futurerestore](https://github.com/futurerestore/futurerestore) - A hacked up idevicerestore wrapper, which allows specifying SEP and Baseband for restoring
 - [AGWA/git-crypt](https://github.com/AGWA/git-crypt) - Transparent file encryption in git
 - [shaka-project/shaka-packager](https://github.com/shaka-project/shaka-packager) - A media packaging and development framework for VOD and Live DASH and HLS applications, supporting Common Encryption for Widevine and other DRM Systems.
 - [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
