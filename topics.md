@@ -415,6 +415,7 @@
 
 ## others 
 
+- [futurerestore/futurerestore](https://github.com/futurerestore/futurerestore) - A hacked up idevicerestore wrapper, which allows specifying SEP and Baseband for restoring
 - [writeups/iOS](https://github.com/writeups/iOS) - Here you can find write ups for iOS Vulnerabilities that have been released.
 - [f0cker/crackq](https://github.com/f0cker/crackq) - CrackQ: A Python Hashcat cracking queue system
 - [AGWA/git-crypt](https://github.com/AGWA/git-crypt) - Transparent file encryption in git
