@@ -27,6 +27,7 @@
 - [devops](#devops)
 - [discord](#discord)
 - [docker](#docker)
+- [documentation](#documentation)
 - [education](#education)
 - [emulator](#emulator)
 - [ethereum](#ethereum)
@@ -44,12 +45,14 @@
 - [ios](#ios)
 - [java](#java)
 - [javascript](#javascript)
+- [jquery](#jquery)
 - [kubernetes](#kubernetes)
 - [laravel](#laravel)
 - [library](#library)
 - [linux](#linux)
 - [machine-learning](#machine-learning)
 - [macos](#macos)
+- [markdown](#markdown)
 - [microsoft](#microsoft)
 - [mobile](#mobile)
 - [monero](#monero)
@@ -215,6 +218,10 @@
 - [subspacecloud/subspace](https://github.com/subspacecloud/subspace) - A simple WireGuard VPN server GUI
 - [dockcross/dockcross](https://github.com/dockcross/dockcross) - Cross compiling toolchains in Docker images
 
+## documentation 
+
+- [nhn/tui.editor](https://github.com/nhn/tui.editor) - 🍞📝 Markdown WYSIWYG Editor. GFM Standard + Chart & UML Extensible.
+
 ## education 
 
 - [hneemann/Digital](https://github.com/hneemann/Digital) - A digital logic designer and circuit simulator.
@@ -246,6 +253,7 @@
 
 ## frontend 
 
+- [nhn/tui.editor](https://github.com/nhn/tui.editor) - 🍞📝 Markdown WYSIWYG Editor. GFM Standard + Chart & UML Extensible.
 - [webhooksite/webhook.site](https://github.com/webhooksite/webhook.site) - ⚓️ Easily test HTTP webhooks with this handy tool that displays requests instantly.
 
 ## git 
@@ -308,6 +316,7 @@
 
 ## html 
 
+- [nhn/tui.editor](https://github.com/nhn/tui.editor) - 🍞📝 Markdown WYSIWYG Editor. GFM Standard + Chart & UML Extensible.
 - [novnc/noVNC](https://github.com/novnc/noVNC) - VNC client web application
 
 ## html5 
@@ -338,6 +347,10 @@
 - [novnc/noVNC](https://github.com/novnc/noVNC) - VNC client web application
 - [shaka-project/shaka-player](https://github.com/shaka-project/shaka-player) - JavaScript player library / DASH & HLS client / MSE-EME player
 - [globocom/huskyCI](https://github.com/globocom/huskyCI) - Performing security tests inside your CI
+
+## jquery 
+
+- [nhn/tui.editor](https://github.com/nhn/tui.editor) - 🍞📝 Markdown WYSIWYG Editor. GFM Standard + Chart & UML Extensible.
 
 ## kubernetes 
 
@@ -371,6 +384,10 @@
 
 - [codesenberg/bombardier](https://github.com/codesenberg/bombardier) - Fast cross-platform HTTP benchmarking tool written in Go
 - [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store
+
+## markdown 
+
+- [nhn/tui.editor](https://github.com/nhn/tui.editor) - 🍞📝 Markdown WYSIWYG Editor. GFM Standard + Chart & UML Extensible.
 
 ## microsoft 
 
@@ -415,6 +432,10 @@
 
 ## others 
 
+- [RhinoSecurityLabs/CVEs](https://github.com/RhinoSecurityLabs/CVEs) - A collection of proof-of-concept exploit scripts written by the team at Rhino Security Labs for various CVEs.
+- [Siguza/ios-resources](https://github.com/Siguza/ios-resources) - Useful resources for iOS hacking
+- [Siguza/iokit-utils](https://github.com/Siguza/iokit-utils) - Dev tools for probing IOKit
+- [hack-different/ipsw](https://github.com/hack-different/ipsw) - iOS/macOS Research Swiss Army Knife
 - [xybp888/iOS-SDKs](https://github.com/xybp888/iOS-SDKs) - iOS 9 - iOS 17 SDK including symbols for private frameworks.
 - [futurerestore/futurerestore](https://github.com/futurerestore/futurerestore) - A hacked up idevicerestore wrapper, which allows specifying SEP and Baseband for restoring
 - [writeups/iOS](https://github.com/writeups/iOS) - Here you can find write ups for iOS Vulnerabilities that have been released.
