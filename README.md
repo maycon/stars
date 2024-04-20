@@ -17,7 +17,7 @@
 - [Jinja](#jinja)
 - [Kotlin](#kotlin)
 - [MATLAB](#matlab)
-- [Makefile](#makefile)
+- [Meson](#meson)
 - [Nim](#nim)
 - [OCaml](#ocaml)
 - [Objective-C](#objective-c)
@@ -171,7 +171,7 @@
 
 - [aeolianine/octave-networks-toolbox](https://github.com/aeolianine/octave-networks-toolbox) - A set of graph/networks analysis functions in Octave
 
-## Makefile 
+## Meson 
 
 - [frida/frida](https://github.com/frida/frida) - Clone this repo to build Frida
 
