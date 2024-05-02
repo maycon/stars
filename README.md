@@ -232,6 +232,7 @@
 
 ## Python 
 
+- [justfoxing/ghidra_bridge](https://github.com/justfoxing/ghidra_bridge) - Python 3 bridge to Ghidra's Python scripting
 - [Pennyw0rth/NetExec](https://github.com/Pennyw0rth/NetExec) - The Network Execution Tool
 - [RhinoSecurityLabs/CVEs](https://github.com/RhinoSecurityLabs/CVEs) - A collection of proof-of-concept exploit scripts written by the team at Rhino Security Labs for various CVEs.
 - [f0cker/crackq](https://github.com/f0cker/crackq) - CrackQ: A Python Hashcat cracking queue system
