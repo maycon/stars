@@ -106,6 +106,7 @@
 
 ## Go 
 
+- [dryark/stf_ios_support](https://github.com/dryark/stf_ios_support) - Central repo to connect and document components/repos needed for IOS stf support
 - [hack-different/ipsw](https://github.com/hack-different/ipsw) - iOS/macOS Research Swiss Army Knife
 - [codesenberg/bombardier](https://github.com/codesenberg/bombardier) - Fast cross-platform HTTP benchmarking tool written in Go
 - [acouvreur/traefik-modsecurity-plugin](https://github.com/acouvreur/traefik-modsecurity-plugin) - Traefik plugin to proxy requests to owasp/modsecurity-crs:apache container
@@ -145,6 +146,7 @@
 
 ## JavaScript 
 
+- [DeviceFarmer/stf](https://github.com/DeviceFarmer/stf) - Control and manage Android devices from your browser.
 - [horsicq/Detect-It-Easy](https://github.com/horsicq/Detect-It-Easy) - Program for determining types of files for Windows, Linux and MacOS.
 - [novnc/noVNC](https://github.com/novnc/noVNC) - VNC client web application
 - [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) - OpenZeppelin Contracts is a library for secure smart contract development.
@@ -232,6 +234,8 @@
 
 ## Python 
 
+- [JeffLIrion/adb_shell](https://github.com/JeffLIrion/adb_shell) - A Python implementation of ADB with shell and FileSync functionality.
+- [google/python-adb](https://github.com/google/python-adb) - Python ADB + Fastboot implementation
 - [justfoxing/ghidra_bridge](https://github.com/justfoxing/ghidra_bridge) - Python 3 bridge to Ghidra's Python scripting
 - [Pennyw0rth/NetExec](https://github.com/Pennyw0rth/NetExec) - The Network Execution Tool
 - [RhinoSecurityLabs/CVEs](https://github.com/RhinoSecurityLabs/CVEs) - A collection of proof-of-concept exploit scripts written by the team at Rhino Security Labs for various CVEs.
