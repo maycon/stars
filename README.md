@@ -234,6 +234,7 @@
 
 ## Python 
 
+- [corkami/collisions](https://github.com/corkami/collisions) - Hash collisions and exploitations
 - [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / TypeScript / Python / C# / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
 - [JeffLIrion/adb_shell](https://github.com/JeffLIrion/adb_shell) - A Python implementation of ADB with shell and FileSync functionality.
 - [google/python-adb](https://github.com/google/python-adb) - Python ADB + Fastboot implementation
