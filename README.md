@@ -37,6 +37,7 @@
 
 ## C 
 
+- [1N3/PrivEsc](https://github.com/1N3/PrivEsc) - A collection of Windows, Linux and MySQL privilege escalation scripts and exploits.
 - [Siguza/iokit-utils](https://github.com/Siguza/iokit-utils) - Dev tools for probing IOKit
 - [libimobiledevice/libirecovery](https://github.com/libimobiledevice/libirecovery) - Library and utility to talk to iBoot/iBSS via USB on Mac OS X, Windows, and Linux
 - [iDroid-Project/openiBoot](https://github.com/iDroid-Project/openiBoot) - Collaborative development of openiBoot for the iDroid Project
