@@ -295,6 +295,7 @@
 
 ## hacking 
 
+- [1N3/PrivEsc](https://github.com/1N3/PrivEsc) - A collection of Windows, Linux and MySQL privilege escalation scripts and exploits.
 - [Pennyw0rth/NetExec](https://github.com/Pennyw0rth/NetExec) - The Network Execution Tool
 - [joaoviictorti/RustRedOps](https://github.com/joaoviictorti/RustRedOps) - 🦀 | RustRedOps is a repository dedicated to gathering and sharing advanced techniques and offensive malware for Red Team, with a specific focus on the Rust programming language.
 - [MegaManSec/SSH-Snake](https://github.com/MegaManSec/SSH-Snake) - SSH-Snake is a self-propagating, self-replicating, file-less script that automates the post-exploitation task of SSH private key and host discovery.
@@ -392,6 +393,7 @@
 
 ## linux 
 
+- [1N3/PrivEsc](https://github.com/1N3/PrivEsc) - A collection of Windows, Linux and MySQL privilege escalation scripts and exploits.
 - [codesenberg/bombardier](https://github.com/codesenberg/bombardier) - Fast cross-platform HTTP benchmarking tool written in Go
 - [carloslack/KoviD](https://github.com/carloslack/KoviD) - Linux kernel rootkit
 - [S2E/s2e](https://github.com/S2E/s2e) - S2E: A platform for multi-path program analysis with selective symbolic execution.
@@ -426,6 +428,7 @@
 
 ## mysql 
 
+- [1N3/PrivEsc](https://github.com/1N3/PrivEsc) - A collection of Windows, Linux and MySQL privilege escalation scripts and exploits.
 - [Allen7D/mini-shop-server](https://github.com/Allen7D/mini-shop-server) - 基于 Flask 框架开发的微信小程序后端项目，用于构建小程序商城后台 （电商相关；rbac权限管理；附带自动生成Swagger 风格的API 文档；可作「Python 项目毕设」）---- 相关博客链接:🌟
 
 ## natural-language-processing 
@@ -583,6 +586,7 @@
 
 ## pentesting 
 
+- [1N3/PrivEsc](https://github.com/1N3/PrivEsc) - A collection of Windows, Linux and MySQL privilege escalation scripts and exploits.
 - [Pennyw0rth/NetExec](https://github.com/Pennyw0rth/NetExec) - The Network Execution Tool
 - [MegaManSec/SSH-Snake](https://github.com/MegaManSec/SSH-Snake) - SSH-Snake is a self-propagating, self-replicating, file-less script that automates the post-exploitation task of SSH private key and host discovery.
 - [androguard/androguard](https://github.com/androguard/androguard) - Reverse engineering and pentesting for Android applications
@@ -722,6 +726,7 @@
 
 ## sql 
 
+- [1N3/PrivEsc](https://github.com/1N3/PrivEsc) - A collection of Windows, Linux and MySQL privilege escalation scripts and exploits.
 - [dpgaspar/Flask-AppBuilder](https://github.com/dpgaspar/Flask-AppBuilder) - Simple and rapid application development framework, built on top of Flask. includes detailed security, auto CRUD generation for your models, google charts and much more. Demo (login with guest/welcome
 
 ## sqlite 
@@ -761,6 +766,7 @@
 
 ## windows 
 
+- [1N3/PrivEsc](https://github.com/1N3/PrivEsc) - A collection of Windows, Linux and MySQL privilege escalation scripts and exploits.
 - [Pennyw0rth/NetExec](https://github.com/Pennyw0rth/NetExec) - The Network Execution Tool
 - [joaoviictorti/RustRedOps](https://github.com/joaoviictorti/RustRedOps) - 🦀 | RustRedOps is a repository dedicated to gathering and sharing advanced techniques and offensive malware for Red Team, with a specific focus on the Rust programming language.
 - [codesenberg/bombardier](https://github.com/codesenberg/bombardier) - Fast cross-platform HTTP benchmarking tool written in Go
