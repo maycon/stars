@@ -23,6 +23,7 @@
 - [continuous-integration](#continuous-integration)
 - [cpp](#cpp)
 - [cryptocurrency](#cryptocurrency)
+- [cryptography](#cryptography)
 - [cybersecurity](#cybersecurity)
 - [data](#data)
 - [devops](#devops)
@@ -200,6 +201,12 @@
 - [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot
 - [hummingbot/hummingbot](https://github.com/hummingbot/hummingbot) - Open source software that helps you create and deploy high-frequency crypto trading bots
 - [yasinkuyu/binance-trader](https://github.com/yasinkuyu/binance-trader) - 💰 Cryptocurrency Trading Bot for Binance (Experimental)
+
+## cryptography 
+
+- [Ciphey/Ciphey](https://github.com/Ciphey/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
+- [ashutosh1206/Crypton](https://github.com/ashutosh1206/Crypton) - Library consisting of explanation and implementation of all the existing attacks on various Encryption Systems, Digital Signatures, Key Exchange, Authentication methods along with example challenges f
+- [trezor/trezor-firmware](https://github.com/trezor/trezor-firmware) - :lock: Trezor Firmware Monorepo
 
 ## cybersecurity 
 
@@ -500,7 +507,6 @@
 - [x64dbg/TitanEngine](https://github.com/x64dbg/TitanEngine) - TitanEngine Community Edition. Debug engine used by x64dbg.
 - [Stankye/Tuts4You-Tutorials](https://github.com/Stankye/Tuts4You-Tutorials) - Collection of Tutorials from Tuts4You
 - [JackOfMostTrades/gadgetinspector](https://github.com/JackOfMostTrades/gadgetinspector) - A byte code analyzer for finding deserialization gadget chains in Java applications
-- [ashutosh1206/Crypton](https://github.com/ashutosh1206/Crypton) - Library consisting of explanation and implementation of all the existing attacks on various Encryption Systems, Digital Signatures, Key Exchange, Authentication methods along with example challenges f
 - [otavioarj/Gaspar](https://github.com/otavioarj/Gaspar) - 
 - [gabrielemariotti/androiddev](https://github.com/gabrielemariotti/androiddev) - Quick tips/tutorials for Android developers
 - [brownbelt/defcon-25-workshop](https://github.com/brownbelt/defcon-25-workshop) - Windows Post-Exploitation / Malware Forward Engineering DEF CON 25 Workshop
