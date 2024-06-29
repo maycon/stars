@@ -465,6 +465,7 @@
 
 ## others 
 
+- [sknux/extractSplittedApps](https://github.com/sknux/extractSplittedApps) - 
 - [corkami/collisions](https://github.com/corkami/collisions) - Hash collisions and exploitations
 - [Nassim-Asrir/CVE-2023-36424](https://github.com/Nassim-Asrir/CVE-2023-36424) - Windows Kernel Pool (clfs.sys) Corruption Privilege Escalation
 - [dryark/stf_ios_support](https://github.com/dryark/stf_ios_support) - Central repo to connect and document components/repos needed for IOS stf support
