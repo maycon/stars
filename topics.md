@@ -465,6 +465,7 @@
 
 ## others 
 
+- [zgzhang/cve-2024-6387-poc](https://github.com/zgzhang/cve-2024-6387-poc) - a signal handler race condition in OpenSSH's server (sshd)
 - [sknux/extractSplittedApps](https://github.com/sknux/extractSplittedApps) - 
 - [corkami/collisions](https://github.com/corkami/collisions) - Hash collisions and exploitations
 - [Nassim-Asrir/CVE-2023-36424](https://github.com/Nassim-Asrir/CVE-2023-36424) - Windows Kernel Pool (clfs.sys) Corruption Privilege Escalation
