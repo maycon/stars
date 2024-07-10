@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [algorithmic-trading](#algorithmic-trading)
 - [android](#android)
 - [angular](#angular)
 - [ansible](#ansible)
@@ -18,6 +19,7 @@
 - [bitcoin](#bitcoin)
 - [blockchain](#blockchain)
 - [bot](#bot)
+- [bugbounty](#bugbounty)
 - [c](#c)
 - [cli](#cli)
 - [continuous-integration](#continuous-integration)
@@ -95,6 +97,10 @@
 - [web](#web)
 - [windows](#windows)
 
+## algorithmic-trading 
+
+- [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot
+
 ## android 
 
 - [DeviceFarmer/stf](https://github.com/DeviceFarmer/stf) - Control and manage Android devices from your browser.
@@ -165,6 +171,17 @@
 
 - [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / TypeScript / Python / C# / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
 - [modagavr/pancake-wizard](https://github.com/modagavr/pancake-wizard) - 🐱🪄🥞 Bot for PancakeSwap Prediction – 26 technical indicators. Make smarter predictions with Pancake Wizard – trust math, not emotions!
+
+## bugbounty 
+
+- [1N3/PrivEsc](https://github.com/1N3/PrivEsc) - A collection of Windows, Linux and MySQL privilege escalation scripts and exploits.
+- [cosad3s/hfinder](https://github.com/cosad3s/hfinder) - Help recon of hostnames from specific ASN or CIDR, thanks to Robtex and BGP.HE
+- [fyoorer/ShadowClone](https://github.com/fyoorer/ShadowClone) - Unleash the power of cloud
+- [six2dez/reconftw](https://github.com/six2dez/reconftw) - reconFTW is a tool designed to perform automated recon on a target domain by running the best set of tools to perform scanning and finding out vulnerabilities
+- [screetsec/Sudomy](https://github.com/screetsec/Sudomy) - Sudomy is a subdomain enumeration tool to collect subdomains and analyzing domains performing automated reconnaissance (recon) for bug hunting / pentesting
+- [FleexSecurity/fleex](https://github.com/FleexSecurity/fleex) - Fleex makes it easy to create multiple VPS on cloud providers and use them to distribute workloads.
+- [yogeshojha/rengine](https://github.com/yogeshojha/rengine) - reNgine is an automated reconnaissance framework for web applications with a focus on highly configurable streamlined recon process via Engines, recon data correlation and organization, continuous mon
+- [daffainfo/AllAboutBugBounty](https://github.com/daffainfo/AllAboutBugBounty) - All about bug bounty (bypasses, payloads, and etc)
 
 ## c 
 
