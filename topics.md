@@ -244,6 +244,7 @@
 
 ## docker 
 
+- [qemus/qemu-docker](https://github.com/qemus/qemu-docker) - QEMU in a Docker container.
 - [acouvreur/traefik-modsecurity-plugin](https://github.com/acouvreur/traefik-modsecurity-plugin) - Traefik plugin to proxy requests to owasp/modsecurity-crs:apache container
 - [telekom-security/tpotce](https://github.com/telekom-security/tpotce) - 🍯 T-Pot - The All In One Multi Honeypot Platform 🐝
 - [ansible-collections/community.docker](https://github.com/ansible-collections/community.docker) - Community Docker Collection for Ansible: modules and plugins for working with Docker
