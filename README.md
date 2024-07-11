@@ -313,6 +313,7 @@
 
 ## Shell 
 
+- [qemus/qemu-docker](https://github.com/qemus/qemu-docker) - QEMU in a Docker container.
 - [sknux/extractSplittedApps](https://github.com/sknux/extractSplittedApps) - 
 - [writeups/iOS](https://github.com/writeups/iOS) - Here you can find write ups for iOS Vulnerabilities that have been released.
 - [linuxserver/docker-baseimage-kasmvnc](https://github.com/linuxserver/docker-baseimage-kasmvnc) - Base Images for remote web based Linux desktops using KasmVNC for many popular distros.
