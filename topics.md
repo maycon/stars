@@ -95,6 +95,7 @@
 - [ubuntu](#ubuntu)
 - [unity](#unity)
 - [web](#web)
+- [webpack](#webpack)
 - [windows](#windows)
 
 ## algorithmic-trading 
@@ -227,6 +228,7 @@
 
 ## cybersecurity 
 
+- [rtcatc/Packer-Fuzzer](https://github.com/rtcatc/Packer-Fuzzer) - Packer Fuzzer is a fast and efficient scanner for security detection of websites constructed by javascript module bundler such as Webpack.
 - [MegaManSec/SSH-Snake](https://github.com/MegaManSec/SSH-Snake) - SSH-Snake is a self-propagating, self-replicating, file-less script that automates the post-exploitation task of SSH private key and host discovery.
 - [x64dbg/x64dbg](https://github.com/x64dbg/x64dbg) - An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis.
 
@@ -320,6 +322,7 @@
 
 ## hacking 
 
+- [rtcatc/Packer-Fuzzer](https://github.com/rtcatc/Packer-Fuzzer) - Packer Fuzzer is a fast and efficient scanner for security detection of websites constructed by javascript module bundler such as Webpack.
 - [1N3/PrivEsc](https://github.com/1N3/PrivEsc) - A collection of Windows, Linux and MySQL privilege escalation scripts and exploits.
 - [Pennyw0rth/NetExec](https://github.com/Pennyw0rth/NetExec) - The Network Execution Tool
 - [joaoviictorti/RustRedOps](https://github.com/joaoviictorti/RustRedOps) - 🦀 | RustRedOps is a repository for advanced Red Team techniques and offensive malware, focused on Rust
@@ -483,6 +486,7 @@
 
 ## others 
 
+- [samhocevar/zzuf](https://github.com/samhocevar/zzuf) - 🌪️ Application fuzzer
 - [zgzhang/cve-2024-6387-poc](https://github.com/zgzhang/cve-2024-6387-poc) - a signal handler race condition in OpenSSH's server (sshd)
 - [sknux/extractSplittedApps](https://github.com/sknux/extractSplittedApps) - 
 - [corkami/collisions](https://github.com/corkami/collisions) - Hash collisions and exploitations
@@ -665,6 +669,7 @@
 
 ## python3 
 
+- [rtcatc/Packer-Fuzzer](https://github.com/rtcatc/Packer-Fuzzer) - Packer Fuzzer is a fast and efficient scanner for security detection of websites constructed by javascript module bundler such as Webpack.
 - [justfoxing/ghidra_bridge](https://github.com/justfoxing/ghidra_bridge) - Python 3 bridge to Ghidra's Python scripting
 - [Pennyw0rth/NetExec](https://github.com/Pennyw0rth/NetExec) - The Network Execution Tool
 
@@ -788,6 +793,10 @@
 
 - [dpgaspar/Flask-AppBuilder](https://github.com/dpgaspar/Flask-AppBuilder) - Simple and rapid application development framework, built on top of Flask. includes detailed security, auto CRUD generation for your models, google charts and much more. Demo (login with guest/welcome
 - [ergrelet/windiff](https://github.com/ergrelet/windiff) - Web-based tool that allows comparing symbol, type and syscall information of Microsoft Windows binaries across different versions of the OS.
+
+## webpack 
+
+- [rtcatc/Packer-Fuzzer](https://github.com/rtcatc/Packer-Fuzzer) - Packer Fuzzer is a fast and efficient scanner for security detection of websites constructed by javascript module bundler such as Webpack.
 
 ## windows 
 
