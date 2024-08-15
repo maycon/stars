@@ -37,6 +37,7 @@
 
 ## C 
 
+- [samhocevar/zzuf](https://github.com/samhocevar/zzuf) - 🌪️ Application fuzzer
 - [zgzhang/cve-2024-6387-poc](https://github.com/zgzhang/cve-2024-6387-poc) - a signal handler race condition in OpenSSH's server (sshd)
 - [1N3/PrivEsc](https://github.com/1N3/PrivEsc) - A collection of Windows, Linux and MySQL privilege escalation scripts and exploits.
 - [Siguza/iokit-utils](https://github.com/Siguza/iokit-utils) - Dev tools for probing IOKit
@@ -238,6 +239,7 @@
 
 ## Python 
 
+- [rtcatc/Packer-Fuzzer](https://github.com/rtcatc/Packer-Fuzzer) - Packer Fuzzer is a fast and efficient scanner for security detection of websites constructed by javascript module bundler such as Webpack.
 - [corkami/collisions](https://github.com/corkami/collisions) - Hash collisions and exploitations
 - [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / TypeScript / Python / C# / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
 - [JeffLIrion/adb_shell](https://github.com/JeffLIrion/adb_shell) - A Python implementation of ADB with shell and FileSync functionality.
