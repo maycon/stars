@@ -325,7 +325,6 @@
 - [rtcatc/Packer-Fuzzer](https://github.com/rtcatc/Packer-Fuzzer) - Packer Fuzzer is a fast and efficient scanner for security detection of websites constructed by javascript module bundler such as Webpack.
 - [1N3/PrivEsc](https://github.com/1N3/PrivEsc) - A collection of Windows, Linux and MySQL privilege escalation scripts and exploits.
 - [Pennyw0rth/NetExec](https://github.com/Pennyw0rth/NetExec) - The Network Execution Tool
-- [joaoviictorti/RustRedOps](https://github.com/joaoviictorti/RustRedOps) - 🦀 | RustRedOps is a repository for advanced Red Team techniques and offensive malware, focused on Rust
 - [MegaManSec/SSH-Snake](https://github.com/MegaManSec/SSH-Snake) - SSH-Snake is a self-propagating, self-replicating, file-less script that automates the post-exploitation task of SSH private key and host discovery.
 - [samratashok/nishang](https://github.com/samratashok/nishang) - Nishang - Offensive PowerShell for red team, penetration testing and offensive security.
 - [six2dez/reconftw](https://github.com/six2dez/reconftw) - reconFTW is a tool designed to perform automated recon on a target domain by running the best set of tools to perform scanning and finding out vulnerabilities
