@@ -196,6 +196,7 @@
 
 ## Others 
 
+- [7etsuo/windows-api-function-cheatsheets](https://github.com/7etsuo/windows-api-function-cheatsheets) - A reference of Windows API function calls, including functions for file operations, process management, memory management, thread management, dynamic-link library (DLL) management, synchronization, in
 - [Siguza/ios-resources](https://github.com/Siguza/ios-resources) - Useful resources for iOS hacking
 - [xybp888/iOS-SDKs](https://github.com/xybp888/iOS-SDKs) - iOS 9 - iOS 17 SDK including symbols for private frameworks.
 - [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
