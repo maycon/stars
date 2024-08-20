@@ -85,6 +85,7 @@
 
 ## C++ 
 
+- [worawit/blutter](https://github.com/worawit/blutter) - Flutter Mobile Application Reverse Engineering Tool
 - [Nassim-Asrir/CVE-2023-36424](https://github.com/Nassim-Asrir/CVE-2023-36424) - Windows Kernel Pool (clfs.sys) Corruption Privilege Escalation
 - [futurerestore/futurerestore](https://github.com/futurerestore/futurerestore) - A hacked up idevicerestore wrapper, which allows specifying SEP and Baseband for restoring
 - [AGWA/git-crypt](https://github.com/AGWA/git-crypt) - Transparent file encryption in git
