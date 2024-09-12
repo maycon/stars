@@ -22,6 +22,7 @@
 - [bugbounty](#bugbounty)
 - [c](#c)
 - [c-plus-plus](#c-plus-plus)
+- [chatgpt](#chatgpt)
 - [cli](#cli)
 - [continuous-integration](#continuous-integration)
 - [cpp](#cpp)
@@ -135,10 +136,12 @@
 
 ## awesome 
 
+- [ai-boost/awesome-prompts](https://github.com/ai-boost/awesome-prompts) - Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store. Prompt Engineering, prompt attack & prompt protect. Advanced Prompt Engineering papers.
 - [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
 
 ## awesome-list 
 
+- [ai-boost/awesome-prompts](https://github.com/ai-boost/awesome-prompts) - Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store. Prompt Engineering, prompt attack & prompt protect. Advanced Prompt Engineering papers.
 - [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
 
 ## aws 
@@ -198,6 +201,10 @@
 ## c-plus-plus 
 
 - [dockcross/dockcross](https://github.com/dockcross/dockcross) - Cross compiling toolchains in Docker images
+
+## chatgpt 
+
+- [ai-boost/awesome-prompts](https://github.com/ai-boost/awesome-prompts) - Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store. Prompt Engineering, prompt attack & prompt protect. Advanced Prompt Engineering papers.
 
 ## cli 
 
@@ -497,6 +504,7 @@
 
 ## others 
 
+- [jmpews/Dobby](https://github.com/jmpews/Dobby) - a lightweight, multi-platform, multi-architecture hook framework.
 - [Ipsedo/JPEGrenade](https://github.com/Ipsedo/JPEGrenade) - JPEG decompression bomb
 - [worawit/blutter](https://github.com/worawit/blutter) - Flutter Mobile Application Reverse Engineering Tool
 - [samhocevar/zzuf](https://github.com/samhocevar/zzuf) - 🌪️ Application fuzzer
