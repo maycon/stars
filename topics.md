@@ -107,6 +107,8 @@
 
 ## android 
 
+- [ClaudiuGeorgiu/Obfuscapk](https://github.com/ClaudiuGeorgiu/Obfuscapk) - An automatic obfuscation tool for Android apps that works in a black-box fashion, supports advanced obfuscation features and has a modular architecture easily extensible with new techniques
+- [shadowsocks/shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android) - A shadowsocks client for Android
 - [DeviceFarmer/stf](https://github.com/DeviceFarmer/stf) - Control and manage Android devices from your browser.
 - [Dr-TSNG/ZygiskNext](https://github.com/Dr-TSNG/ZygiskNext) - Standalone implementation of Zygisk
 - [androguard/androguard](https://github.com/androguard/androguard) - Reverse engineering and pentesting for Android applications
@@ -505,6 +507,7 @@
 
 ## others 
 
+- [shadowsocks/shadowsocks](https://github.com/shadowsocks/shadowsocks) - 
 - [jmpews/Dobby](https://github.com/jmpews/Dobby) - a lightweight, multi-platform, multi-architecture hook framework.
 - [Ipsedo/JPEGrenade](https://github.com/Ipsedo/JPEGrenade) - JPEG decompression bomb
 - [worawit/blutter](https://github.com/worawit/blutter) - Flutter Mobile Application Reverse Engineering Tool
