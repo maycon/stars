@@ -511,6 +511,7 @@
 
 ## others 
 
+- [JakeWharton/pidcat](https://github.com/JakeWharton/pidcat) - Colored logcat script which only shows log entries for a specific application package.
 - [shadowsocks/shadowsocks](https://github.com/shadowsocks/shadowsocks) - 
 - [jmpews/Dobby](https://github.com/jmpews/Dobby) - a lightweight, multi-platform, multi-architecture hook framework.
 - [Ipsedo/JPEGrenade](https://github.com/Ipsedo/JPEGrenade) - JPEG decompression bomb
