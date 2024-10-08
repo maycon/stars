@@ -37,6 +37,8 @@
 
 ## C 
 
+- [pwn20wndstuff/patchfinder64](https://github.com/pwn20wndstuff/patchfinder64) - iOS ARM64 kernel patchfinder
+- [pwn20wndstuff/Undecimus](https://github.com/pwn20wndstuff/Undecimus) - unc0ver jailbreak for iOS 11.0 - 12.4
 - [samhocevar/zzuf](https://github.com/samhocevar/zzuf) - 🌪️ Application fuzzer
 - [zgzhang/cve-2024-6387-poc](https://github.com/zgzhang/cve-2024-6387-poc) - a signal handler race condition in OpenSSH's server (sshd)
 - [1N3/PrivEsc](https://github.com/1N3/PrivEsc) - A collection of Windows, Linux and MySQL privilege escalation scripts and exploits.
