@@ -511,6 +511,8 @@
 
 ## others 
 
+- [pwn20wndstuff/patchfinder64](https://github.com/pwn20wndstuff/patchfinder64) - iOS ARM64 kernel patchfinder
+- [pwn20wndstuff/Undecimus](https://github.com/pwn20wndstuff/Undecimus) - unc0ver jailbreak for iOS 11.0 - 12.4
 - [JakeWharton/pidcat](https://github.com/JakeWharton/pidcat) - Colored logcat script which only shows log entries for a specific application package.
 - [shadowsocks/shadowsocks](https://github.com/shadowsocks/shadowsocks) - 
 - [jmpews/Dobby](https://github.com/jmpews/Dobby) - a lightweight, multi-platform, multi-architecture hook framework.
