@@ -511,6 +511,7 @@
 
 ## others 
 
+- [static-linux/static-binaries-i386](https://github.com/static-linux/static-binaries-i386) - static binaries linux i386
 - [pwn20wndstuff/patchfinder64](https://github.com/pwn20wndstuff/patchfinder64) - iOS ARM64 kernel patchfinder
 - [pwn20wndstuff/Undecimus](https://github.com/pwn20wndstuff/Undecimus) - unc0ver jailbreak for iOS 11.0 - 12.4
 - [JakeWharton/pidcat](https://github.com/JakeWharton/pidcat) - Colored logcat script which only shows log entries for a specific application package.
