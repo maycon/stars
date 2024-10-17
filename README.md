@@ -37,6 +37,7 @@
 
 ## C 
 
+- [netero1010/EDRSilencer](https://github.com/netero1010/EDRSilencer) - A tool uses Windows Filtering Platform (WFP) to block Endpoint Detection and Response (EDR) agents from reporting security events to the server.
 - [pwn20wndstuff/patchfinder64](https://github.com/pwn20wndstuff/patchfinder64) - iOS ARM64 kernel patchfinder
 - [pwn20wndstuff/Undecimus](https://github.com/pwn20wndstuff/Undecimus) - unc0ver jailbreak for iOS 11.0 - 12.4
 - [samhocevar/zzuf](https://github.com/samhocevar/zzuf) - 🌪️ Application fuzzer
