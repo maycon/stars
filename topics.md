@@ -511,6 +511,7 @@
 
 ## others 
 
+- [wavestone-cdt/EDRSandblast](https://github.com/wavestone-cdt/EDRSandblast) - 
 - [netero1010/EDRSilencer](https://github.com/netero1010/EDRSilencer) - A tool uses Windows Filtering Platform (WFP) to block Endpoint Detection and Response (EDR) agents from reporting security events to the server.
 - [assetnote/kiterunner](https://github.com/assetnote/kiterunner) - Contextual Content Discovery Tool
 - [static-linux/static-binaries-i386](https://github.com/static-linux/static-binaries-i386) - static binaries linux i386
