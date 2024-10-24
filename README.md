@@ -163,7 +163,6 @@
 - [DeviceFarmer/stf](https://github.com/DeviceFarmer/stf) - Control and manage Android devices from your browser.
 - [horsicq/Detect-It-Easy](https://github.com/horsicq/Detect-It-Easy) - Program for determining types of files for Windows, Linux and MacOS.
 - [novnc/noVNC](https://github.com/novnc/noVNC) - VNC client web application
-- [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) - OpenZeppelin Contracts is a library for secure smart contract development.
 - [OpenZeppelin/ethernaut](https://github.com/OpenZeppelin/ethernaut) - Web3/Solidity based wargame
 - [viniciuspereiras/zap](https://github.com/viniciuspereiras/zap) - Whatsapp Bot model using whatsapp-web.js
 - [webhooksite/webhook.site](https://github.com/webhooksite/webhook.site) - ⚓️ Easily test HTTP webhooks with this handy tool that displays requests instantly.
@@ -350,6 +349,7 @@
 
 ## Solidity 
 
+- [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) - OpenZeppelin Contracts is a library for secure smart contract development.
 - [PumpkingWok/CTFGym](https://github.com/PumpkingWok/CTFGym) - List of CTF related to Ethereum world (solidity smart contracts)
 - [vira-lata/viralatafinance-contracts](https://github.com/vira-lata/viralatafinance-contracts) - 
 
