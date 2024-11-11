@@ -360,7 +360,7 @@
 
 ## TypeScript 
 
-- [p1reis/test-backend-grupo-primo](https://github.com/p1reis/test-backend-grupo-primo) - 
+- [p1reis/banking-transaction-system](https://github.com/p1reis/banking-transaction-system) - 
 - [nhn/tui.editor](https://github.com/nhn/tui.editor) - 🍞📝 Markdown WYSIWYG Editor. GFM Standard + Chart & UML Extensible.
 - [modagavr/pancake-wizard](https://github.com/modagavr/pancake-wizard) - 🐱🪄🥞 Bot for PancakeSwap Prediction – 26 technical indicators. Make smarter predictions with Pancake Wizard – trust math, not emotions!
 
