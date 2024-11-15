@@ -93,7 +93,7 @@
 - [jmpews/Dobby](https://github.com/jmpews/Dobby) - a lightweight, multi-platform, multi-architecture hook framework.
 - [Ipsedo/JPEGrenade](https://github.com/Ipsedo/JPEGrenade) - JPEG decompression bomb
 - [worawit/blutter](https://github.com/worawit/blutter) - Flutter Mobile Application Reverse Engineering Tool
-- [Nassim-Asrir/CVE-2023-36424](https://github.com/Nassim-Asrir/CVE-2023-36424) - Windows Kernel Pool (clfs.sys) Corruption Privilege Escalation
+- [zerozenxlabs/CVE-2023-36424](https://github.com/zerozenxlabs/CVE-2023-36424) - Windows Kernel Pool (clfs.sys) Corruption Privilege Escalation
 - [futurerestore/futurerestore](https://github.com/futurerestore/futurerestore) - A hacked up idevicerestore wrapper, which allows specifying SEP and Baseband for restoring
 - [AGWA/git-crypt](https://github.com/AGWA/git-crypt) - Transparent file encryption in git
 - [shaka-project/shaka-packager](https://github.com/shaka-project/shaka-packager) - A media packaging and development framework for VOD and Live DASH and HLS applications, supporting Common Encryption for Widevine and other DRM Systems.
