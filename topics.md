@@ -527,7 +527,7 @@
 - [zgzhang/cve-2024-6387-poc](https://github.com/zgzhang/cve-2024-6387-poc) - a signal handler race condition in OpenSSH's server (sshd)
 - [sknux/extractSplittedApps](https://github.com/sknux/extractSplittedApps) - 
 - [corkami/collisions](https://github.com/corkami/collisions) - Hash collisions and exploitations
-- [Nassim-Asrir/CVE-2023-36424](https://github.com/Nassim-Asrir/CVE-2023-36424) - Windows Kernel Pool (clfs.sys) Corruption Privilege Escalation
+- [zerozenxlabs/CVE-2023-36424](https://github.com/zerozenxlabs/CVE-2023-36424) - Windows Kernel Pool (clfs.sys) Corruption Privilege Escalation
 - [dryark/stf_ios_support](https://github.com/dryark/stf_ios_support) - Central repo to connect and document components/repos needed for IOS stf support
 - [google/python-adb](https://github.com/google/python-adb) - Python ADB + Fastboot implementation
 - [RhinoSecurityLabs/CVEs](https://github.com/RhinoSecurityLabs/CVEs) - A collection of proof-of-concept exploit scripts written by the team at Rhino Security Labs for various CVEs.
