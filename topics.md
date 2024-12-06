@@ -97,6 +97,7 @@
 - [twitter](#twitter)
 - [ubuntu](#ubuntu)
 - [unity](#unity)
+- [vpn](#vpn)
 - [web](#web)
 - [webpack](#webpack)
 - [windows](#windows)
@@ -828,6 +829,10 @@
 ## unity 
 
 - [djkaty/Il2CppInspector](https://github.com/djkaty/Il2CppInspector) - Powerful automated tool for reverse engineering Unity IL2CPP binaries
+
+## vpn 
+
+- [subspacecloud/subspace](https://github.com/subspacecloud/subspace) - A simple WireGuard VPN server GUI
 
 ## web 
 
