@@ -8,7 +8,6 @@
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
-- [CMake](#cmake)
 - [Go](#go)
 - [HCL](#hcl)
 - [HTML](#html)
@@ -111,10 +110,6 @@
 - [REhints/HexRaysCodeXplorer](https://github.com/REhints/HexRaysCodeXplorer) - Hex-Rays Decompiler plugin for better code navigation
 - [otavioarj/KiInjector](https://github.com/otavioarj/KiInjector) - Kindly Win x86/x64 DLL Injector
 
-## CMake 
-
-- [otavioarj/Gaspar](https://github.com/otavioarj/Gaspar) - 
-
 ## Go 
 
 - [assetnote/kiterunner](https://github.com/assetnote/kiterunner) - Contextual Content Discovery Tool
@@ -151,6 +146,7 @@
 - [sleeyax/burp-awesome-tls](https://github.com/sleeyax/burp-awesome-tls) - Burp extension to evade TLS fingerprinting. Bypass WAF, spoof any browser.
 - [JackOfMostTrades/gadgetinspector](https://github.com/JackOfMostTrades/gadgetinspector) - A byte code analyzer for finding deserialization gadget chains in Java applications
 - [cckuailong/JNDI-Injection-Exploit-Plus](https://github.com/cckuailong/JNDI-Injection-Exploit-Plus) - 80+ Gadgets(30 More than ysoserial). JNDI-Injection-Exploit-Plus is a tool for generating workable JNDI links and provide background services by starting RMI server,LDAP server and HTTP server.
+- [otavioarj/Gaspar](https://github.com/otavioarj/Gaspar) - 
 - [gabrielemariotti/androiddev](https://github.com/gabrielemariotti/androiddev) - Quick tips/tutorials for Android developers
 - [maycon/ysoserial](https://github.com/maycon/ysoserial) - A proof-of-concept tool for generating payloads that exploit unsafe Java object deserialization.
 - [martinpaljak/GlobalPlatformPro](https://github.com/martinpaljak/GlobalPlatformPro) - 🌐 🔐  Manage applets and keys on JavaCard-s like a pro
