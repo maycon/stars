@@ -113,6 +113,7 @@
 
 ## Go 
 
+- [liamg/traitor](https://github.com/liamg/traitor) - :arrow_up: :skull_and_crossbones: :fire: Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins, pwnkit, dirty pipe, +w docker.sock
 - [assetnote/kiterunner](https://github.com/assetnote/kiterunner) - Contextual Content Discovery Tool
 - [d3mondev/puredns](https://github.com/d3mondev/puredns) - Puredns is a fast domain resolver and subdomain bruteforcing tool that can accurately filter out wildcard subdomains and DNS poisoned entries.
 - [dryark/stf_ios_support](https://github.com/dryark/stf_ios_support) - Central repo to connect and document components/repos needed for IOS stf support
