@@ -90,6 +90,7 @@
 
 ## C++ 
 
+- [cinquemb/firmware-mod-kit-osx](https://github.com/cinquemb/firmware-mod-kit-osx) - Firmware Modification Kit  forked from https://code.google.com/p/firmware-mod-kit/  modded for OSX
 - [jmpews/Dobby](https://github.com/jmpews/Dobby) - a lightweight, multi-platform, multi-architecture hook framework.
 - [Ipsedo/JPEGrenade](https://github.com/Ipsedo/JPEGrenade) - JPEG decompression bomb
 - [worawit/blutter](https://github.com/worawit/blutter) - Flutter Mobile Application Reverse Engineering Tool
