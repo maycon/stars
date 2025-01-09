@@ -513,6 +513,7 @@
 
 ## others 
 
+- [cinquemb/firmware-mod-kit-osx](https://github.com/cinquemb/firmware-mod-kit-osx) - Firmware Modification Kit  forked from https://code.google.com/p/firmware-mod-kit/  modded for OSX
 - [p1reis/banking-transaction-system](https://github.com/p1reis/banking-transaction-system) - 
 - [google/security-research](https://github.com/google/security-research) - This project hosts security advisories and their accompanying proof-of-concepts related to research conducted at Google which impact non-Google owned code.
 - [wavestone-cdt/EDRSandblast](https://github.com/wavestone-cdt/EDRSandblast) - 
