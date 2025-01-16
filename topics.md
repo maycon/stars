@@ -515,6 +515,7 @@
 
 ## others 
 
+- [madeye/proxydroid](https://github.com/madeye/proxydroid) - Global Proxy for Android
 - [St3v3nsS/MMSF](https://github.com/St3v3nsS/MMSF) - Massive Mobile Security Framework
 - [KiFilterFiberContext/promon-reversal](https://github.com/KiFilterFiberContext/promon-reversal) - Analysis and proof-of-concept bypass of Promon SHIELD's Android application protection
 - [Solaree/pairipcore](https://github.com/Solaree/pairipcore) - Public researchings of the Google's Android apps protection
