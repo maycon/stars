@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [ai](#ai)
 - [algorithmic-trading](#algorithmic-trading)
 - [android](#android)
 - [angular](#angular)
@@ -102,6 +103,10 @@
 - [web](#web)
 - [webpack](#webpack)
 - [windows](#windows)
+
+## ai 
+
+- [DS4SD/docling](https://github.com/DS4SD/docling) - Get your documents ready for gen AI
 
 ## algorithmic-trading 
 
@@ -394,6 +399,7 @@
 
 ## html 
 
+- [DS4SD/docling](https://github.com/DS4SD/docling) - Get your documents ready for gen AI
 - [nhn/tui.editor](https://github.com/nhn/tui.editor) - 🍞📝 Markdown WYSIWYG Editor. GFM Standard + Chart & UML Extensible.
 - [novnc/noVNC](https://github.com/novnc/noVNC) - VNC client web application
 
@@ -470,6 +476,7 @@
 
 ## markdown 
 
+- [DS4SD/docling](https://github.com/DS4SD/docling) - Get your documents ready for gen AI
 - [nhn/tui.editor](https://github.com/nhn/tui.editor) - 🍞📝 Markdown WYSIWYG Editor. GFM Standard + Chart & UML Extensible.
 
 ## microsoft 
