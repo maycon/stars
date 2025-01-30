@@ -523,6 +523,7 @@
 
 ## others 
 
+- [Ebryx/AES-Killer](https://github.com/Ebryx/AES-Killer) - Burp Plugin to decrypt AES encrypted traffic on the fly
 - [madeye/proxydroid](https://github.com/madeye/proxydroid) - Global Proxy for Android
 - [St3v3nsS/MMSF](https://github.com/St3v3nsS/MMSF) - Massive Mobile Security Framework
 - [KiFilterFiberContext/promon-reversal](https://github.com/KiFilterFiberContext/promon-reversal) - Analysis and proof-of-concept bypass of Promon SHIELD's Android application protection
@@ -726,6 +727,7 @@
 
 ## python3 
 
+- [abhinavsingh/proxy.py](https://github.com/abhinavsingh/proxy.py) - 💫 Ngrok FRP Alternative • ⚡ Fast • 🪶 Lightweight • 0️⃣ Dependency • 🔌 Pluggable • 😈 TLS interception • 🔒 DNS-over-HTTPS • 🔥 Poor Man's VPN • ⏪ Reverse & ⏩ Forward • 👮🏿 "Proxy Server" framework • 🌐 "We
 - [rtcatc/Packer-Fuzzer](https://github.com/rtcatc/Packer-Fuzzer) - Packer Fuzzer is a fast and efficient scanner for security detection of websites constructed by javascript module bundler such as Webpack.
 - [justfoxing/ghidra_bridge](https://github.com/justfoxing/ghidra_bridge) - Python 3 bridge to Ghidra's Python scripting
 - [Pennyw0rth/NetExec](https://github.com/Pennyw0rth/NetExec) - The Network Execution Tool
@@ -868,6 +870,7 @@
 
 ## vpn 
 
+- [abhinavsingh/proxy.py](https://github.com/abhinavsingh/proxy.py) - 💫 Ngrok FRP Alternative • ⚡ Fast • 🪶 Lightweight • 0️⃣ Dependency • 🔌 Pluggable • 😈 TLS interception • 🔒 DNS-over-HTTPS • 🔥 Poor Man's VPN • ⏪ Reverse & ⏩ Forward • 👮🏿 "Proxy Server" framework • 🌐 "We
 - [subspacecloud/subspace](https://github.com/subspacecloud/subspace) - A simple WireGuard VPN server GUI
 
 ## web 
