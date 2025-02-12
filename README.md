@@ -36,6 +36,7 @@
 
 ## C 
 
+- [ading2210/linuxpdf](https://github.com/ading2210/linuxpdf) - Linux running inside a PDF file via a RISC-V emulator
 - [madeye/proxydroid](https://github.com/madeye/proxydroid) - Global Proxy for Android
 - [mentebinaria/readpe](https://github.com/mentebinaria/readpe) - The PE file analysis toolkit
 - [google/security-research](https://github.com/google/security-research) - This project hosts security advisories and their accompanying proof-of-concepts related to research conducted at Google which impact non-Google owned code.
