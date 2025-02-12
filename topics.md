@@ -525,6 +525,7 @@
 
 ## others 
 
+- [ading2210/linuxpdf](https://github.com/ading2210/linuxpdf) - Linux running inside a PDF file via a RISC-V emulator
 - [Ebryx/AES-Killer](https://github.com/Ebryx/AES-Killer) - Burp Plugin to decrypt AES encrypted traffic on the fly
 - [madeye/proxydroid](https://github.com/madeye/proxydroid) - Global Proxy for Android
 - [St3v3nsS/MMSF](https://github.com/St3v3nsS/MMSF) - Massive Mobile Security Framework
