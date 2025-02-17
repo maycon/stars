@@ -114,6 +114,7 @@
 
 ## android 
 
+- [securevale/android-rasp](https://github.com/securevale/android-rasp) - RASP (Runtime Application Self-Protection) solution for protecting Android apps against being run on vulnerable devices.
 - [ClaudiuGeorgiu/Obfuscapk](https://github.com/ClaudiuGeorgiu/Obfuscapk) - An automatic obfuscation tool for Android apps that works in a black-box fashion, supports advanced obfuscation features and has a modular architecture easily extensible with new techniques
 - [shadowsocks/shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android) - A shadowsocks client for Android
 - [DeviceFarmer/stf](https://github.com/DeviceFarmer/stf) - Control and manage Android devices from your browser.
@@ -766,6 +767,7 @@
 
 ## rust 
 
+- [securevale/android-rasp](https://github.com/securevale/android-rasp) - RASP (Runtime Application Self-Protection) solution for protecting Android apps against being run on vulnerable devices.
 - [sixels/GoodBoy](https://github.com/sixels/GoodBoy) - A GameBoy emulator in Rust
 - [joaoviictorti/RustRedOps](https://github.com/joaoviictorti/RustRedOps) - 🦀 | RustRedOps is a repository for advanced Red Team techniques and offensive malware, focused on Rust
 - [carloslack/KoviD](https://github.com/carloslack/KoviD) - Linux kernel rootkit
@@ -776,6 +778,7 @@
 
 ## security 
 
+- [securevale/android-rasp](https://github.com/securevale/android-rasp) - RASP (Runtime Application Self-Protection) solution for protecting Android apps against being run on vulnerable devices.
 - [RedTeamPentesting/pretender](https://github.com/RedTeamPentesting/pretender) - Your MitM sidekick for relaying attacks featuring DHCPv6 DNS takeover as well as mDNS, LLMNR and NetBIOS-NS spoofing.
 - [trickest/resolvers](https://github.com/trickest/resolvers) - The most exhaustive list of reliable DNS resolvers.
 - [Pennyw0rth/NetExec](https://github.com/Pennyw0rth/NetExec) - The Network Execution Tool
