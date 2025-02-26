@@ -274,7 +274,7 @@
 ## docker 
 
 - [play-with-docker/play-with-docker](https://github.com/play-with-docker/play-with-docker) - You know it, you use it, now it's time to improve it. PWD!.
-- [qemus/qemu-docker](https://github.com/qemus/qemu-docker) - QEMU in a Docker container.
+- [qemus/qemu](https://github.com/qemus/qemu) - QEMU in a Docker container.
 - [acouvreur/traefik-modsecurity-plugin](https://github.com/acouvreur/traefik-modsecurity-plugin) - Traefik plugin to proxy requests to owasp/modsecurity-crs:apache container
 - [telekom-security/tpotce](https://github.com/telekom-security/tpotce) - 🍯 T-Pot - The All In One Multi Honeypot Platform 🐝
 - [ansible-collections/community.docker](https://github.com/ansible-collections/community.docker) - Community Docker Collection for Ansible: modules and plugins for working with Docker
@@ -526,6 +526,8 @@
 
 ## others 
 
+- [chiteroman/PlayIntegrityFix](https://github.com/chiteroman/PlayIntegrityFix) - Fix Play Integrity (and SafetyNet) verdicts.
+- [JsHookApp/Frida-Patchs](https://github.com/JsHookApp/Frida-Patchs) - Simple frida anti-detection patch
 - [apkunpacker/AntiFrida_Bypass](https://github.com/apkunpacker/AntiFrida_Bypass) - Generic Script To Bypass Some AntiFrida Checks
 - [ading2210/linuxpdf](https://github.com/ading2210/linuxpdf) - Linux running inside a PDF file via a RISC-V emulator
 - [Ebryx/AES-Killer](https://github.com/Ebryx/AES-Killer) - Burp Plugin to decrypt AES encrypted traffic on the fly
