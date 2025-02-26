@@ -8,6 +8,7 @@
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
+- [CMake](#cmake)
 - [Go](#go)
 - [HCL](#hcl)
 - [HTML](#html)
@@ -92,6 +93,7 @@
 
 ## C++ 
 
+- [chiteroman/PlayIntegrityFix](https://github.com/chiteroman/PlayIntegrityFix) - Fix Play Integrity (and SafetyNet) verdicts.
 - [KiFilterFiberContext/promon-reversal](https://github.com/KiFilterFiberContext/promon-reversal) - Analysis and proof-of-concept bypass of Promon SHIELD's Android application protection
 - [cinquemb/firmware-mod-kit-osx](https://github.com/cinquemb/firmware-mod-kit-osx) - Firmware Modification Kit  forked from https://code.google.com/p/firmware-mod-kit/  modded for OSX
 - [jmpews/Dobby](https://github.com/jmpews/Dobby) - a lightweight, multi-platform, multi-architecture hook framework.
@@ -114,6 +116,10 @@
 - [talos-vulndev/afl-dyninst](https://github.com/talos-vulndev/afl-dyninst) - American Fuzzy Lop + Dyninst == AFL Fuzzing blackbox binaries
 - [REhints/HexRaysCodeXplorer](https://github.com/REhints/HexRaysCodeXplorer) - Hex-Rays Decompiler plugin for better code navigation
 - [otavioarj/KiInjector](https://github.com/otavioarj/KiInjector) - Kindly Win x86/x64 DLL Injector
+
+## CMake 
+
+- [dockcross/dockcross](https://github.com/dockcross/dockcross) - Cross compiling toolchains in Docker images
 
 ## Go 
 
@@ -213,6 +219,7 @@
 
 ## Others 
 
+- [JsHookApp/Frida-Patchs](https://github.com/JsHookApp/Frida-Patchs) - Simple frida anti-detection patch
 - [Solaree/pairipcore](https://github.com/Solaree/pairipcore) - Public researchings of the Google's Android apps protection
 - [static-linux/static-binaries-i386](https://github.com/static-linux/static-binaries-i386) - static binaries linux i386
 - [trickest/resolvers](https://github.com/trickest/resolvers) - The most exhaustive list of reliable DNS resolvers.
@@ -345,7 +352,7 @@
 
 ## Shell 
 
-- [qemus/qemu-docker](https://github.com/qemus/qemu-docker) - QEMU in a Docker container.
+- [qemus/qemu](https://github.com/qemus/qemu) - QEMU in a Docker container.
 - [sknux/extractSplittedApps](https://github.com/sknux/extractSplittedApps) - 
 - [writeups/iOS](https://github.com/writeups/iOS) - Here you can find write ups for iOS Vulnerabilities that have been released.
 - [linuxserver/docker-baseimage-kasmvnc](https://github.com/linuxserver/docker-baseimage-kasmvnc) - Base Images for remote web based Linux desktops using KasmVNC for many popular distros.
@@ -357,7 +364,6 @@
 - [trimstray/multitor](https://github.com/trimstray/multitor) - Create multiple TOR instances with a load-balancing.
 - [pry0cc/axiom](https://github.com/pry0cc/axiom) - The dynamic infrastructure framework for everybody! Distribute the workload of many different scanning tools with ease, including nmap, ffuf, masscan, nuclei, meg and many more!
 - [maycon/mikrotik-tools](https://github.com/maycon/mikrotik-tools) - Tools for Mikrotik devices
-- [dockcross/dockcross](https://github.com/dockcross/dockcross) - Cross compiling toolchains in Docker images
 - [devttys0/sasquatch](https://github.com/devttys0/sasquatch) - 
 
 ## Solidity 
