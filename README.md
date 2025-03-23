@@ -286,7 +286,7 @@
 - [google/python-adb](https://github.com/google/python-adb) - Python ADB + Fastboot implementation
 - [justfoxing/ghidra_bridge](https://github.com/justfoxing/ghidra_bridge) - Python 3 bridge to Ghidra's Python scripting
 - [Pennyw0rth/NetExec](https://github.com/Pennyw0rth/NetExec) - The Network Execution Tool
-- [RhinoSecurityLabs/CVEs](https://github.com/RhinoSecurityLabs/CVEs) - A collection of proof-of-concept exploit scripts written by the team at Rhino Security Labs for various CVEs.
+- [RhinoSecurityLabs/CVEs](https://github.com/RhinoSecurityLabs/CVEs) - Proof-of-Concept exploits for CVEs found by the team at Rhino Security Labs
 - [f0cker/crackq](https://github.com/f0cker/crackq) - CrackQ: A Python Hashcat cracking queue system
 - [lk-geimfari/mimesis](https://github.com/lk-geimfari/mimesis) - Mimesis is a robust data generator for Python that can produce a wide range of fake data in multiple languages.
 - [pallets/flask](https://github.com/pallets/flask) - The Python micro framework for building web applications.
