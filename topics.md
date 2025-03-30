@@ -539,7 +539,7 @@
 
 ## others 
 
-- [pRain1337/plouton](https://github.com/pRain1337/plouton) - 
+- [pRain1337/plouton](https://github.com/pRain1337/plouton) - System Management Mode (SMM) game cheating framework
 - [MatrixEditor/pairipcore-vm](https://github.com/MatrixEditor/pairipcore-vm) - Research on the internal workings of Google's Play Integrity Protect Virtual Machine (VM) with tools for both disassembling and decompiling the bytecode.
 - [chiteroman/PlayIntegrityFix](https://github.com/chiteroman/PlayIntegrityFix) - Fix Play Integrity (and SafetyNet) verdicts.
 - [JsHookApp/Frida-Patchs](https://github.com/JsHookApp/Frida-Patchs) - Simple frida anti-detection patch
