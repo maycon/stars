@@ -95,6 +95,7 @@
 - [sql](#sql)
 - [sqlite](#sqlite)
 - [swift](#swift)
+- [telegram-bot](#telegram-bot)
 - [terminal](#terminal)
 - [testing](#testing)
 - [trading](#trading)
@@ -879,6 +880,10 @@
 ## swift 
 
 - [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store
+
+## telegram-bot 
+
+- [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot
 
 ## terminal 
 
