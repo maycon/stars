@@ -323,7 +323,7 @@
 - [pallets/flask](https://github.com/pallets/flask) - The Python micro framework for building web applications.
 - [sintezcs/flask-threads](https://github.com/sintezcs/flask-threads) - A helper library to work with threads in Flask
 - [dpgaspar/Flask-AppBuilder](https://github.com/dpgaspar/Flask-AppBuilder) - Simple and rapid application development framework, built on top of Flask. includes detailed security, auto CRUD generation for your models, google charts and much more. Demo (login with guest/welcome
-- [Allen7D/mini-shop-server](https://github.com/Allen7D/mini-shop-server) - 基于 Flask 框架开发的微信小程序后端项目，用于构建小程序商城后台 （电商相关；rbac权限管理；附带自动生成Swagger 风格的API 文档；可作「Python 项目毕设」）---- 相关博客链接:🌟
+- [Allen7D/mini-shop-server](https://github.com/Allen7D/mini-shop-server) - 基于 Flask 框架开发的微信小程序后端项目，用于构建小程序商城后台 （电商相关；rbac权限管理；附带自动生成Swagger 风格的API 文档；可作「Python 项目毕设」）---- 相关博客链接:🌟https://deepwiki.com/Allen7D/mini-shop-server
 
 ## framework 
 
@@ -513,7 +513,7 @@
 ## mysql 
 
 - [1N3/PrivEsc](https://github.com/1N3/PrivEsc) - A collection of Windows, Linux and MySQL privilege escalation scripts and exploits.
-- [Allen7D/mini-shop-server](https://github.com/Allen7D/mini-shop-server) - 基于 Flask 框架开发的微信小程序后端项目，用于构建小程序商城后台 （电商相关；rbac权限管理；附带自动生成Swagger 风格的API 文档；可作「Python 项目毕设」）---- 相关博客链接:🌟
+- [Allen7D/mini-shop-server](https://github.com/Allen7D/mini-shop-server) - 基于 Flask 框架开发的微信小程序后端项目，用于构建小程序商城后台 （电商相关；rbac权限管理；附带自动生成Swagger 风格的API 文档；可作「Python 项目毕设」）---- 相关博客链接:🌟https://deepwiki.com/Allen7D/mini-shop-server
 
 ## natural-language-processing 
 
@@ -742,7 +742,7 @@
 - [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud 
 - [paurakhsharma/python-microservice-fastapi](https://github.com/paurakhsharma/python-microservice-fastapi) - Learn to build your own microservice using Python and FastAPI
 - [meolu/walle-web](https://github.com/meolu/walle-web) - walle - 瓦力 Devops开源项目代码部署平台
-- [Allen7D/mini-shop-server](https://github.com/Allen7D/mini-shop-server) - 基于 Flask 框架开发的微信小程序后端项目，用于构建小程序商城后台 （电商相关；rbac权限管理；附带自动生成Swagger 风格的API 文档；可作「Python 项目毕设」）---- 相关博客链接:🌟
+- [Allen7D/mini-shop-server](https://github.com/Allen7D/mini-shop-server) - 基于 Flask 框架开发的微信小程序后端项目，用于构建小程序商城后台 （电商相关；rbac权限管理；附带自动生成Swagger 风格的API 文档；可作「Python 项目毕设」）---- 相关博客链接:🌟https://deepwiki.com/Allen7D/mini-shop-server
 - [Rikj000/MoniGoMani](https://github.com/Rikj000/MoniGoMani) - Isn't that what we all want? Our money to go many? Well that's what this framework/strategy hopes to do for you! By giving you & HyperOpt a lot of signals to alter the weights from.
 - [trezor/trezor-firmware](https://github.com/trezor/trezor-firmware) - :lock: Trezor Firmware Monorepo
 - [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot
