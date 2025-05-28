@@ -37,6 +37,7 @@
 
 ## C 
 
+- [spinkham/skipfish](https://github.com/spinkham/skipfish) - Web application security scanner created by lcamtuf for google - Unofficial Mirror
 - [ShinoLeah/eDBG](https://github.com/ShinoLeah/eDBG) - eBPF-based lightweight debugger for Android
 - [pRain1337/plouton](https://github.com/pRain1337/plouton) - System Management Mode (SMM) game cheating framework
 - [capstone-engine/capstone](https://github.com/capstone-engine/capstone) - Capstone disassembly/disassembler framework for ARM, ARM64 (ARMv8), Alpha, BPF, Ethereum VM, HPPA, LoongArch, M68K, M680X, Mips, MOS65XX, PPC, RISC-V(rv32G/rv64G), SH, Sparc, SystemZ, TMS320C64X, TriC
