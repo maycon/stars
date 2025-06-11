@@ -98,7 +98,6 @@
 
 ## C++ 
 
-- [chiteroman/PlayIntegrityFix](https://github.com/chiteroman/PlayIntegrityFix) - Fix Play Integrity (and SafetyNet) verdicts.
 - [KiFilterFiberContext/promon-reversal](https://github.com/KiFilterFiberContext/promon-reversal) - Analysis and proof-of-concept bypass of Promon SHIELD's Android application protection
 - [cinquemb/firmware-mod-kit-osx](https://github.com/cinquemb/firmware-mod-kit-osx) - Firmware Modification Kit  forked from https://code.google.com/p/firmware-mod-kit/  modded for OSX
 - [jmpews/Dobby](https://github.com/jmpews/Dobby) - a lightweight, multi-platform, multi-architecture hook framework.
