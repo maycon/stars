@@ -37,6 +37,7 @@
 
 ## C 
 
+- [gojue/ecapture](https://github.com/gojue/ecapture) - Capturing SSL/TLS plaintext without a CA certificate using eBPF. Supported on Linux/Android kernels for amd64/arm64.
 - [spinkham/skipfish](https://github.com/spinkham/skipfish) - Web application security scanner created by lcamtuf for google - Unofficial Mirror
 - [ShinoLeah/eDBG](https://github.com/ShinoLeah/eDBG) - eBPF-based lightweight debugger for Android
 - [pRain1337/plouton](https://github.com/pRain1337/plouton) - System Management Mode (SMM) game cheating framework
