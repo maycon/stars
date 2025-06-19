@@ -83,7 +83,6 @@
 - [julioverne/screendump](https://github.com/julioverne/screendump) - 
 - [hacksysteam/HackSysExtremeVulnerableDriver](https://github.com/hacksysteam/HackSysExtremeVulnerableDriver) - HackSys Extreme Vulnerable Driver (HEVD) - Windows & Linux
 - [SinaKarvandi/Hypervisor-From-Scratch](https://github.com/SinaKarvandi/Hypervisor-From-Scratch) - Source code of a multiple series of tutorials about the hypervisor. Available at: https://rayanfam.com/tutorials
-- [f0rb1dd3n/Reptile](https://github.com/f0rb1dd3n/Reptile) - LKM Linux rootkit
 - [bdamele/shellcodeexec](https://github.com/bdamele/shellcodeexec) - Script to execute in memory a sequence of opcodes
 - [maycon/kernel-101](https://github.com/maycon/kernel-101) - A single kernel to learn how to write a kernel. :-)
 - [DhavalKapil/heap-exploitation](https://github.com/DhavalKapil/heap-exploitation) - This book on heap exploitation is a guide to understanding the internals of glibc's heap and various attacks possible on the heap structure.
