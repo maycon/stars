@@ -681,7 +681,6 @@
 - [julioverne/screendump](https://github.com/julioverne/screendump) - 
 - [felamos/weirdhta](https://github.com/felamos/weirdhta) - A tool to create obfuscated HTA script.
 - [SinaKarvandi/Hypervisor-From-Scratch](https://github.com/SinaKarvandi/Hypervisor-From-Scratch) - Source code of a multiple series of tutorials about the hypervisor. Available at: https://rayanfam.com/tutorials
-- [f0rb1dd3n/Reptile](https://github.com/f0rb1dd3n/Reptile) - LKM Linux rootkit
 - [mdsecactivebreach/SharpShooter](https://github.com/mdsecactivebreach/SharpShooter) - Payload Generation Framework
 - [bdamele/shellcodeexec](https://github.com/bdamele/shellcodeexec) - Script to execute in memory a sequence of opcodes
 - [nccgroup/keimpx](https://github.com/nccgroup/keimpx) - Check for valid credentials across a network over SMB
