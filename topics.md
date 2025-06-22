@@ -120,6 +120,7 @@
 
 ## android 
 
+- [gauravssnl/BypassRootCheckPro](https://github.com/gauravssnl/BypassRootCheckPro) - Bypass Root Check Pro Modern Xposed API Module (with Java & Native C/C++ Hooks)
 - [gojue/ecapture](https://github.com/gojue/ecapture) - Capturing SSL/TLS plaintext without a CA certificate using eBPF. Supported on Linux/Android kernels for amd64/arm64.
 - [ShinoLeah/eDBG](https://github.com/ShinoLeah/eDBG) - eBPF-based lightweight debugger for Android
 - [tiann/KernelSU](https://github.com/tiann/KernelSU) - A Kernel based root solution for Android
@@ -561,6 +562,8 @@
 
 ## others 
 
+- [NVISOsecurity/disable-flutter-tls-verification](https://github.com/NVISOsecurity/disable-flutter-tls-verification) - A Frida script that disables Flutter's TLS verification
+- [KimChangYoun/rootbeerFresh](https://github.com/KimChangYoun/rootbeerFresh) - Magisk Unix Domain Socket(UDS) and File Stat Check Added, Simple to use root checking Android library and sample app
 - [spinkham/skipfish](https://github.com/spinkham/skipfish) - Web application security scanner created by lcamtuf for google - Unofficial Mirror
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
 - [Anorov/PySocks](https://github.com/Anorov/PySocks) - A SOCKS proxy client and wrapper for Python.
