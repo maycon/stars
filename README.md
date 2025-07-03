@@ -37,6 +37,7 @@
 
 ## C 
 
+- [W0rthlessS0ul/CC1101_jammer](https://github.com/W0rthlessS0ul/CC1101_jammer) - CC1101 Jammer is a powerful tool that requires an ESP32 and a CC1101 module to assemble. It is designed to create interference, disrupting the normal operation of garage doors 🏠, wireless doorbells 🔊,
 - [gojue/ecapture](https://github.com/gojue/ecapture) - Capturing SSL/TLS plaintext without a CA certificate using eBPF. Supported on Linux/Android kernels for amd64/arm64.
 - [spinkham/skipfish](https://github.com/spinkham/skipfish) - Web application security scanner created by lcamtuf for google - Unofficial Mirror
 - [ShinoLeah/eDBG](https://github.com/ShinoLeah/eDBG) - eBPF-based lightweight debugger for Android
@@ -98,6 +99,7 @@
 
 ## C++ 
 
+- [horsicq/XAPKDetector](https://github.com/horsicq/XAPKDetector) - APK/DEX detector for Windows, Linux and MacOS.
 - [NVISOsecurity/disable-flutter-tls-verification](https://github.com/NVISOsecurity/disable-flutter-tls-verification) - A Frida script that disables Flutter's TLS verification
 - [KiFilterFiberContext/promon-reversal](https://github.com/KiFilterFiberContext/promon-reversal) - Analysis and proof-of-concept bypass of Promon SHIELD's Android application protection
 - [cinquemb/firmware-mod-kit-osx](https://github.com/cinquemb/firmware-mod-kit-osx) - Firmware Modification Kit  forked from https://code.google.com/p/firmware-mod-kit/  modded for OSX
@@ -171,7 +173,7 @@
 - [otavioarj/Gaspar](https://github.com/otavioarj/Gaspar) - 
 - [gabrielemariotti/androiddev](https://github.com/gabrielemariotti/androiddev) - Quick tips/tutorials for Android developers
 - [maycon/ysoserial](https://github.com/maycon/ysoserial) - A proof-of-concept tool for generating payloads that exploit unsafe Java object deserialization.
-- [martinpaljak/GlobalPlatformPro](https://github.com/martinpaljak/GlobalPlatformPro) - 🌐 🔐  Manage applets and keys on JavaCard-s like a pro
+- [martinpaljak/GlobalPlatformPro](https://github.com/martinpaljak/GlobalPlatformPro) - Manage applets and keys on JavaCard-s like a pro 🌐 🔐
 - [hneemann/Digital](https://github.com/hneemann/Digital) - A digital logic designer and circuit simulator.
 - [ikarus23/MifareClassicTool](https://github.com/ikarus23/MifareClassicTool) - An Android NFC app for reading, writing, analyzing, etc. MIFARE Classic RFID tags.
 - [spotbugs/spotbugs](https://github.com/spotbugs/spotbugs) - SpotBugs is FindBugs' successor. A tool for static analysis to look for bugs in Java code.
