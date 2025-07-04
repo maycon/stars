@@ -121,6 +121,7 @@
 
 ## android 
 
+- [LSPosed/LSPosed](https://github.com/LSPosed/LSPosed) - LSPosed Framework
 - [horsicq/XAPKDetector](https://github.com/horsicq/XAPKDetector) - APK/DEX detector for Windows, Linux and MacOS.
 - [gauravssnl/BypassRootCheckPro](https://github.com/gauravssnl/BypassRootCheckPro) - Bypass Root Check Pro Modern Xposed API Module (with Java & Native C/C++ Hooks)
 - [gojue/ecapture](https://github.com/gojue/ecapture) - Capturing SSL/TLS plaintext without a CA certificate using eBPF. Supported on Linux/Android kernels for amd64/arm64.
@@ -569,6 +570,9 @@
 
 ## others 
 
+- [roothide/Bootstrap](https://github.com/roothide/Bootstrap) - A full featured bootstrap for iOS 15.0-17.0 A8-A17Pro & M1+M2 using roothide
+- [LSPosed/LSPosed.github.io](https://github.com/LSPosed/LSPosed.github.io) - 
+- [MhmRdd/NoHello](https://github.com/MhmRdd/NoHello) - A Zygisk module to hide root.
 - [W0rthlessS0ul/CC1101_jammer](https://github.com/W0rthlessS0ul/CC1101_jammer) - CC1101 Jammer is a powerful tool that requires an ESP32 and a CC1101 module to assemble. It is designed to create interference, disrupting the normal operation of garage doors 🏠, wireless doorbells 🔊,
 - [NVISOsecurity/disable-flutter-tls-verification](https://github.com/NVISOsecurity/disable-flutter-tls-verification) - A Frida script that disables Flutter's TLS verification
 - [KimChangYoun/rootbeerFresh](https://github.com/KimChangYoun/rootbeerFresh) - Magisk Unix Domain Socket(UDS) and File Stat Check Added, Simple to use root checking Android library and sample app
