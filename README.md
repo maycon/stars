@@ -99,6 +99,7 @@
 
 ## C++ 
 
+- [MhmRdd/NoHello](https://github.com/MhmRdd/NoHello) - A Zygisk module to hide root.
 - [horsicq/XAPKDetector](https://github.com/horsicq/XAPKDetector) - APK/DEX detector for Windows, Linux and MacOS.
 - [NVISOsecurity/disable-flutter-tls-verification](https://github.com/NVISOsecurity/disable-flutter-tls-verification) - A Frida script that disables Flutter's TLS verification
 - [KiFilterFiberContext/promon-reversal](https://github.com/KiFilterFiberContext/promon-reversal) - Analysis and proof-of-concept bypass of Promon SHIELD's Android application protection
@@ -160,11 +161,13 @@
 
 ## HTML 
 
+- [LSPosed/LSPosed.github.io](https://github.com/LSPosed/LSPosed.github.io) - 
 - [yogeshojha/rengine](https://github.com/yogeshojha/rengine) - reNgine is an automated reconnaissance framework for web applications with a focus on highly configurable streamlined recon process via Engines, recon data correlation and organization, continuous mon
 - [subspacecloud/subspace](https://github.com/subspacecloud/subspace) - A simple WireGuard VPN server GUI
 
 ## Java 
 
+- [LSPosed/LSPosed](https://github.com/LSPosed/LSPosed) - LSPosed Framework
 - [KimChangYoun/rootbeerFresh](https://github.com/KimChangYoun/rootbeerFresh) - Magisk Unix Domain Socket(UDS) and File Stat Check Added, Simple to use root checking Android library and sample app
 - [Ebryx/AES-Killer](https://github.com/Ebryx/AES-Killer) - Burp Plugin to decrypt AES encrypted traffic on the fly
 - [sleeyax/burp-awesome-tls](https://github.com/sleeyax/burp-awesome-tls) - Burp extension to evade TLS fingerprinting. Bypass WAF, spoof any browser.
@@ -228,6 +231,7 @@
 
 ## Objective-C 
 
+- [roothide/Bootstrap](https://github.com/roothide/Bootstrap) - A full featured bootstrap for iOS 15.0-17.0 A8-A17Pro & M1+M2 using roothide
 - [xybp888/iOS-SDKs](https://github.com/xybp888/iOS-SDKs) - iOS 9 - iOS 18 SDK including symbols for private frameworks.
 - [maycon/Pacman](https://github.com/maycon/Pacman) - A very buggy Pacman game written in C with OpenGL
 
