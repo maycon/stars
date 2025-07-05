@@ -167,6 +167,7 @@
 
 ## Java 
 
+- [oasisfeng/island](https://github.com/oasisfeng/island) - Island for Android
 - [LSPosed/LSPosed](https://github.com/LSPosed/LSPosed) - LSPosed Framework
 - [KimChangYoun/rootbeerFresh](https://github.com/KimChangYoun/rootbeerFresh) - Magisk Unix Domain Socket(UDS) and File Stat Check Added, Simple to use root checking Android library and sample app
 - [Ebryx/AES-Killer](https://github.com/Ebryx/AES-Killer) - Burp Plugin to decrypt AES encrypted traffic on the fly
