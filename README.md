@@ -186,6 +186,7 @@
 
 ## JavaScript 
 
+- [KOWX712/Tricky-Addon-Update-Target-List](https://github.com/KOWX712/Tricky-Addon-Update-Target-List) - A KSU WebUI to configure Tricky Store target.txt
 - [apkunpacker/AntiFrida_Bypass](https://github.com/apkunpacker/AntiFrida_Bypass) - Generic Script To Bypass Some AntiFrida Checks
 - [play-with-docker/play-with-docker](https://github.com/play-with-docker/play-with-docker) - You know it, you use it, now it's time to improve it. PWD!.
 - [DeviceFarmer/stf](https://github.com/DeviceFarmer/stf) - Control and manage Android devices from your browser.
@@ -239,6 +240,7 @@
 
 ## Others 
 
+- [5ec1cff/TrickyStore](https://github.com/5ec1cff/TrickyStore) - 
 - [JsHookApp/Frida-Patchs](https://github.com/JsHookApp/Frida-Patchs) - Simple frida anti-detection patch
 - [Solaree/pairipcore](https://github.com/Solaree/pairipcore) - Public researchings of the Google's Android apps protection
 - [static-linux/static-binaries-i386](https://github.com/static-linux/static-binaries-i386) - static binaries linux i386
