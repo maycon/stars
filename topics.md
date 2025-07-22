@@ -94,6 +94,7 @@
 - [self-hosted](#self-hosted)
 - [serverless](#serverless)
 - [shell](#shell)
+- [software](#software)
 - [solidity](#solidity)
 - [sql](#sql)
 - [sqlite](#sqlite)
@@ -407,6 +408,7 @@
 
 ## hacktoberfest 
 
+- [librespeed/speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speed Test for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
 - [horsicq/XAPKDetector](https://github.com/horsicq/XAPKDetector) - APK/DEX detector for Windows, Linux and MacOS.
 - [anchore/grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems
 - [cea-sec/miasm](https://github.com/cea-sec/miasm) - Reverse engineering framework in Python
@@ -573,6 +575,7 @@
 
 ## others 
 
+- [MikeM64/Exploit-Writeups](https://github.com/MikeM64/Exploit-Writeups) - Exploit writeups I've authored
 - [NaC-L/Mergen](https://github.com/NaC-L/Mergen) - Deobfuscation via optimization with usage of LLVM IR and parsing assembly.
 - [KOWX712/Tricky-Addon-Update-Target-List](https://github.com/KOWX712/Tricky-Addon-Update-Target-List) - A KSU WebUI to configure Tricky Store target.txt
 - [5ec1cff/TrickyStore](https://github.com/5ec1cff/TrickyStore) - 
@@ -756,6 +759,7 @@
 
 ## php 
 
+- [librespeed/speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speed Test for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
 - [projectsend/projectsend](https://github.com/projectsend/projectsend) - ProjectSend is a free, open source software that lets you share files with your clients, focused on ease of use and privacy. It supports clients groups, system users roles, statistics, multiple langua
 
 ## postgresql 
@@ -849,6 +853,8 @@
 
 ## security 
 
+- [NIKJOO/PEP](https://github.com/NIKJOO/PEP) - Private exe protector
+- [AFLplusplus/AFLplusplus](https://github.com/AFLplusplus/AFLplusplus) - The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more!
 - [anchore/grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems
 - [javascript-obfuscator/javascript-obfuscator](https://github.com/javascript-obfuscator/javascript-obfuscator) - A powerful obfuscator for JavaScript and Node.js
 - [capstone-engine/capstone](https://github.com/capstone-engine/capstone) - Capstone disassembly/disassembler framework for ARM, ARM64 (ARMv8), Alpha, BPF, Ethereum VM, HPPA, LoongArch, M68K, M680X, Mips, MOS65XX, PPC, RISC-V(rv32G/rv64G), SH, Sparc, SystemZ, TMS320C64X, TriC
@@ -908,6 +914,10 @@
 
 - [MegaManSec/SSH-Snake](https://github.com/MegaManSec/SSH-Snake) - SSH-Snake is a self-propagating, self-replicating, file-less script that automates the post-exploitation task of SSH private key and host discovery.
 
+## software 
+
+- [NIKJOO/PEP](https://github.com/NIKJOO/PEP) - Private exe protector
+
 ## solidity 
 
 - [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) - OpenZeppelin Contracts is a library for secure smart contract development.
@@ -938,6 +948,7 @@
 
 ## testing 
 
+- [AFLplusplus/AFLplusplus](https://github.com/AFLplusplus/AFLplusplus) - The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more!
 - [DeviceFarmer/stf](https://github.com/DeviceFarmer/stf) - Control and manage Android devices from your browser.
 - [lk-geimfari/mimesis](https://github.com/lk-geimfari/mimesis) - Mimesis is a robust data generator for Python that can produce a wide range of fake data in multiple languages.
 - [S2E/s2e](https://github.com/S2E/s2e) - S2E: A platform for multi-path program analysis with selective symbolic execution.
@@ -983,6 +994,7 @@
 
 ## windows 
 
+- [NIKJOO/PEP](https://github.com/NIKJOO/PEP) - Private exe protector
 - [7etsuo/windows-api-function-cheatsheets](https://github.com/7etsuo/windows-api-function-cheatsheets) - A reference of Windows API function calls, including functions for file operations, process management, memory management, thread management, dynamic-link library (DLL) management, synchronization, in
 - [1N3/PrivEsc](https://github.com/1N3/PrivEsc) - A collection of Windows, Linux and MySQL privilege escalation scripts and exploits.
 - [Pennyw0rth/NetExec](https://github.com/Pennyw0rth/NetExec) - The Network Execution Tool
