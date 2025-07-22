@@ -37,6 +37,7 @@
 
 ## C 
 
+- [AFLplusplus/AFLplusplus](https://github.com/AFLplusplus/AFLplusplus) - The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more!
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 - [W0rthlessS0ul/CC1101_jammer](https://github.com/W0rthlessS0ul/CC1101_jammer) - CC1101 Jammer is a powerful tool that requires an ESP32 and a CC1101 module to assemble. It is designed to create interference, disrupting the normal operation of garage doors 🏠, wireless doorbells 🔊,
 - [gojue/ecapture](https://github.com/gojue/ecapture) - Capturing SSL/TLS plaintext without a CA certificate using eBPF. Supported on Linux/Android kernels for amd64/arm64.
@@ -241,6 +242,7 @@
 
 ## Others 
 
+- [MikeM64/Exploit-Writeups](https://github.com/MikeM64/Exploit-Writeups) - Exploit writeups I've authored
 - [5ec1cff/TrickyStore](https://github.com/5ec1cff/TrickyStore) - 
 - [JsHookApp/Frida-Patchs](https://github.com/JsHookApp/Frida-Patchs) - Simple frida anti-detection patch
 - [Solaree/pairipcore](https://github.com/Solaree/pairipcore) - Public researchings of the Google's Android apps protection
@@ -266,12 +268,14 @@
 
 ## PHP 
 
+- [librespeed/speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speed Test for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
 - [10up/wp-scrubber](https://github.com/10up/wp-scrubber) - BETA: This plugin provides a command-line interface for scrubbing sensitive user and comment data from a WordPress installation.
 - [projectsend/projectsend](https://github.com/projectsend/projectsend) - ProjectSend is a free, open source software that lets you share files with your clients, focused on ease of use and privacy. It supports clients groups, system users roles, statistics, multiple langua
 - [DiogoMRSilva/websitesVulnerableToSSTI](https://github.com/DiogoMRSilva/websitesVulnerableToSSTI) - Simple websites vulnerable to Server Side Template Injections(SSTI)
 
 ## Pascal 
 
+- [NIKJOO/PEP](https://github.com/NIKJOO/PEP) - Private exe protector
 - [DarkCoderSc/SubSeven](https://github.com/DarkCoderSc/SubSeven) - SubSeven Legacy Official Source Code Repository
 
 ## Perl 
