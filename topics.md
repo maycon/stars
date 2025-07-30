@@ -575,6 +575,7 @@
 
 ## others 
 
+- [oversecured/ovaa](https://github.com/oversecured/ovaa) - Oversecured Vulnerable Android App
 - [oureveryday/VMPUnpacker](https://github.com/oureveryday/VMPUnpacker) - 
 - [MikeM64/Exploit-Writeups](https://github.com/MikeM64/Exploit-Writeups) - Exploit writeups I've authored
 - [NaC-L/Mergen](https://github.com/NaC-L/Mergen) - Deobfuscation via optimization with usage of LLVM IR and parsing assembly.
