@@ -575,6 +575,7 @@
 
 ## others 
 
+- [shellphish/how2heap](https://github.com/shellphish/how2heap) - A repository for learning various heap exploitation techniques.
 - [otavioarj/groidproxy](https://github.com/otavioarj/groidproxy) - Golang Android/Linux Proxier
 - [oversecured/ovaa](https://github.com/oversecured/ovaa) - Oversecured Vulnerable Android App
 - [oureveryday/VMPUnpacker](https://github.com/oureveryday/VMPUnpacker) - 
