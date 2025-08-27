@@ -37,6 +37,7 @@
 
 ## C 
 
+- [talsec/Free-RASP-Flutter](https://github.com/talsec/Free-RASP-Flutter) - Flutter library for Android and iOS mobile devices. SDK providing app protection and threat monitoring. Shield your app with free RASP. Detect reverse engineering, root (Magisk), jailbreak, Frida, emu
 - [opa334/Dopamine](https://github.com/opa334/Dopamine) - Dopamine is a semi-untethered jailbreak for iOS 15 and 16
 - [shellphish/how2heap](https://github.com/shellphish/how2heap) - A repository for learning various heap exploitation techniques.
 - [AFLplusplus/AFLplusplus](https://github.com/AFLplusplus/AFLplusplus) - The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more!
@@ -251,6 +252,7 @@
 
 ## Others 
 
+- [sucsand/sucsand](https://github.com/sucsand/sucsand) - Inject gadget.so into target app via Zygisk. Only supports arm64
 - [MikeM64/Exploit-Writeups](https://github.com/MikeM64/Exploit-Writeups) - Exploit writeups I've authored
 - [5ec1cff/TrickyStore](https://github.com/5ec1cff/TrickyStore) - 
 - [JsHookApp/Frida-Patchs](https://github.com/JsHookApp/Frida-Patchs) - Simple frida anti-detection patch
