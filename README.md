@@ -37,6 +37,7 @@
 
 ## C 
 
+- [maximevince/fbDOOM](https://github.com/maximevince/fbDOOM) - fbDOOM
 - [HighCodeh/Highboy](https://github.com/HighCodeh/Highboy) - Firmware High Boy
 - [talsec/Free-RASP-Flutter](https://github.com/talsec/Free-RASP-Flutter) - Flutter library for Android and iOS mobile devices. SDK providing app protection and threat monitoring. Shield your app with free RASP. Detect reverse engineering, root (Magisk), jailbreak, Frida, emu
 - [opa334/Dopamine](https://github.com/opa334/Dopamine) - Dopamine is a semi-untethered jailbreak for iOS 15 and 16
