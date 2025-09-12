@@ -116,6 +116,7 @@
 
 ## ai 
 
+- [NVIDIA/garak](https://github.com/NVIDIA/garak) - the LLM vulnerability scanner
 - [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
 
 ## algorithmic-trading 
