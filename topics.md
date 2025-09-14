@@ -125,6 +125,7 @@
 
 ## android 
 
+- [hackcatml/frida-flutterproxy](https://github.com/hackcatml/frida-flutterproxy) - Burp proxy flutter apps
 - [canyie/pine](https://github.com/canyie/pine) - Dynamic java method hook framework on ART. Allowing you to change almost all java methods' behavior dynamically.
 - [nfcgate/nfcgate](https://github.com/nfcgate/nfcgate) - An NFC research toolkit application for Android
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
@@ -346,6 +347,7 @@
 
 ## flutter 
 
+- [hackcatml/frida-flutterproxy](https://github.com/hackcatml/frida-flutterproxy) - Burp proxy flutter apps
 - [talsec/Free-RASP-Flutter](https://github.com/talsec/Free-RASP-Flutter) - Flutter library for Android and iOS mobile devices. SDK providing app protection and threat monitoring. Shield your app with free RASP. Detect reverse engineering, root (Magisk), jailbreak, Frida, emu
 
 ## framework 
@@ -469,6 +471,7 @@
 
 ## ios 
 
+- [hackcatml/frida-flutterproxy](https://github.com/hackcatml/frida-flutterproxy) - Burp proxy flutter apps
 - [libimobiledevice/libirecovery](https://github.com/libimobiledevice/libirecovery) - Library and utility to talk to iBoot/iBSS via USB on Mac OS X, Windows, and Linux
 - [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store
 - [sensepost/objection](https://github.com/sensepost/objection) - 📱 objection - runtime mobile exploration
@@ -836,6 +839,7 @@
 
 ## reverse-engineering 
 
+- [hackcatml/frida-flutterproxy](https://github.com/hackcatml/frida-flutterproxy) - Burp proxy flutter apps
 - [noahware/hyper-reV](https://github.com/noahware/hyper-reV) - memory introspection and reverse engineering hypervisor powered by leveraging Hyper-V
 - [programa-stic/barf-project](https://github.com/programa-stic/barf-project) - BARF : A multiplatform open source Binary Analysis and Reverse engineering Framework
 - [horsicq/XAPKDetector](https://github.com/horsicq/XAPKDetector) - APK/DEX detector for Windows, Linux and MacOS.
