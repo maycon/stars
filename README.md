@@ -251,7 +251,7 @@
 ## Objective-C 
 
 - [roothide/Bootstrap](https://github.com/roothide/Bootstrap) - A full featured bootstrap for iOS 15.0-17.0 A8-A17Pro & M1+M2 using roothide
-- [xybp888/iOS-SDKs](https://github.com/xybp888/iOS-SDKs) - iOS 9 - iOS 18 SDK including symbols for private frameworks.
+- [xybp888/iOS-SDKs](https://github.com/xybp888/iOS-SDKs) - iOS 9 - iOS 26 SDK including symbols for private frameworks.
 - [maycon/Pacman](https://github.com/maycon/Pacman) - A very buggy Pacman game written in C with OpenGL
 
 ## Others 
