@@ -651,7 +651,7 @@
 - [Siguza/ios-resources](https://github.com/Siguza/ios-resources) - Useful resources for iOS hacking
 - [Siguza/iokit-utils](https://github.com/Siguza/iokit-utils) - Dev tools for probing IOKit
 - [hack-different/ipsw](https://github.com/hack-different/ipsw) - iOS/macOS Research Swiss Army Knife
-- [xybp888/iOS-SDKs](https://github.com/xybp888/iOS-SDKs) - iOS 9 - iOS 18 SDK including symbols for private frameworks.
+- [xybp888/iOS-SDKs](https://github.com/xybp888/iOS-SDKs) - iOS 9 - iOS 26 SDK including symbols for private frameworks.
 - [futurerestore/futurerestore](https://github.com/futurerestore/futurerestore) - A hacked up idevicerestore wrapper, which allows specifying SEP and Baseband for restoring
 - [writeups/iOS](https://github.com/writeups/iOS) - Here you can find write ups for iOS Vulnerabilities that have been released.
 - [f0cker/crackq](https://github.com/f0cker/crackq) - CrackQ: A Python Hashcat cracking queue system
