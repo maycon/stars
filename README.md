@@ -308,6 +308,7 @@
 
 ## Python 
 
+- [mrexodia/ida-pro-mcp](https://github.com/mrexodia/ida-pro-mcp) - MCP Server for IDA Pro.
 - [NVIDIA/garak](https://github.com/NVIDIA/garak) - the LLM vulnerability scanner
 - [programa-stic/barf-project](https://github.com/programa-stic/barf-project) - BARF : A multiplatform open source Binary Analysis and Reverse engineering Framework
 - [Anorov/PySocks](https://github.com/Anorov/PySocks) - A SOCKS proxy client and wrapper for Python.
