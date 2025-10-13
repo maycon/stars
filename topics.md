@@ -599,6 +599,7 @@
 
 ## others 
 
+- [netblue30/firejail](https://github.com/netblue30/firejail) - Linux namespaces and seccomp-bpf sandbox
 - [doug-leith/android-protobuf-decoding](https://github.com/doug-leith/android-protobuf-decoding) - Protobuf schemas for decoding Google Play Services network traffic on Android phones
 - [HighCodeh/Highboy](https://github.com/HighCodeh/Highboy) - Firmware High Boy
 - [sucsand/sucsand](https://github.com/sucsand/sucsand) - Inject gadget.so into target app via Zygisk. Only supports arm64
