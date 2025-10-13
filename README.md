@@ -37,6 +37,7 @@
 
 ## C 
 
+- [netblue30/firejail](https://github.com/netblue30/firejail) - Linux namespaces and seccomp-bpf sandbox
 - [maximevince/fbDOOM](https://github.com/maximevince/fbDOOM) - fbDOOM
 - [HighCodeh/Highboy](https://github.com/HighCodeh/Highboy) - Firmware High Boy
 - [talsec/Free-RASP-Flutter](https://github.com/talsec/Free-RASP-Flutter) - Flutter library for Android and iOS mobile devices. SDK providing app protection and threat monitoring. Shield your app with free RASP. Detect reverse engineering, root (Magisk), jailbreak, Frida, emu
@@ -150,7 +151,6 @@
 - [liamg/traitor](https://github.com/liamg/traitor) - :arrow_up: :skull_and_crossbones: :fire: Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins, pwnkit, dirty pipe, +w docker.sock
 - [assetnote/kiterunner](https://github.com/assetnote/kiterunner) - Contextual Content Discovery Tool
 - [d3mondev/puredns](https://github.com/d3mondev/puredns) - Puredns is a fast domain resolver and subdomain bruteforcing tool that can accurately filter out wildcard subdomains and DNS poisoned entries.
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
 - [dryark/stf_ios_support](https://github.com/dryark/stf_ios_support) - Central repo to connect and document components/repos needed for IOS stf support
 - [hack-different/ipsw](https://github.com/hack-different/ipsw) - iOS/macOS Research Swiss Army Knife
 - [codesenberg/bombardier](https://github.com/codesenberg/bombardier) - Fast cross-platform HTTP benchmarking tool written in Go
@@ -324,6 +324,7 @@
 - [shadowsocks/shadowsocks](https://github.com/shadowsocks/shadowsocks) - 
 - [rtcatc/Packer-Fuzzer](https://github.com/rtcatc/Packer-Fuzzer) - Packer Fuzzer is a fast and efficient scanner for security detection of websites constructed by javascript module bundler such as Webpack.
 - [corkami/collisions](https://github.com/corkami/collisions) - Hash collisions and exploitations
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
 - [JeffLIrion/adb_shell](https://github.com/JeffLIrion/adb_shell) - A Python implementation of ADB with shell and FileSync functionality.
 - [google/python-adb](https://github.com/google/python-adb) - Python ADB + Fastboot implementation
 - [justfoxing/ghidra_bridge](https://github.com/justfoxing/ghidra_bridge) - Python 3 bridge to Ghidra's Python scripting
