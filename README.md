@@ -68,7 +68,7 @@
 - [iDroid-Project/openiBoot](https://github.com/iDroid-Project/openiBoot) - Collaborative development of openiBoot for the iDroid Project
 - [planetbeing/ios-jailbreak-patchfinder](https://github.com/planetbeing/ios-jailbreak-patchfinder) - Analyzes a binary iOS kernel to determine function offsets and where to apply the canonical jailbreak patches.
 - [ufrisk/pcileech](https://github.com/ufrisk/pcileech) - Direct Memory Access (DMA) Attack Software
-- [n0xa/m5stick-nemo](https://github.com/n0xa/m5stick-nemo) - M5 Stick C firmware for high-tech pranks
+- [n0xa/m5stick-nemo](https://github.com/n0xa/m5stick-nemo) - M5 Stick C firmware for high-tech pranks and digital self defense
 - [m5stack/M5StickC](https://github.com/m5stack/M5StickC) - M5StickC Arduino Library
 - [m5stack/M5StickC-Plus](https://github.com/m5stack/M5StickC-Plus) - M5StickCPlus Arduino Library
 - [telekom-security/tpotce](https://github.com/telekom-security/tpotce) - 🍯 T-Pot - The All In One Multi Honeypot Platform 🐝
