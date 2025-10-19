@@ -143,6 +143,8 @@
 
 ## Go 
 
+- [quay/clair](https://github.com/quay/clair) - Vulnerability Static Analysis for Containers
+- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [otavioarj/groidproxy](https://github.com/otavioarj/groidproxy) - Golang Android/Linux Proxier
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
 - [anchore/grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems
