@@ -37,6 +37,7 @@
 
 ## C 
 
+- [PerformanC/ReZygisk](https://github.com/PerformanC/ReZygisk) - Transparent implementation of Zygisk.
 - [netblue30/firejail](https://github.com/netblue30/firejail) - Linux namespaces and seccomp-bpf sandbox
 - [maximevince/fbDOOM](https://github.com/maximevince/fbDOOM) - fbDOOM
 - [HighCodeh/Highboy](https://github.com/HighCodeh/Highboy) - Firmware High Boy
