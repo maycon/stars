@@ -127,6 +127,7 @@
 
 ## android 
 
+- [PerformanC/ReZygisk](https://github.com/PerformanC/ReZygisk) - Transparent implementation of Zygisk.
 - [hackcatml/frida-flutterproxy](https://github.com/hackcatml/frida-flutterproxy) - Burp proxy flutter apps
 - [canyie/pine](https://github.com/canyie/pine) - Dynamic java method hook framework on ART. Allowing you to change almost all java methods' behavior dynamically.
 - [nfcgate/nfcgate](https://github.com/nfcgate/nfcgate) - An NFC research toolkit application for Android
