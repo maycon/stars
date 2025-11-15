@@ -609,6 +609,7 @@
 
 ## others 
 
+- [wwwiesel/InfoSec-Black-Friday](https://github.com/wwwiesel/InfoSec-Black-Friday) - All the deals for InfoSec related software/tools this Black Friday
 - [otavioarj/TREM](https://github.com/otavioarj/TREM) - Transactional Racing Executor Monkey - HTTP race condition tool-kit
 - [apernet/OpenGFW](https://github.com/apernet/OpenGFW) - OpenGFW is a flexible, easy-to-use, open source implementation of GFW (Great Firewall of China) on Linux
 - [apkunpacker/FridaScripts](https://github.com/apkunpacker/FridaScripts) - 
