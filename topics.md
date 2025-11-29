@@ -412,6 +412,7 @@
 
 ## hacking 
 
+- [HighCodeh/Highboy](https://github.com/HighCodeh/Highboy) - Firmware High Boy
 - [d3mondev/puredns](https://github.com/d3mondev/puredns) - Puredns is a fast domain resolver and subdomain bruteforcing tool that can accurately filter out wildcard subdomains and DNS poisoned entries.
 - [rtcatc/Packer-Fuzzer](https://github.com/rtcatc/Packer-Fuzzer) - Packer Fuzzer is a fast and efficient scanner for security detection of websites constructed by javascript module bundler such as Webpack.
 - [1N3/PrivEsc](https://github.com/1N3/PrivEsc) - A collection of Windows, Linux and MySQL privilege escalation scripts and exploits.
@@ -620,7 +621,6 @@
 - [apkunpacker/FridaScripts](https://github.com/apkunpacker/FridaScripts) - 
 - [netblue30/firejail](https://github.com/netblue30/firejail) - Linux namespaces and seccomp-bpf sandbox
 - [doug-leith/android-protobuf-decoding](https://github.com/doug-leith/android-protobuf-decoding) - Protobuf schemas for decoding Google Play Services network traffic on Android phones
-- [HighCodeh/Highboy](https://github.com/HighCodeh/Highboy) - Firmware High Boy
 - [sucsand/sucsand](https://github.com/sucsand/sucsand) - Inject gadget.so into target app via Zygisk. Only supports arm64
 - [opa334/Dopamine](https://github.com/opa334/Dopamine) - Dopamine is a semi-untethered jailbreak for iOS 15 and 16
 - [lico-n/ZygiskFrida](https://github.com/lico-n/ZygiskFrida) - Injects frida gadget using zygisk to bypass anti-tamper checks.
