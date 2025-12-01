@@ -232,7 +232,7 @@
 ## c 
 
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
-- [carloslack/KoviD](https://github.com/carloslack/KoviD) - Red-Team Linux kernel rootkit
+- [carloslack/KoviD](https://github.com/carloslack/KoviD) - Red-Team LKM
 - [trezor/trezor-firmware](https://github.com/trezor/trezor-firmware) - :lock: Trezor Firmware Monorepo
 - [openwall/john](https://github.com/openwall/john) - John the Ripper jumbo - advanced offline password cracker, which supports hundreds of hash and cipher types, and runs on many operating systems, CPUs, GPUs, and even some FPGAs
 - [radareorg/radare2](https://github.com/radareorg/radare2) - UNIX-like reverse engineering framework and command-line toolset
@@ -542,7 +542,7 @@
 - [gojue/ecapture](https://github.com/gojue/ecapture) - Capturing SSL/TLS plaintext without a CA certificate using eBPF. Supported on Linux/Android kernels for amd64/arm64.
 - [1N3/PrivEsc](https://github.com/1N3/PrivEsc) - A collection of Windows, Linux and MySQL privilege escalation scripts and exploits.
 - [codesenberg/bombardier](https://github.com/codesenberg/bombardier) - Fast cross-platform HTTP benchmarking tool written in Go
-- [carloslack/KoviD](https://github.com/carloslack/KoviD) - Red-Team Linux kernel rootkit
+- [carloslack/KoviD](https://github.com/carloslack/KoviD) - Red-Team LKM
 - [S2E/s2e](https://github.com/S2E/s2e) - S2E: A platform for multi-path program analysis with selective symbolic execution.
 - [hacksysteam/HackSysExtremeVulnerableDriver](https://github.com/hacksysteam/HackSysExtremeVulnerableDriver) - HackSys Extreme Vulnerable Driver (HEVD) - Windows & Linux
 - [mauri870/linux-insides](https://github.com/mauri870/linux-insides) - Um pouco sobre o kernel linux
@@ -901,7 +901,7 @@
 - [securevale/android-rasp](https://github.com/securevale/android-rasp) - RASP (Runtime Application Self-Protection) solution for protecting Android apps against being run on vulnerable devices.
 - [sixels/GoodBoy](https://github.com/sixels/GoodBoy) - A GameBoy emulator in Rust
 - [joaoviictorti/RustRedOps](https://github.com/joaoviictorti/RustRedOps) - RustRedOps is a repository for advanced Red Team techniques and offensive malware, focused on Rust 🦀
-- [carloslack/KoviD](https://github.com/carloslack/KoviD) - Red-Team Linux kernel rootkit
+- [carloslack/KoviD](https://github.com/carloslack/KoviD) - Red-Team LKM
 - [ergrelet/windiff](https://github.com/ergrelet/windiff) - Web-based tool that allows comparing symbol, type and syscall information of Microsoft Windows binaries across different versions of the OS.
 - [skerkour/black-hat-rust](https://github.com/skerkour/black-hat-rust) - Applied offensive security with Rust  - https://kerkour.com/black-hat-rust
 - [trezor/trezor-firmware](https://github.com/trezor/trezor-firmware) - :lock: Trezor Firmware Monorepo
@@ -1032,7 +1032,7 @@
 
 ## ubuntu 
 
-- [carloslack/KoviD](https://github.com/carloslack/KoviD) - Red-Team Linux kernel rootkit
+- [carloslack/KoviD](https://github.com/carloslack/KoviD) - Red-Team LKM
 
 ## unity 
 
