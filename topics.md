@@ -615,6 +615,7 @@
 
 ## others 
 
+- [powdr-labs/powdr](https://github.com/powdr-labs/powdr) - Performance and security acceleration for zkVMs.
 - [wwwiesel/InfoSec-Black-Friday](https://github.com/wwwiesel/InfoSec-Black-Friday) - All the deals for InfoSec related software/tools this Black Friday
 - [otavioarj/TREM](https://github.com/otavioarj/TREM) - Transactional Racing Executor Monkey - HTTP race condition tool-kit
 - [apernet/OpenGFW](https://github.com/apernet/OpenGFW) - OpenGFW is a flexible, easy-to-use, open source implementation of GFW (Great Firewall of China) on Linux
@@ -826,6 +827,7 @@
 
 ## python 
 
+- [joke2k/faker](https://github.com/joke2k/faker) - Faker is a Python package that generates fake data for you.
 - [programa-stic/barf-project](https://github.com/programa-stic/barf-project) - BARF : A multiplatform open source Binary Analysis and Reverse engineering Framework
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 - [cea-sec/miasm](https://github.com/cea-sec/miasm) - Reverse engineering framework in Python
@@ -1009,6 +1011,7 @@
 
 ## testing 
 
+- [joke2k/faker](https://github.com/joke2k/faker) - Faker is a Python package that generates fake data for you.
 - [AFLplusplus/AFLplusplus](https://github.com/AFLplusplus/AFLplusplus) - The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more!
 - [DeviceFarmer/stf](https://github.com/DeviceFarmer/stf) - Control and manage Android devices from your browser.
 - [lk-geimfari/mimesis](https://github.com/lk-geimfari/mimesis) - Mimesis is a fast Python library for generating fake data in multiple languages.
