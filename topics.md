@@ -627,7 +627,7 @@
 - [opa334/Dopamine](https://github.com/opa334/Dopamine) - Dopamine is a semi-untethered jailbreak for iOS 15 and 16
 - [lico-n/ZygiskFrida](https://github.com/lico-n/ZygiskFrida) - Injects frida gadget using zygisk to bypass anti-tamper checks.
 - [shellphish/how2heap](https://github.com/shellphish/how2heap) - A repository for learning various heap exploitation techniques.
-- [otavioarj/groidproxy](https://github.com/otavioarj/groidproxy) - Golang Android/Linux Proxier
+- [otavioarj/GroidProxy](https://github.com/otavioarj/GroidProxy) - Golang Android/Linux Proxier
 - [oversecured/ovaa](https://github.com/oversecured/ovaa) - Oversecured Vulnerable Android App
 - [oureveryday/VMPUnpacker](https://github.com/oureveryday/VMPUnpacker) - 
 - [MikeM64/Exploit-Writeups](https://github.com/MikeM64/Exploit-Writeups) - Exploit writeups I've authored
