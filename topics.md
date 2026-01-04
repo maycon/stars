@@ -70,6 +70,7 @@
 - [machine-learning](#machine-learning)
 - [macos](#macos)
 - [markdown](#markdown)
+- [mcp](#mcp)
 - [microsoft](#microsoft)
 - [mobile](#mobile)
 - [monero](#monero)
@@ -128,6 +129,7 @@
 
 ## android 
 
+- [Ahmeth4n/renef](https://github.com/Ahmeth4n/renef) - mobile reverse engineering framework
 - [PerformanC/ReZygisk](https://github.com/PerformanC/ReZygisk) - Transparent implementation of Zygisk.
 - [hackcatml/frida-flutterproxy](https://github.com/hackcatml/frida-flutterproxy) - Burp proxy flutter apps
 - [canyie/pine](https://github.com/canyie/pine) - Dynamic java method hook framework on ART. Allowing you to change almost all java methods' behavior dynamically.
@@ -568,6 +570,10 @@
 - [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
 - [nhn/tui.editor](https://github.com/nhn/tui.editor) - 🍞📝 Markdown WYSIWYG Editor. GFM Standard + Chart & UML Extensible.
 
+## mcp 
+
+- [mrexodia/ida-pro-mcp](https://github.com/mrexodia/ida-pro-mcp) - AI-powered reverse engineering assistant that bridges IDA Pro with language models through MCP.
+
 ## microsoft 
 
 - [microsoft/Detours](https://github.com/microsoft/Detours) - Detours is a software package for monitoring and instrumenting API calls on Windows.  It is distributed in source code form.
@@ -616,6 +622,7 @@
 
 ## others 
 
+- [Ahmeth4n/r2renef](https://github.com/Ahmeth4n/r2renef) - Renef IO Plugin for Radare2 - Dynamic Android Instrumentation
 - [powdr-labs/powdr](https://github.com/powdr-labs/powdr) - Performance and security acceleration for zkVMs.
 - [wwwiesel/InfoSec-Black-Friday](https://github.com/wwwiesel/InfoSec-Black-Friday) - All the deals for InfoSec related software/tools this Black Friday
 - [otavioarj/TREM](https://github.com/otavioarj/TREM) - Transactional Racing Executor Monkey - HTTP1.1/2 Race Condition Toolkit
