@@ -37,6 +37,7 @@
 
 ## C 
 
+- [capstone-rust/capstone-rs](https://github.com/capstone-rust/capstone-rs) - High-level Capstone system bindings for Rust
 - [Ahmeth4n/r2renef](https://github.com/Ahmeth4n/r2renef) - Renef IO Plugin for Radare2 - Dynamic Android Instrumentation
 - [PerformanC/ReZygisk](https://github.com/PerformanC/ReZygisk) - Transparent implementation of Zygisk.
 - [netblue30/firejail](https://github.com/netblue30/firejail) - Linux namespaces and seccomp-bpf sandbox
