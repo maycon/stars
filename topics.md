@@ -88,6 +88,7 @@
 - [php](#php)
 - [postgresql](#postgresql)
 - [powershell](#powershell)
+- [prompt-engineering](#prompt-engineering)
 - [python](#python)
 - [python3](#python3)
 - [rest-api](#rest-api)
@@ -833,6 +834,10 @@
 
 - [samratashok/nishang](https://github.com/samratashok/nishang) - Nishang - Offensive PowerShell for red team, penetration testing and offensive security.
 - [p3nt4/Invoke-SocksProxy](https://github.com/p3nt4/Invoke-SocksProxy) - Socks proxy, and reverse socks server using powershell.
+
+## prompt-engineering 
+
+- [ai-boost/awesome-prompts](https://github.com/ai-boost/awesome-prompts) - Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store. Prompt Engineering, prompt attack & prompt protect. Advanced Prompt Engineering papers.
 
 ## python 
 
