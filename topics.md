@@ -623,6 +623,7 @@
 
 ## others 
 
+- [proxytunnel/proxytunnel](https://github.com/proxytunnel/proxytunnel) - Stealth tunneling through HTTP(S) proxies
 - [Ahmeth4n/r2renef](https://github.com/Ahmeth4n/r2renef) - Renef IO Plugin for Radare2 - Dynamic Android Instrumentation
 - [powdr-labs/powdr](https://github.com/powdr-labs/powdr) - Performance and security acceleration for zkVMs.
 - [wwwiesel/InfoSec-Black-Friday](https://github.com/wwwiesel/InfoSec-Black-Friday) - All the deals for InfoSec related software/tools this Black Friday
