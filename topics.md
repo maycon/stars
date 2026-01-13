@@ -113,6 +113,7 @@
 - [typescript](#typescript)
 - [ubuntu](#ubuntu)
 - [unity](#unity)
+- [video](#video)
 - [vpn](#vpn)
 - [web](#web)
 - [webpack](#webpack)
@@ -1057,6 +1058,10 @@
 ## unity 
 
 - [djkaty/Il2CppInspector](https://github.com/djkaty/Il2CppInspector) - Powerful automated tool for reverse engineering Unity IL2CPP binaries
+
+## video 
+
+- [shaka-project/shaka-player](https://github.com/shaka-project/shaka-player) - JavaScript player library / DASH & HLS client / MSE-EME player
 
 ## vpn 
 
