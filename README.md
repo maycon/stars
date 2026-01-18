@@ -40,6 +40,7 @@
 
 - [proxytunnel/proxytunnel](https://github.com/proxytunnel/proxytunnel) - Stealth tunneling through HTTP(S) proxies
 - [capstone-rust/capstone-rs](https://github.com/capstone-rust/capstone-rs) - High-level Capstone system bindings for Rust
+- [Ahmeth4n/renef](https://github.com/Ahmeth4n/renef) - mobile reverse engineering framework
 - [Ahmeth4n/r2renef](https://github.com/Ahmeth4n/r2renef) - Renef IO Plugin for Radare2 - Dynamic Android Instrumentation
 - [PerformanC/ReZygisk](https://github.com/PerformanC/ReZygisk) - Transparent implementation of Zygisk.
 - [netblue30/firejail](https://github.com/netblue30/firejail) - Linux namespaces and seccomp-bpf sandbox
@@ -112,7 +113,6 @@
 
 ## C++ 
 
-- [Ahmeth4n/renef](https://github.com/Ahmeth4n/renef) - mobile reverse engineering framework
 - [doug-leith/android-protobuf-decoding](https://github.com/doug-leith/android-protobuf-decoding) - Protobuf schemas for decoding Google Play Services network traffic on Android phones
 - [lico-n/ZygiskFrida](https://github.com/lico-n/ZygiskFrida) - Injects frida gadget using zygisk to bypass anti-tamper checks.
 - [noahware/hyper-reV](https://github.com/noahware/hyper-reV) - memory introspection and reverse engineering hypervisor powered by leveraging Hyper-V
