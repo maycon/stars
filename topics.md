@@ -630,7 +630,6 @@
 - [powdr-labs/powdr](https://github.com/powdr-labs/powdr) - Performance and security acceleration for zkVMs.
 - [wwwiesel/InfoSec-Black-Friday](https://github.com/wwwiesel/InfoSec-Black-Friday) - All the deals for InfoSec related software/tools this Black Friday
 - [otavioarj/TREM](https://github.com/otavioarj/TREM) - Transactional Racing Executor Monkey - HTTP1.1/2 Race Condition Toolkit
-- [apernet/OpenGFW](https://github.com/apernet/OpenGFW) - OpenGFW is a flexible, easy-to-use, open source implementation of GFW (Great Firewall of China) on Linux
 - [apkunpacker/FridaScripts](https://github.com/apkunpacker/FridaScripts) - 
 - [netblue30/firejail](https://github.com/netblue30/firejail) - Linux namespaces and seccomp-bpf sandbox
 - [doug-leith/android-protobuf-decoding](https://github.com/doug-leith/android-protobuf-decoding) - Protobuf schemas for decoding Google Play Services network traffic on Android phones
