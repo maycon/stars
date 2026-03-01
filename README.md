@@ -153,7 +153,6 @@
 - [otavioarj/TREM](https://github.com/otavioarj/TREM) - Transactional Racing Executor Monkey - HTTP1.1/2 Race Condition Toolkit
 - [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find, verify, and analyze leaked credentials
 - [quay/clair](https://github.com/quay/clair) - Vulnerability Static Analysis for Containers
-- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [otavioarj/GroidProxy](https://github.com/otavioarj/GroidProxy) - Golang Android/Linux Proxier
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
 - [anchore/grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems
