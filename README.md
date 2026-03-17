@@ -233,6 +233,7 @@
 
 ## Kotlin 
 
+- [PortSwigger/mcp-server](https://github.com/PortSwigger/mcp-server) - MCP Server for Burp
 - [gauravssnl/BypassRootCheckPro](https://github.com/gauravssnl/BypassRootCheckPro) - Bypass Root Check Pro Modern Xposed API Module (with Java & Native C/C++ Hooks)
 - [tiann/KernelSU](https://github.com/tiann/KernelSU) - A Kernel based root solution for Android
 - [bmax121/APatch](https://github.com/bmax121/APatch) - The patching of Android kernel and Android system
