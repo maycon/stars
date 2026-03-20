@@ -27,6 +27,7 @@
 - [c-plus-plus](#c-plus-plus)
 - [chatgpt](#chatgpt)
 - [cli](#cli)
+- [clojure](#clojure)
 - [cloud](#cloud)
 - [command-line](#command-line)
 - [continuous-integration](#continuous-integration)
@@ -269,6 +270,10 @@
 - [dronesploit/dronesploit](https://github.com/dronesploit/dronesploit) - Drone pentesting framework console
 - [martinpaljak/GlobalPlatformPro](https://github.com/martinpaljak/GlobalPlatformPro) - Manage applets and keys on JavaCard-s like a pro 🌐 🔐
 
+## clojure 
+
+- [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: https://discuss.logseq.com/t/logseq-product-roadmap
+
 ## cloud 
 
 - [fyoorer/ShadowClone](https://github.com/fyoorer/ShadowClone) - Unleash the power of cloud
@@ -400,6 +405,7 @@
 
 ## git 
 
+- [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: https://discuss.logseq.com/t/logseq-product-roadmap
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [meolu/walle-web](https://github.com/meolu/walle-web) - walle - 瓦力 Devops开源项目代码部署平台
 
@@ -584,6 +590,7 @@
 
 ## markdown 
 
+- [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: https://discuss.logseq.com/t/logseq-product-roadmap
 - [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
 - [nhn/tui.editor](https://github.com/nhn/tui.editor) - 🍞📝 Markdown WYSIWYG Editor. GFM Standard + Chart & UML Extensible.
 
