@@ -9,6 +9,7 @@
 - [C#](#c#)
 - [C++](#c++)
 - [CMake](#cmake)
+- [Clojure](#clojure)
 - [Go](#go)
 - [HCL](#hcl)
 - [HTML](#html)
@@ -146,6 +147,10 @@
 ## CMake 
 
 - [dockcross/dockcross](https://github.com/dockcross/dockcross) - Cross compiling toolchains in Docker images
+
+## Clojure 
+
+- [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: https://discuss.logseq.com/t/logseq-product-roadmap
 
 ## Go 
 
