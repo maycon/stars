@@ -736,7 +736,6 @@
 - [m5stack/M5StickC-Plus](https://github.com/m5stack/M5StickC-Plus) - M5StickCPlus Arduino Library
 - [yanfengwu-syser/syserdebugger](https://github.com/yanfengwu-syser/syserdebugger) - 
 - [yasukata/zpoline](https://github.com/yasukata/zpoline) - system call hook for Linux
-- [honoki/bbrf-client](https://github.com/honoki/bbrf-client) - The Bug Bounty Reconnaissance Framework (BBRF) can help you coordinate your reconnaissance workflows across multiple devices
 - [semigodking/redsocks](https://github.com/semigodking/redsocks) - transparent redirector of any TCP/UDP connection to proxy
 - [darkk/redsocks](https://github.com/darkk/redsocks) - transparent TCP-to-proxy redirector
 - [bruzistico/zigwaf](https://github.com/bruzistico/zigwaf) - The purpose of this tool is to try to validate if real IPs (predefined list) resolve to the site behind the WAF.
