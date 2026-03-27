@@ -38,6 +38,7 @@
 - [data](#data)
 - [devops](#devops)
 - [discord](#discord)
+- [distributed-systems](#distributed-systems)
 - [docker](#docker)
 - [documentation](#documentation)
 - [education](#education)
@@ -328,6 +329,10 @@
 ## discord 
 
 - [hugsy/gef](https://github.com/hugsy/gef) - GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux
+
+## distributed-systems 
+
+- [FleexSecurity/fleex](https://github.com/FleexSecurity/fleex) - Fleex makes it easy to create multiple VPS on cloud providers and use them to distribute workloads.
 
 ## docker 
 
@@ -648,6 +653,7 @@
 
 ## others 
 
+- [assetnote/wordlists](https://github.com/assetnote/wordlists) - Automated & Manual Wordlists provided by Assetnote
 - [PortSwigger/mcp-server](https://github.com/PortSwigger/mcp-server) - MCP Server for Burp
 - [owlcs/pizza-ontology](https://github.com/owlcs/pizza-ontology) - The pizza ontology
 - [namazso/linux_injector](https://github.com/namazso/linux_injector) - A simple ptrace-less shared library injector for x64 Linux
