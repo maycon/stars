@@ -9,6 +9,7 @@
 - [C#](#c#)
 - [C++](#c++)
 - [CMake](#cmake)
+- [CSS](#css)
 - [Clojure](#clojure)
 - [Go](#go)
 - [HCL](#hcl)
@@ -147,6 +148,10 @@
 ## CMake 
 
 - [dockcross/dockcross](https://github.com/dockcross/dockcross) - Cross compiling toolchains in Docker images
+
+## CSS 
+
+- [assetnote/wordlists](https://github.com/assetnote/wordlists) - Automated & Manual Wordlists provided by Assetnote
 
 ## Clojure 
 
