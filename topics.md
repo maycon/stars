@@ -653,7 +653,7 @@
 
 ## others 
 
-- [instructkr/claw-code](https://github.com/instructkr/claw-code) - The fastest repo in history to surpass 50K stars ⭐, reaching the milestone in just 2 hours after publication. Better Harness Tools, not merely storing the archive of leaked Claude Code but also make r
+- [instructkr/claw-code](https://github.com/instructkr/claw-code) - The fastest repo in history to surpass 100K stars ⭐. Better Harness Tools that make real things done. Built in Rust using oh-my-codex.
 - [assetnote/wordlists](https://github.com/assetnote/wordlists) - Automated & Manual Wordlists provided by Assetnote
 - [PortSwigger/mcp-server](https://github.com/PortSwigger/mcp-server) - MCP Server for Burp
 - [owlcs/pizza-ontology](https://github.com/owlcs/pizza-ontology) - The pizza ontology
