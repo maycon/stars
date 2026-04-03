@@ -118,7 +118,6 @@
 - [typescript](#typescript)
 - [ubuntu](#ubuntu)
 - [unity](#unity)
-- [video](#video)
 - [vpn](#vpn)
 - [web](#web)
 - [webpack](#webpack)
@@ -539,7 +538,6 @@
 
 - [javascript-obfuscator/javascript-obfuscator](https://github.com/javascript-obfuscator/javascript-obfuscator) - A powerful obfuscator for JavaScript and Node.js
 - [novnc/noVNC](https://github.com/novnc/noVNC) - VNC client web application
-- [shaka-project/shaka-player](https://github.com/shaka-project/shaka-player) - JavaScript player library / DASH & HLS client / MSE-EME player
 - [globocom/huskyCI](https://github.com/globocom/huskyCI) - Performing security tests inside your CI
 
 ## jquery 
@@ -653,7 +651,7 @@
 
 ## others 
 
-- [instructkr/claw-code](https://github.com/instructkr/claw-code) - The fastest repo in history to surpass 100K stars ⭐. Better Harness Tools that make real things done. Built in Rust using oh-my-codex.
+- [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - [Notice] The repo temporarily locked while ownership transfer. in the meantime we maintain on here: https://github.com/ultraworkers/claw-code-parity. The fastest repo in history to surpass 100K stars 
 - [assetnote/wordlists](https://github.com/assetnote/wordlists) - Automated & Manual Wordlists provided by Assetnote
 - [PortSwigger/mcp-server](https://github.com/PortSwigger/mcp-server) - MCP Server for Burp
 - [owlcs/pizza-ontology](https://github.com/owlcs/pizza-ontology) - The pizza ontology
@@ -783,6 +781,7 @@
 - [0x36/ghidra_kernelcache](https://github.com/0x36/ghidra_kernelcache) - a Ghidra framework for iOS kernelcache reverse engineering
 - [Siguza/iometa](https://github.com/Siguza/iometa) - arm64 IOKit class dumper
 - [otavioarj/SHook](https://github.com/otavioarj/SHook) - Simple Linux Kernel &gt;=4 syscall hooking
+- [shaka-project/shaka-player](https://github.com/shaka-project/shaka-player) - JavaScript player library / DASH & HLS client / MSE-EME player
 - [videojs/videojs-contrib-eme](https://github.com/videojs/videojs-contrib-eme) - Supports Encrypted Media Extensions for playback of encrypted content in Video.js
 - [cybozu-go/usocksd](https://github.com/cybozu-go/usocksd) - SOCKS4/5 server library and command in Go
 - [cybozu-go/transocks](https://github.com/cybozu-go/transocks) - Transparent SOCKS5 / HTTP proxy in Go
@@ -1094,10 +1093,6 @@
 ## unity 
 
 - [djkaty/Il2CppInspector](https://github.com/djkaty/Il2CppInspector) - Powerful automated tool for reverse engineering Unity IL2CPP binaries
-
-## video 
-
-- [shaka-project/shaka-player](https://github.com/shaka-project/shaka-player) - JavaScript player library / DASH & HLS client / MSE-EME player
 
 ## vpn 
 
