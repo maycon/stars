@@ -279,7 +279,6 @@
 - [owlcs/pizza-ontology](https://github.com/owlcs/pizza-ontology) - The pizza ontology
 - [opsdisk/the_cyber_plumbers_handbook](https://github.com/opsdisk/the_cyber_plumbers_handbook) - Free copy of The Cyber Plumber's Handbook - The definitive guide to Secure Shell (SSH) tunneling, port redirection, and bending traffic like a boss.
 - [wwwiesel/InfoSec-Black-Friday](https://github.com/wwwiesel/InfoSec-Black-Friday) - All the deals for InfoSec related software/tools this Black Friday
-- [sucsand/sucsand](https://github.com/sucsand/sucsand) - Inject gadget.so into target app via Zygisk. Only supports arm64
 - [MikeM64/Exploit-Writeups](https://github.com/MikeM64/Exploit-Writeups) - Exploit writeups I've authored
 - [5ec1cff/TrickyStore](https://github.com/5ec1cff/TrickyStore) - 
 - [Solaree/pairipcore](https://github.com/Solaree/pairipcore) - Public researchings of the Google's Android apps protection
