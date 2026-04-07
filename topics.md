@@ -26,6 +26,7 @@
 - [c](#c)
 - [c-plus-plus](#c-plus-plus)
 - [chatgpt](#chatgpt)
+- [claude-code](#claude-code)
 - [cli](#cli)
 - [clojure](#clojure)
 - [cloud](#cloud)
@@ -262,6 +263,10 @@
 ## chatgpt 
 
 - [ai-boost/awesome-prompts](https://github.com/ai-boost/awesome-prompts) - Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store. Prompt Engineering, prompt attack & prompt protect. Advanced Prompt Engineering papers.
+
+## claude-code 
+
+- [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 
 ## cli 
 
@@ -670,7 +675,6 @@
 - [apkunpacker/FridaScripts](https://github.com/apkunpacker/FridaScripts) - 
 - [netblue30/firejail](https://github.com/netblue30/firejail) - Linux namespaces and seccomp-bpf sandbox
 - [doug-leith/android-protobuf-decoding](https://github.com/doug-leith/android-protobuf-decoding) - Protobuf schemas for decoding Google Play Services network traffic on Android phones
-- [sucsand/sucsand](https://github.com/sucsand/sucsand) - Inject gadget.so into target app via Zygisk. Only supports arm64
 - [opa334/Dopamine](https://github.com/opa334/Dopamine) - Dopamine is a semi-untethered jailbreak for iOS 15 and 16
 - [lico-n/ZygiskFrida](https://github.com/lico-n/ZygiskFrida) - Injects frida gadget using zygisk to bypass anti-tamper checks.
 - [shellphish/how2heap](https://github.com/shellphish/how2heap) - A repository for learning various heap exploitation techniques.
