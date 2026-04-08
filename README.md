@@ -368,7 +368,6 @@
 - [fyoorer/ShadowClone](https://github.com/fyoorer/ShadowClone) - Unleash the power of cloud
 - [honoki/bbrf-client](https://github.com/honoki/bbrf-client) - The Bug Bounty Reconnaissance Framework (BBRF) can help you coordinate your reconnaissance workflows across multiple devices
 - [splunk/attack_range](https://github.com/splunk/attack_range) - A tool that allows you to create vulnerable instrumented local or cloud environments to simulate attacks against and collect the data into Splunk
-- [bee-san/Ciphey](https://github.com/bee-san/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 - [crytic/slither](https://github.com/crytic/slither) - Static Analyzer for Solidity and Vyper
 - [ansible-collections/community.docker](https://github.com/ansible-collections/community.docker) - Community Docker Collection for Ansible: modules and plugins for working with Docker
 - [ashutosh1206/Crypton](https://github.com/ashutosh1206/Crypton) - Library consisting of explanation and implementation of all the existing attacks on various Encryption Systems, Digital Signatures, Key Exchange, Authentication methods along with example challenges f
@@ -422,6 +421,7 @@
 - [securevale/android-rasp](https://github.com/securevale/android-rasp) - RASP (Runtime Application Self-Protection) solution for protecting Android apps against being run on vulnerable devices.
 - [sixels/GoodBoy](https://github.com/sixels/GoodBoy) - A GameBoy emulator in Rust
 - [joaoviictorti/RustRedOps](https://github.com/joaoviictorti/RustRedOps) - RustRedOps is a repository for advanced Red Team techniques and offensive malware, focused on Rust
+- [bee-san/Ciphey](https://github.com/bee-san/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 - [ergrelet/windiff](https://github.com/ergrelet/windiff) - Web-based tool that allows comparing symbol, type and syscall information of Microsoft Windows binaries across different versions of the OS.
 - [skerkour/black-hat-rust](https://github.com/skerkour/black-hat-rust) - Applied offensive security with Rust  - https://kerkour.com/black-hat-rust
 - [ReFirmLabs/binwalk](https://github.com/ReFirmLabs/binwalk) - Firmware Analysis Tool
