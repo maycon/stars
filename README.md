@@ -8,7 +8,6 @@
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
-- [CMake](#cmake)
 - [CSS](#css)
 - [Clojure](#clojure)
 - [Go](#go)
@@ -144,10 +143,6 @@
 - [talos-vulndev/afl-dyninst](https://github.com/talos-vulndev/afl-dyninst) - American Fuzzy Lop + Dyninst == AFL Fuzzing blackbox binaries
 - [REhints/HexRaysCodeXplorer](https://github.com/REhints/HexRaysCodeXplorer) - Hex-Rays Decompiler plugin for better code navigation
 - [otavioarj/KiInjector](https://github.com/otavioarj/KiInjector) - Kindly Win x86/x64 DLL Injector
-
-## CMake 
-
-- [dockcross/dockcross](https://github.com/dockcross/dockcross) - Cross compiling toolchains in Docker images
 
 ## CSS 
 
@@ -441,6 +436,7 @@
 - [trimstray/multitor](https://github.com/trimstray/multitor) - Create multiple TOR instances with a load-balancing.
 - [pry0cc/axiom](https://github.com/pry0cc/axiom) - The dynamic infrastructure framework for everybody! Distribute the workload of many different scanning tools with ease, including nmap, ffuf, masscan, nuclei, meg and many more!
 - [maycon/mikrotik-tools](https://github.com/maycon/mikrotik-tools) - Tools for Mikrotik devices
+- [dockcross/dockcross](https://github.com/dockcross/dockcross) - Cross compiling toolchains in Docker images
 - [devttys0/sasquatch](https://github.com/devttys0/sasquatch) - 
 
 ## Solidity 
