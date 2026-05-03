@@ -37,6 +37,7 @@
 - [cryptography](#cryptography)
 - [cybersecurity](#cybersecurity)
 - [data](#data)
+- [developer-tools](#developer-tools)
 - [devops](#devops)
 - [discord](#discord)
 - [distributed-systems](#distributed-systems)
@@ -326,6 +327,10 @@
 ## data 
 
 - [lk-geimfari/mimesis](https://github.com/lk-geimfari/mimesis) - Mimesis is a fast Python library for generating fake data in multiple languages.
+
+## developer-tools 
+
+- [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 
 ## devops 
 
