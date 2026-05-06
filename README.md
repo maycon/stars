@@ -379,7 +379,7 @@
 - [bazad/ida_kernelcache](https://github.com/bazad/ida_kernelcache) - An IDA Toolkit for analyzing iOS kernelcaches.
 - [0x36/ghidra_kernelcache](https://github.com/0x36/ghidra_kernelcache) - a Ghidra framework for iOS kernelcache reverse engineering
 - [meolu/walle-web](https://github.com/meolu/walle-web) - walle - 瓦力 Devops开源项目代码部署平台
-- [nginx-proxy/nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) - Automated nginx proxy for Docker containers using docker-gen
+- [nginx-proxy/nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) - Automated Nginx Reverse Proxy for Docker
 - [Allen7D/mini-shop-server](https://github.com/Allen7D/mini-shop-server) - 基于 Flask 框架开发的微信小程序后端项目，用于构建小程序商城后台 （电商相关；rbac权限管理；附带自动生成Swagger 风格的API 文档；可作「Python 项目毕设」）---- 相关博客链接:🌟https://deepwiki.com/Allen7D/mini-shop-server
 - [tonyseek/simple-rbac](https://github.com/tonyseek/simple-rbac) - A simple role based access control utility for Python.
 - [Rikj000/MoniGoMani](https://github.com/Rikj000/MoniGoMani) - Isn't that what we all want? Our money to go many? Well that's what this framework/strategy hopes to do for you! By giving you & HyperOpt a lot of signals to alter the weights from.
