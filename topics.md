@@ -756,7 +756,7 @@
 - [f0cker/crackq](https://github.com/f0cker/crackq) - CrackQ: A Python Hashcat cracking queue system
 - [AGWA/git-crypt](https://github.com/AGWA/git-crypt) - Transparent file encryption in git
 - [shaka-project/shaka-packager](https://github.com/shaka-project/shaka-packager) - A media packaging and development framework for VOD and Live DASH and HLS applications, supporting Common Encryption for Widevine and other DRM Systems.
-- [google/android-emulator-container-scripts](https://github.com/google/android-emulator-container-scripts) - 
+- [google/android-emulator-container-scripts](https://github.com/google/android-emulator-container-scripts) - This is a set of minimal scripts to run the emulator in a container for various systems such as Docker, for external consumption
 - [10up/wp-scrubber](https://github.com/10up/wp-scrubber) - BETA: This plugin provides a command-line interface for scrubbing sensitive user and comment data from a WordPress installation.
 - [iDroid-Project/openiBoot](https://github.com/iDroid-Project/openiBoot) - Collaborative development of openiBoot for the iDroid Project
 - [planetbeing/ios-jailbreak-patchfinder](https://github.com/planetbeing/ios-jailbreak-patchfinder) - Analyzes a binary iOS kernel to determine function offsets and where to apply the canonical jailbreak patches.
