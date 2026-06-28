@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [agent-skills](#agent-skills)
 - [ai](#ai)
 - [ai-agents](#ai-agents)
 - [algorithmic-trading](#algorithmic-trading)
@@ -129,6 +130,10 @@
 - [web](#web)
 - [webpack](#webpack)
 - [windows](#windows)
+
+## agent-skills 
+
+- [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 
 ## ai 
 
