@@ -216,6 +216,7 @@
 
 ## JavaScript 
 
+- [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [carbon-app/carbon](https://github.com/carbon-app/carbon) - :black_heart: Create and share beautiful images of your source code
 - [apkunpacker/FridaScripts](https://github.com/apkunpacker/FridaScripts) - 
 - [hackcatml/frida-flutterproxy](https://github.com/hackcatml/frida-flutterproxy) - Burp proxy flutter apps
@@ -324,6 +325,7 @@
 
 ## Python 
 
+- [bikini/exploitarium](https://github.com/bikini/exploitarium) - A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed 
 - [openai/privacy-filter](https://github.com/openai/privacy-filter) - OpenAI Privacy Filter
 - [safishamsi/graphify](https://github.com/safishamsi/graphify) - AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable
 - [RhinoSecurityLabs/cloudgoat](https://github.com/RhinoSecurityLabs/cloudgoat) - CloudGoat is Rhino Security Labs' "Vulnerable by Design" AWS deployment tool
