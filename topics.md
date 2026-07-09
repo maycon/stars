@@ -705,6 +705,7 @@
 
 ## others 
 
+- [skhaz/zines](https://github.com/skhaz/zines) - Archive of Brazilian underground / hacking zines as plain text
 - [yatevoip/yatebts](https://github.com/yatevoip/yatebts) - YateBTS GSM basestation - Open Source BTS
 - [bikini/exploitarium](https://github.com/bikini/exploitarium) - A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed 
 - [openai/privacy-filter](https://github.com/openai/privacy-filter) - OpenAI Privacy Filter
