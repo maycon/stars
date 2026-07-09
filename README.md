@@ -430,6 +430,7 @@
 
 ## Shell 
 
+- [skhaz/zines](https://github.com/skhaz/zines) - Archive of Brazilian underground / hacking zines as plain text
 - [NVISOsecurity/AlwaysTrustUserCerts](https://github.com/NVISOsecurity/AlwaysTrustUserCerts) - A Magisk/KernelSU module that automatically adds user certificates to the system root CA store
 - [qemus/qemu](https://github.com/qemus/qemu) - QEMU in a Docker container.
 - [sknux/extractSplittedApps](https://github.com/sknux/extractSplittedApps) - 
