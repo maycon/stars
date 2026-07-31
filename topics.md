@@ -106,6 +106,7 @@
 - [prompt-engineering](#prompt-engineering)
 - [python](#python)
 - [python3](#python3)
+- [quantitative-finance](#quantitative-finance)
 - [rag](#rag)
 - [redteam](#redteam)
 - [rest-api](#rest-api)
@@ -154,6 +155,7 @@
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, e
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
+- [hummingbot/hummingbot](https://github.com/hummingbot/hummingbot) - Open source software that helps you create and deploy high-frequency crypto trading bots
 
 ## algorithmic-trading 
 
@@ -253,7 +255,6 @@
 
 - [ccxt/ccxt](https://github.com/ccxt/ccxt) - A unified trading API with more than 100 crypto exchanges and prediction markets in JavaScript / TypeScript / Python / C# / PHP / Go / Java
 - [modagavr/pancake-wizard](https://github.com/modagavr/pancake-wizard) - 🐱🪄🥞 Bot for PancakeSwap Prediction – 26 technical indicators. Make smarter predictions with Pancake Wizard – trust math, not emotions!
-- [hummingbot/hummingbot](https://github.com/hummingbot/hummingbot) - Open source software that helps you create and deploy high-frequency crypto trading bots
 
 ## bugbounty 
 
@@ -397,7 +398,6 @@
 - [paurakhsharma/python-microservice-fastapi](https://github.com/paurakhsharma/python-microservice-fastapi) - Learn to build your own microservice using Python and FastAPI
 - [nginx-proxy/nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) - Automated Nginx Reverse Proxy for Docker
 - [subspacecloud/subspace](https://github.com/subspacecloud/subspace) - A simple WireGuard VPN server GUI
-- [hummingbot/hummingbot](https://github.com/hummingbot/hummingbot) - Open source software that helps you create and deploy high-frequency crypto trading bots
 - [dockcross/dockcross](https://github.com/dockcross/dockcross) - Cross compiling toolchains in Docker images
 
 ## documentation 
@@ -986,6 +986,10 @@
 - [rtcatc/Packer-Fuzzer](https://github.com/rtcatc/Packer-Fuzzer) - Packer Fuzzer is a fast and efficient scanner for security detection of websites constructed by javascript module bundler such as Webpack.
 - [justfoxing/ghidra_bridge](https://github.com/justfoxing/ghidra_bridge) - Python 3 bridge to Ghidra's Python scripting
 - [Pennyw0rth/NetExec](https://github.com/Pennyw0rth/NetExec) - The Network Execution Tool
+
+## quantitative-finance 
+
+- [hummingbot/hummingbot](https://github.com/hummingbot/hummingbot) - Open source software that helps you create and deploy high-frequency crypto trading bots
 
 ## rag 
 
