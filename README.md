@@ -38,6 +38,7 @@
 
 ## C 
 
+- [JustVugg/colibri](https://github.com/JustVugg/colibri) - Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦
 - [yatevoip/yatebts](https://github.com/yatevoip/yatebts) - YateBTS GSM basestation - Open Source BTS
 - [proxytunnel/proxytunnel](https://github.com/proxytunnel/proxytunnel) - Stealth tunneling through HTTP(S) proxies
 - [capstone-rust/capstone-rs](https://github.com/capstone-rust/capstone-rs) - High-level Capstone system bindings for Rust
