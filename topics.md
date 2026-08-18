@@ -882,6 +882,7 @@
 - [julioverne/screendump](https://github.com/julioverne/screendump) - 
 - [felamos/weirdhta](https://github.com/felamos/weirdhta) - A tool to create obfuscated HTA script.
 - [SinaKarvandi/Hypervisor-From-Scratch](https://github.com/SinaKarvandi/Hypervisor-From-Scratch) - Source code of a multiple series of tutorials about the hypervisor. Available at: https://rayanfam.com/tutorials
+- [f0rb1dd3n/Reptile](https://github.com/f0rb1dd3n/Reptile) - LKM Linux rootkit
 - [mdsecactivebreach/SharpShooter](https://github.com/mdsecactivebreach/SharpShooter) - Payload Generation Framework
 - [bdamele/shellcodeexec](https://github.com/bdamele/shellcodeexec) - Script to execute in memory a sequence of opcodes
 - [nccgroup/keimpx](https://github.com/nccgroup/keimpx) - Check for valid credentials across a network over SMB
@@ -898,7 +899,7 @@
 - [devttys0/sasquatch](https://github.com/devttys0/sasquatch) - 
 - [ReFirmLabs/binwalk](https://github.com/ReFirmLabs/binwalk) - Firmware Analysis Tool
 - [maycon/grinder](https://github.com/maycon/grinder) - Grinder is a system to automate the fuzzing of web browsers and the management of a large number of crashes.
-- [frida/frida](https://github.com/frida/frida) - Clone this repo to build Frida
+- [frida/frida](https://github.com/frida/frida) - Main repo for hosting release binaries
 - [lgandx/Responder](https://github.com/lgandx/Responder) - Responder is a LLMNR, NBT-NS and MDNS poisoner, with built-in HTTP/SMB/MSSQL/FTP/LDAP rogue authentication server supporting NTLMv1/NTLMv2/LMv2, Extended Security NTLMSSP and Basic HTTP authentication
 - [evilwombat/gopro-usb-tools](https://github.com/evilwombat/gopro-usb-tools) - Tools for booting an otherwise hard-bricked GoPro Hero2 / Hero3+Black / Hero4 camera using its built-in USB command mode, to its RTOS or to a standalone Linux environment.
 - [otavioarj/KiInjector](https://github.com/otavioarj/KiInjector) - Kindly Win x86/x64 DLL Injector
