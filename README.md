@@ -116,7 +116,7 @@
 
 - [namazso/linux_injector](https://github.com/namazso/linux_injector) - A simple ptrace-less shared library injector for x64 Linux
 - [Offensive-Panda/ProcessInjectionTechniques](https://github.com/Offensive-Panda/ProcessInjectionTechniques) - This comprehensive process injection series is crafted for cybersecurity enthusiasts, researchers, and professionals who aim to stay at the forefront of the field. It serves as a central repository of
-- [Ahmeth4n/renef](https://github.com/Ahmeth4n/renef) - mobile reverse engineering framework
+- [Byterialab/renef](https://github.com/Byterialab/renef) - mobile reverse engineering framework
 - [doug-leith/android-protobuf-decoding](https://github.com/doug-leith/android-protobuf-decoding) - Protobuf schemas for decoding Google Play Services network traffic on Android phones
 - [lico-n/ZygiskFrida](https://github.com/lico-n/ZygiskFrida) - Injects frida gadget using zygisk to bypass anti-tamper checks.
 - [noahware/hyper-reV](https://github.com/noahware/hyper-reV) - memory introspection and reverse engineering hypervisor powered by leveraging Hyper-V
