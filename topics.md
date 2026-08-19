@@ -161,7 +161,7 @@
 
 ## android 
 
-- [Ahmeth4n/renef](https://github.com/Ahmeth4n/renef) - mobile reverse engineering framework
+- [Byterialab/renef](https://github.com/Byterialab/renef) - mobile reverse engineering framework
 - [PerformanC/ReZygisk](https://github.com/PerformanC/ReZygisk) - Transparent implementation of Zygisk.
 - [hackcatml/frida-flutterproxy](https://github.com/hackcatml/frida-flutterproxy) - Burp proxy flutter apps
 - [canyie/pine](https://github.com/canyie/pine) - Dynamic java method hook framework on ART. Allowing you to change almost all java methods' behavior dynamically.
