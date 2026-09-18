@@ -271,7 +271,7 @@
 ## Objective-C 
 
 - [roothide/Bootstrap](https://github.com/roothide/Bootstrap) - A full featured bootstrap for iOS 15.0-17.0 A8-A17Pro & M1+M2 using roothide
-- [xybp888/iOS-SDKs](https://github.com/xybp888/iOS-SDKs) - iOS 9 - iOS 26 SDK including symbols for private frameworks.
+- [xybp888/iOS-SDKs](https://github.com/xybp888/iOS-SDKs) - iOS 9 - iOS 27 SDK including symbols for private frameworks.
 - [maycon/Pacman](https://github.com/maycon/Pacman) - A very buggy Pacman game written in C with OpenGL
 
 ## Others 
@@ -417,6 +417,7 @@
 
 ## Rust 
 
+- [typst/typst](https://github.com/typst/typst) - A markup-based typesetting system that is powerful and easy to learn.
 - [hahwul/dalfox](https://github.com/hahwul/dalfox) - 🌙🦊 Dalfox is a powerful open-source XSS scanner and utility focused on automation.
 - [Aloxaf/silicon](https://github.com/Aloxaf/silicon) - Create beautiful image of your source code.
 - [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.
