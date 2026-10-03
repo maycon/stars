@@ -467,7 +467,7 @@
 
 ## TypeScript 
 
-- [0sec-labs/0](https://github.com/0sec-labs/0) - 🥷🏻 0 is the open-source AI security agent that finds, exploits, and fixes vulnerabilities across your stack. [Research Preview - by the Swiss Applied AI & Cybersecurity Research Lab]
+- [0sec-labs/0](https://github.com/0sec-labs/0) - Full-stack AI security OS for your browser, terminal, and agents. Find, verify, and fix vulnerabilities. Prioritized by business impact instead of just CVSS scores.
 - [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, sli
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
 - [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Shannon is an AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production.
