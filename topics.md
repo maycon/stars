@@ -140,6 +140,7 @@
 - [web](#web)
 - [webpack](#webpack)
 - [windows](#windows)
+- [windows-11](#windows-11)
 
 ## agent-skills 
 
@@ -1262,6 +1263,10 @@
 - [ergrelet/windiff](https://github.com/ergrelet/windiff) - Tool that allows comparing symbol, type and syscall information of Microsoft Windows binaries across different versions of the OS, using a Web UI and/or LLMs.
 - [S2E/s2e](https://github.com/S2E/s2e) - S2E: A platform for multi-path program analysis with selective symbolic execution.
 - [hacksysteam/HackSysExtremeVulnerableDriver](https://github.com/hacksysteam/HackSysExtremeVulnerableDriver) - HackSys Extreme Vulnerable Driver (HEVD) - Windows & Linux
+
+## windows-11 
+
+- [7etsuo/windows-api-function-cheatsheets](https://github.com/7etsuo/windows-api-function-cheatsheets) - A reference of Windows API function calls, including functions for file operations, process management, memory management, thread management, dynamic-link library (DLL) management, synchronization, in
 
 
 ## License
