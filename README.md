@@ -277,6 +277,7 @@
 
 ## Others 
 
+- [morluto/awesome-reverse-engineering](https://github.com/morluto/awesome-reverse-engineering) - Curated reverse-engineering tools and learning resources for binaries, apps, firmware, formats, and protocols.
 - [nomi-sec/PoC-in-GitHub](https://github.com/nomi-sec/PoC-in-GitHub) - 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware.
 - [owlcs/pizza-ontology](https://github.com/owlcs/pizza-ontology) - The pizza ontology
 - [opsdisk/the_cyber_plumbers_handbook](https://github.com/opsdisk/the_cyber_plumbers_handbook) - Free copy of The Cyber Plumber's Handbook - The definitive guide to Secure Shell (SSH) tunneling, port redirection, and bending traffic like a boss.
@@ -470,7 +471,7 @@
 
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [0sec-labs/0](https://github.com/0sec-labs/0) - The multiplayer AI offensive security OS - open, self-improving, extensible. Find, verify, and fix vulnerabilities.
-- [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, sli
+- [nexu-io/open-design](https://github.com/nexu-io/open-design) - The 1st Collaborative AI Design Agent Workspace. Local-first and open source. Create prototypes, websites, apps, dashboards, presentations, images, and videos with your team and AI agents. Share work,
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
 - [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Shannon is an AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production.
 - [KOWX712/Tricky-Addon-Update-Target-List](https://github.com/KOWX712/Tricky-Addon-Update-Target-List) - A KSU WebUI to configure Tricky Store target.txt
