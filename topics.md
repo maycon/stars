@@ -813,7 +813,7 @@
 - [spinkham/skipfish](https://github.com/spinkham/skipfish) - Web application security scanner created by lcamtuf for google - Unofficial Mirror
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
 - [Anorov/PySocks](https://github.com/Anorov/PySocks) - A SOCKS proxy client and wrapper for Python.
-- [pRain1337/plouton](https://github.com/pRain1337/plouton) - System Management Mode (SMM) game cheating framework
+- [rain-1337/plouton](https://github.com/rain-1337/plouton) - System Management Mode (SMM) game cheating framework
 - [MatrixEditor/pairipcore-vm](https://github.com/MatrixEditor/pairipcore-vm) - Research on the internal workings of Google's Play Integrity Protect Virtual Machine (VM) with tools for both disassembling and decompiling the bytecode.
 - [apkunpacker/AntiFrida_Bypass](https://github.com/apkunpacker/AntiFrida_Bypass) - Generic Script To Bypass Some AntiFrida Checks
 - [ading2210/linuxpdf](https://github.com/ading2210/linuxpdf) - Linux running inside a PDF file via a RISC-V emulator
