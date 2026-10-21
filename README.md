@@ -57,7 +57,7 @@
 - [gojue/ecapture](https://github.com/gojue/ecapture) - Capture SSL/TLS plaintext with eBPF—no MITM proxy or custom CA installation. Supports Linux and Android on x86_64 and arm64.
 - [spinkham/skipfish](https://github.com/spinkham/skipfish) - Web application security scanner created by lcamtuf for google - Unofficial Mirror
 - [ShinoLeah/eDBG](https://github.com/ShinoLeah/eDBG) - eBPF-based lightweight debugger for Android with MCP support
-- [pRain1337/plouton](https://github.com/pRain1337/plouton) - System Management Mode (SMM) game cheating framework
+- [rain-1337/plouton](https://github.com/rain-1337/plouton) - System Management Mode (SMM) game cheating framework
 - [capstone-engine/capstone](https://github.com/capstone-engine/capstone) - Capstone disassembly/disassembler framework for ARM, ARM64 (ARMv8), Alpha, BPF, Ethereum VM, HPPA, LoongArch, M68K, M680X, Mips, MOS65XX, PPC, RISC-V(rv32G/rv64G), SH, Sparc, SystemZ, TMS320C64X, TriC
 - [unicorn-engine/unicorn](https://github.com/unicorn-engine/unicorn) - Unicorn CPU emulator framework (ARM, AArch64, M68K, Mips, Sparc, PowerPC, RiscV, S390x, TriCore, X86)
 - [ading2210/linuxpdf](https://github.com/ading2210/linuxpdf) - Linux running inside a PDF file via a RISC-V emulator
@@ -278,7 +278,6 @@
 
 ## Others 
 
-- [morluto/awesome-reverse-engineering](https://github.com/morluto/awesome-reverse-engineering) - Curated reverse-engineering tools and learning resources for binaries, apps, firmware, formats, and protocols.
 - [nomi-sec/PoC-in-GitHub](https://github.com/nomi-sec/PoC-in-GitHub) - 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware.
 - [owlcs/pizza-ontology](https://github.com/owlcs/pizza-ontology) - The pizza ontology
 - [opsdisk/the_cyber_plumbers_handbook](https://github.com/opsdisk/the_cyber_plumbers_handbook) - Free copy of The Cyber Plumber's Handbook - The definitive guide to Secure Shell (SSH) tunneling, port redirection, and bending traffic like a boss.
@@ -333,6 +332,7 @@
 ## Python 
 
 - [BitterSecurity/Decepticon](https://github.com/BitterSecurity/Decepticon) - Autonomous Hacking Agent for Red Team
+- [morluto/awesome-reverse-engineering](https://github.com/morluto/awesome-reverse-engineering) - Curated reverse-engineering tools and learning resources for binaries, apps, firmware, formats, and protocols.
 - [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
 - [bikini/exploitarium](https://github.com/bikini/exploitarium) - A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed 
 - [openai/privacy-filter](https://github.com/openai/privacy-filter) - OpenAI Privacy Filter
