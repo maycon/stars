@@ -37,6 +37,7 @@
 - [clojure](#clojure)
 - [cloud](#cloud)
 - [code-quality](#code-quality)
+- [code-review](#code-review)
 - [command-line](#command-line)
 - [compiler](#compiler)
 - [continuous-integration](#continuous-integration)
@@ -170,6 +171,7 @@
 
 - [morluto/awesome-reverse-engineering](https://github.com/morluto/awesome-reverse-engineering) - Curated reverse-engineering tools and learning resources for binaries, apps, firmware, formats, and protocols.
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
+- [0sec-labs/0](https://github.com/0sec-labs/0) - Open-source AI security harness with a local web UI for code review, vulnerability research, verification, and fixes. CLI and MCP for coding agents.
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, e
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
@@ -353,6 +355,10 @@
 
 - [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
 
+## code-review 
+
+- [0sec-labs/0](https://github.com/0sec-labs/0) - Open-source AI security harness with a local web UI for code review, vulnerability research, verification, and fixes. CLI and MCP for coding agents.
+
 ## command-line 
 
 - [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows you to search for iOS, iPadOS, tvOS, watchOS, visionOS, and macOS apps on the App Store, and download .ipa or macOS .pkg app packages.
@@ -394,7 +400,7 @@
 
 - [BitterSecurity/Decepticon](https://github.com/BitterSecurity/Decepticon) - Autonomous Hacking Agent for Red Team
 - [morluto/awesome-reverse-engineering](https://github.com/morluto/awesome-reverse-engineering) - Curated reverse-engineering tools and learning resources for binaries, apps, firmware, formats, and protocols.
-- [0sec-labs/0](https://github.com/0sec-labs/0) - The AI offensive security OS - open, self-improving, extensible. Find, verify, and fix vulnerabilities 24/7.
+- [0sec-labs/0](https://github.com/0sec-labs/0) - Open-source AI security harness with a local web UI for code review, vulnerability research, verification, and fixes. CLI and MCP for coding agents.
 - [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
 - [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Shannon is an AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production.
 - [trickest/resolvers](https://github.com/trickest/resolvers) - The most exhaustive list of reliable DNS resolvers.
@@ -719,7 +725,7 @@
 
 - [morluto/awesome-reverse-engineering](https://github.com/morluto/awesome-reverse-engineering) - Curated reverse-engineering tools and learning resources for binaries, apps, firmware, formats, and protocols.
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
-- [0sec-labs/0](https://github.com/0sec-labs/0) - The AI offensive security OS - open, self-improving, extensible. Find, verify, and fix vulnerabilities 24/7.
+- [0sec-labs/0](https://github.com/0sec-labs/0) - Open-source AI security harness with a local web UI for code review, vulnerability research, verification, and fixes. CLI and MCP for coding agents.
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, e
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
@@ -958,7 +964,7 @@
 
 ## penetration-testing 
 
-- [0sec-labs/0](https://github.com/0sec-labs/0) - The AI offensive security OS - open, self-improving, extensible. Find, verify, and fix vulnerabilities 24/7.
+- [0sec-labs/0](https://github.com/0sec-labs/0) - Open-source AI security harness with a local web UI for code review, vulnerability research, verification, and fixes. CLI and MCP for coding agents.
 - [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
 - [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Shannon is an AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production.
 - [opsdisk/the_cyber_plumbers_handbook](https://github.com/opsdisk/the_cyber_plumbers_handbook) - Free copy of The Cyber Plumber's Handbook - The definitive guide to Secure Shell (SSH) tunneling, port redirection, and bending traffic like a boss.
@@ -1130,7 +1136,6 @@
 
 - [morluto/awesome-reverse-engineering](https://github.com/morluto/awesome-reverse-engineering) - Curated reverse-engineering tools and learning resources for binaries, apps, firmware, formats, and protocols.
 - [nomi-sec/PoC-in-GitHub](https://github.com/nomi-sec/PoC-in-GitHub) - 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware.
-- [0sec-labs/0](https://github.com/0sec-labs/0) - The AI offensive security OS - open, self-improving, extensible. Find, verify, and fix vulnerabilities 24/7.
 - [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
 - [hahwul/dalfox](https://github.com/hahwul/dalfox) - 🌙🦊 Dalfox is a powerful open-source XSS scanner and utility focused on automation.
 - [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Shannon is an AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production.
@@ -1173,7 +1178,7 @@
 ## security-tools 
 
 - [morluto/awesome-reverse-engineering](https://github.com/morluto/awesome-reverse-engineering) - Curated reverse-engineering tools and learning resources for binaries, apps, firmware, formats, and protocols.
-- [0sec-labs/0](https://github.com/0sec-labs/0) - The AI offensive security OS - open, self-improving, extensible. Find, verify, and fix vulnerabilities 24/7.
+- [0sec-labs/0](https://github.com/0sec-labs/0) - Open-source AI security harness with a local web UI for code review, vulnerability research, verification, and fixes. CLI and MCP for coding agents.
 - [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Shannon is an AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production.
 - [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find, verify, and analyze leaked credentials
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
