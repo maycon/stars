@@ -726,6 +726,7 @@
 
 ## mcp 
 
+- [fabio-rovai/open-ontologies](https://github.com/fabio-rovai/open-ontologies) - Plan, apply and roll back changes to a production ontology, with a blast radius report and a proof an auditor can re-check.
 - [morluto/awesome-reverse-engineering](https://github.com/morluto/awesome-reverse-engineering) - Curated reverse-engineering tools and learning resources for binaries, apps, firmware, formats, and protocols.
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [0sec-labs/0](https://github.com/0sec-labs/0) - Open-source AI security harness. Includes a web UI for code analysis, pentesting, vulnerability research, reverse engineering, verification, and fixing + CLI and MCP for agents.
@@ -1121,6 +1122,7 @@
 
 ## rust 
 
+- [fabio-rovai/open-ontologies](https://github.com/fabio-rovai/open-ontologies) - Plan, apply and roll back changes to a production ontology, with a blast radius report and a proof an auditor can re-check.
 - [hahwul/dalfox](https://github.com/hahwul/dalfox) - 🌙🦊 Dalfox is a powerful open-source XSS scanner and utility focused on automation.
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
 - [Aloxaf/silicon](https://github.com/Aloxaf/silicon) - Create beautiful image of your source code.
