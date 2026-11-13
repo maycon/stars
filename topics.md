@@ -60,6 +60,7 @@
 - [ethereum](#ethereum)
 - [fastapi](#fastapi)
 - [flask](#flask)
+- [flipperzero](#flipperzero)
 - [flutter](#flutter)
 - [framework](#framework)
 - [frontend](#frontend)
@@ -507,6 +508,10 @@
 - [dpgaspar/Flask-AppBuilder](https://github.com/dpgaspar/Flask-AppBuilder) - Simple and rapid application development framework, built on top of Flask. includes detailed security, auto CRUD generation for your models, google charts and much more. Demo (login with guest/welcome
 - [Allen7D/mini-shop-server](https://github.com/Allen7D/mini-shop-server) - 基于 Flask 框架开发的微信小程序后端项目，用于构建小程序商城后台 （电商相关；rbac权限管理；附带自动生成Swagger 风格的API 文档；可作「Python 项目毕设」）
 
+## flipperzero 
+
+- [flipperdevices/flipperzero-firmware](https://github.com/flipperdevices/flipperzero-firmware) - Flipper Zero firmware source code
+
 ## flutter 
 
 - [hackcatml/frida-flutterproxy](https://github.com/hackcatml/frida-flutterproxy) - Burp proxy flutter apps
@@ -565,6 +570,7 @@
 
 ## hacking 
 
+- [hackerschoice/gsocket](https://github.com/hackerschoice/gsocket) - Connect like there is no firewall. Securely.
 - [BitterSecurity/Decepticon](https://github.com/BitterSecurity/Decepticon) - Autonomous Hacking Agent for Red Team
 - [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
 - [HighCodeh/TentacleOS](https://github.com/HighCodeh/TentacleOS) - Firmware High Boy
@@ -921,7 +927,6 @@
 - [maycon/Magisk](https://github.com/maycon/Magisk) - The Magic Mask for Android
 - [maycon/jakshoo](https://github.com/maycon/jakshoo) - LD_PRELOAD rootkit
 - [hax0rgb/InsecureShop](https://github.com/hax0rgb/InsecureShop) - An Intentionally designed Vulnerable Android Application built in Kotlin.
-- [flipperdevices/flipperzero-firmware](https://github.com/flipperdevices/flipperzero-firmware) - Flipper Zero firmware source code
 - [0x90n/InfoSec-Black-Friday](https://github.com/0x90n/InfoSec-Black-Friday) - All the deals for InfoSec related software/tools this Black Friday
 - [ferreirasc/redteam-arsenal](https://github.com/ferreirasc/redteam-arsenal) - Some binaries/scripts that may be useful in red team/pentest exercises
 - [racerxdl/h2hc-rfvillage](https://github.com/racerxdl/h2hc-rfvillage) - H2HC 2022 - Radio Frequency Village
@@ -1164,6 +1169,7 @@
 
 ## security 
 
+- [hackerschoice/gsocket](https://github.com/hackerschoice/gsocket) - Connect like there is no firewall. Securely.
 - [morluto/awesome-reverse-engineering](https://github.com/morluto/awesome-reverse-engineering) - Curated reverse-engineering tools and learning resources for binaries, apps, firmware, formats, and protocols.
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [nomi-sec/PoC-in-GitHub](https://github.com/nomi-sec/PoC-in-GitHub) - 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware.
