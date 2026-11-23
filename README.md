@@ -46,7 +46,7 @@
 - [PerformanC/ReZygisk](https://github.com/PerformanC/ReZygisk) - Transparent implementation of Zygisk.
 - [netblue30/firejail](https://github.com/netblue30/firejail) - Linux namespaces and seccomp-bpf sandbox
 - [maximevince/fbDOOM](https://github.com/maximevince/fbDOOM) - fbDOOM
-- [HighCodeh/TentacleOS](https://github.com/HighCodeh/TentacleOS) - Firmware High Boy
+- [HighCodeh/TentacleOS](https://github.com/HighCodeh/TentacleOS) - Open-source firmware for High Boy, a dual-MCU cybersecurity multitool powered by ESP32-P4 and ESP32-C5. Explore Wi-Fi, BLE, NFC, RFID, infrared, and Sub-GHz in one device.
 - [talsec/Free-RASP-Flutter](https://github.com/talsec/Free-RASP-Flutter) - Flutter library for Android and iOS mobile devices. SDK providing threat detection and security monitoring. Shield your app with free RASP. Detect reverse engineering, root (Magisk), jailbreak, Frida,
 - [opa334/Dopamine](https://github.com/opa334/Dopamine) - Dopamine is a semi-untethered jailbreak for iOS 15 to 26(.0.1)
 - [shellphish/how2heap](https://github.com/shellphish/how2heap) - A repository for learning various heap exploitation techniques.
@@ -157,6 +157,7 @@
 
 ## Go 
 
+- [xalgorix/xalgorix](https://github.com/xalgorix/xalgorix) - Open-source AI penetration testing agent that exploit-verifies every finding. Autonomous 22-phase pentests of web apps & APIs with CVSS-scored PDF reports. Self-hosted, bring your own LLM, or run full
 - [refraction-networking/utls](https://github.com/refraction-networking/utls) - Fork of the Go standard TLS library, providing low-level access to the ClientHello for mimicry purposes.
 - [otavioarj/TREM](https://github.com/otavioarj/TREM) - Transactional Racing Executor Monkey - HTTP1.1/2 Race Condition Toolkit
 - [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find, verify, and analyze leaked credentials
@@ -327,6 +328,8 @@
 
 ## Python 
 
+- [aliasrobotics/cai](https://github.com/aliasrobotics/cai) - Cybersecurity AI (CAI), the framework for AI Security
+- [H-mmer/pentest-agents](https://github.com/H-mmer/pentest-agents) - Bug bounty agent framework for Claude Code, Codex, Gemini, Cursor, Windsurf, Copilot, and OpenClaw — 48 agents, 26 commands, 19 CLI tools, 2 MCP servers, autonomous hunt loops, exploit chain builder.
 - [BitterSecurity/Decepticon](https://github.com/BitterSecurity/Decepticon) - Autonomous Hacking Agent for Red Team
 - [morluto/awesome-reverse-engineering](https://github.com/morluto/awesome-reverse-engineering) - Curated reverse-engineering tools and learning resources for binaries, apps, firmware, formats, and protocols.
 - [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
